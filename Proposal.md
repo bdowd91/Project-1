@@ -1,4 +1,4 @@
-# Project Proposal: College Football Success
+# Project Proposal: Recruiting and Team Statistics and their impact on overall Program Success
 
 ## Team Members
 
