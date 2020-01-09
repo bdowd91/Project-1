@@ -1,0 +1,1982 @@
+year,id,team,school,mascot,abbreviation,conference,division,games,wins,losses,ties
+2004,2005,Air Force,Air Force,Falcons,AFA,Mountain West,,11,5,6,0
+2004,2006,Akron,Akron,Zips,AKR,Mid-American,East,11,6,5,0
+2004,333,Alabama,Alabama,Crimson Tide,ALA,SEC,West,11,6,5,0
+2004,12,Arizona,Arizona,Wildcats,ARIZ,Pac-10,,11,3,8,0
+2004,9,Arizona State,Arizona State,Sun Devils,ASU,Pac-10,,11,8,3,0
+2004,8,Arkansas,Arkansas,Razorbacks,ARK,SEC,West,11,5,6,0
+2004,2032,Arkansas State,Arkansas State,Red Wolves,ARST,Sun Belt,,11,3,8,0
+2004,349,Army,Army,Black Knights,ARMY,Conference USA,,11,2,9,0
+2004,2,Auburn,Auburn,Tigers,AUB,SEC,West,12,12,0,0
+2004,2050,Ball State,Ball State,Cardinals,BALL,Mid-American,West,11,2,9,0
+2004,239,Baylor,Baylor,Bears,BAY,Big 12,South,11,3,8,0
+2004,68,Boise State,Boise State,Broncos,BSU,Western Athletic,,11,11,0,0
+2004,103,Boston College,Boston College,Eagles,BC,Big East,,11,8,3,0
+2004,189,Bowling Green,Bowling Green,Falcons,BGSU,Mid-American,West,11,8,3,0
+2004,2084,Buffalo,Buffalo,Bulls,BUFF,Mid-American,East,11,2,9,0
+2004,252,BYU,BYU,Cougars,BYU,Mountain West,,11,5,6,0
+2004,25,California,California,Golden Bears,CAL,Pac-10,,11,10,1,0
+2004,2117,Central Michigan,Central Michigan,Chippewas,CMU,Mid-American,West,11,4,7,0
+2004,2132,Cincinnati,Cincinnati,Bearcats,CIN,Conference USA,,11,6,5,0
+2004,228,Clemson,Clemson,Tigers,CLEM,ACC,,11,6,5,0
+2004,38,Colorado,Colorado,Buffaloes,COLO,Big 12,North,12,7,5,0
+2004,36,Colorado State,Colorado State,Rams,CSU,Mountain West,,11,4,7,0
+2004,41,Connecticut,Connecticut,Huskies,CONN,Big East,,11,7,4,0
+2004,150,Duke,Duke,Blue Devils,DUKE,ACC,,11,2,9,0
+2004,151,East Carolina,East Carolina,Pirates,ECU,Conference USA,,11,2,9,0
+2004,2199,Eastern Michigan,Eastern Michigan,Eagles,EMU,Mid-American,West,11,4,7,0
+2004,57,Florida,Florida,Gators,FLA,SEC,East,11,7,4,0
+2004,50,Florida A&M,Florida A&M,Rattlers,FAMU,FBS Independents,,11,3,8,0
+2004,2226,Florida Atlantic,Florida Atlantic,Owls,FAU,Sun Belt,,12,9,3,0
+2004,2229,Florida International,Florida International,Golden Panthers,FIU,Sun Belt,,10,3,7,0
+2004,52,Florida State,Florida State,Seminoles,FSU,ACC,,11,8,3,0
+2004,278,Fresno State,Fresno State,Bulldogs,FRES,Western Athletic,,11,8,3,0
+2004,61,Georgia,Georgia,Bulldogs,UGA,SEC,East,11,9,2,0
+2004,59,Georgia Tech,Georgia Tech,Yellow Jackets,GT,ACC,,11,6,5,0
+2004,62,Hawai'i,Hawai'i,Rainbow Warriors,HAW,Western Athletic,,12,7,5,0
+2004,248,Houston,Houston,Cougars,HOU,Conference USA,,11,3,8,0
+2004,70,Idaho,Idaho,Vandals,IDHO,Sun Belt,,12,3,9,0
+2004,356,Illinois,Illinois,Fighting Illini,ILL,Big Ten,,11,3,8,0
+2004,84,Indiana,Indiana,Hoosiers,IND,Big Ten,,11,3,8,0
+2004,2294,Iowa,Iowa,Hawkeyes,IOWA,Big Ten,,11,9,2,0
+2004,66,Iowa State,Iowa State,Cyclones,ISU,Big 12,North,11,6,5,0
+2004,2305,Kansas,Kansas,Jayhawks,KU,Big 12,North,11,4,7,0
+2004,2306,Kansas State,Kansas State,Wildcats,KSU,Big 12,North,11,4,7,0
+2004,2309,Kent State,Kent State,Golden Flashes,KENT,Mid-American,East,11,5,6,0
+2004,96,Kentucky,Kentucky,Wildcats,UK,SEC,East,11,2,9,0
+2004,309,Louisiana,Louisiana,Ragin' Cajuns,ULL,Sun Belt,,11,4,7,0
+2004,2433,Louisiana Monroe,Louisiana Monroe,Warhawks,ULM,Sun Belt,,11,5,6,0
+2004,2348,Louisiana Tech,Louisiana Tech,Bulldogs,LT,Western Athletic,,12,6,6,0
+2004,97,Louisville,Louisville,Cardinals,LOU,Conference USA,,11,10,1,0
+2004,99,LSU,LSU,Tigers,LSU,SEC,West,11,9,2,0
+2004,276,Marshall,Marshall,Thundering Herd,MRSH,Mid-American,East,11,6,5,0
+2004,120,Maryland,Maryland,Terrapins,MD,ACC,,11,5,6,0
+2004,235,Memphis,Memphis,Tigers,MEM,Conference USA,,11,8,3,0
+2004,2390,Miami,Miami,Hurricanes,MIAMI,ACC,,11,8,3,0
+2004,193,Miami (OH),Miami (OH),RedHawks,M-OH,Mid-American,East,12,8,4,0
+2004,130,Michigan,Michigan,Wolverines,MICH,Big Ten,,11,9,2,0
+2004,127,Michigan State,Michigan State,Spartans,MSU,Big Ten,,12,5,7,0
+2004,2393,Middle Tennessee,Middle Tennessee,Blue Raiders,MTSU,Sun Belt,,11,5,6,0
+2004,135,Minnesota,Minnesota,Golden Gophers,MINN,Big Ten,,11,6,5,0
+2004,344,Mississippi State,Mississippi State,Bulldogs,MSST,SEC,West,11,3,8,0
+2004,142,Missouri,Missouri,Tigers,MIZ,Big 12,North,11,5,6,0
+2004,2426,Navy,Navy,Midshipmen,NAVY,FBS Independents,,11,9,2,0
+2004,152,NC State,NC State,Wolfpack,NCST,ACC,,11,5,6,0
+2004,158,Nebraska,Nebraska,Cornhuskers,NEB,Big 12,North,11,5,6,0
+2004,2440,Nevada,Nevada,Wolf Pack,NEV,Western Athletic,,12,5,7,0
+2004,167,New Mexico,New Mexico,Lobos,UNM,Mountain West,,11,7,4,0
+2004,166,New Mexico State,New Mexico State,Aggies,NMSU,Sun Belt,,11,5,6,0
+2004,153,North Carolina,North Carolina,Tar Heels,UNC,ACC,,11,6,5,0
+2004,2459,Northern Illinois,Northern Illinois,Huskies,NIU,Mid-American,West,11,8,3,0
+2004,249,North Texas,North Texas,Mean Green,UNT,Sun Belt,,11,7,4,0
+2004,77,Northwestern,Northwestern,Wildcats,NW,Big Ten,,12,6,6,0
+2004,87,Notre Dame,Notre Dame,Fighting Irish,ND,FBS Independents,,11,6,5,0
+2004,195,Ohio,Ohio,Bobcats,OHIO,Mid-American,East,11,4,7,0
+2004,194,Ohio State,Ohio State,Buckeyes,OSU,Big Ten,,11,7,4,0
+2004,201,Oklahoma,Oklahoma,Sooners,OKLA,Big 12,South,12,12,0,0
+2004,197,Oklahoma State,Oklahoma State,Cowboys,OKST,Big 12,South,11,7,4,0
+2004,145,Ole Miss,Ole Miss,Rebels,MISS,SEC,West,11,4,7,0
+2004,2483,Oregon,Oregon,Ducks,ORE,Pac-10,,11,5,6,0
+2004,204,Oregon State,Oregon State,Beavers,ORST,Pac-10,,11,6,5,0
+2004,213,Penn State,Penn State,Nittany Lions,PSU,Big Ten,,11,4,7,0
+2004,221,Pittsburgh,Pittsburgh,Panthers,PITT,Big East,,11,8,3,0
+2004,2509,Purdue,Purdue,Boilermakers,PUR,Big Ten,,11,7,4,0
+2004,242,Rice,Rice,Owls,RICE,Western Athletic,,11,3,8,0
+2004,164,Rutgers,Rutgers,Scarlet Knights,RUTG,Big East,,11,4,7,0
+2004,21,San Diego State,San Diego State,Aztecs,SDSU,Mountain West,,11,4,7,0
+2004,23,San José State,San José State,Spartans,SJSU,Western Athletic,,11,2,9,0
+2004,2567,SMU,SMU,Mustangs,SMU,Western Athletic,,11,3,8,0
+2004,2579,South Carolina,South Carolina,Gamecocks,SC,SEC,East,11,6,5,0
+2004,2572,Southern Mississippi,Southern Mississippi,Golden Eagles,USM,Conference USA,,11,6,5,0
+2004,58,South Florida,South Florida,Bulls,USF,Conference USA,,11,4,7,0
+2004,24,Stanford,Stanford,Cardinal,STAN,Pac-10,,11,4,7,0
+2004,183,Syracuse,Syracuse,Orange,SYR,Big East,,11,6,5,0
+2004,2628,TCU,TCU,Horned Frogs,TCU,Conference USA,,11,5,6,0
+2004,218,Temple,Temple,Owls,TEM,Big East,,11,2,9,0
+2004,2633,Tennessee,Tennessee,Volunteers,TENN,SEC,East,12,9,3,0
+2004,251,Texas,Texas,Longhorns,TEX,Big 12,South,11,10,1,0
+2004,245,Texas A&M,Texas A&M,Aggies,TA&M,Big 12,South,11,7,4,0
+2004,2641,Texas Tech,Texas Tech,Red Raiders,TTU,Big 12,South,11,7,4,0
+2004,2649,Toledo,Toledo,Rockets,TOL,Mid-American,West,12,9,3,0
+2004,2653,Troy,Troy,Trojans,TROY,Sun Belt,,11,7,4,0
+2004,2655,Tulane,Tulane,Green Wave,TULN,Conference USA,,11,5,6,0
+2004,202,Tulsa,Tulsa,Golden Hurricane,TLSA,Western Athletic,,12,4,8,0
+2004,5,UAB,UAB,Blazers,UAB,Conference USA,,11,7,4,0
+2004,2116,UCF,UCF,Knights,UCF,Mid-American,East,11,0,11,0
+2004,26,UCLA,UCLA,Bruins,UCLA,Pac-10,,11,6,5,0
+2004,2439,UNLV,UNLV,Rebels,UNLV,Mountain West,,11,2,9,0
+2004,30,USC,USC,Trojans,USC,Pac-10,,12,12,0,0
+2004,254,Utah,Utah,Utes,UTAH,Mountain West,,11,11,0,0
+2004,328,Utah State,Utah State,Aggies,USU,Sun Belt,,11,3,8,0
+2004,2638,UTEP,UTEP,Miners,UTEP,Western Athletic,,11,8,3,0
+2004,238,Vanderbilt,Vanderbilt,Commodores,VAN,SEC,East,11,2,9,0
+2004,258,Virginia,Virginia,Cavaliers,UVA,ACC,,11,8,3,0
+2004,259,Virginia Tech,Virginia Tech,Hokies,VT,ACC,,12,10,2,0
+2004,154,Wake Forest,Wake Forest,Demon Deacons,WAKE,ACC,,11,4,7,0
+2004,264,Washington,Washington,Huskies,WASH,Pac-10,,11,1,10,0
+2004,265,Washington State,Washington State,Cougars,WSU,Pac-10,,11,5,6,0
+2004,2711,Western Michigan,Western Michigan,Broncos,WMU,Mid-American,West,11,1,10,0
+2004,277,West Virginia,West Virginia,Mountaineers,WVU,Big East,,11,8,3,0
+2004,275,Wisconsin,Wisconsin,Badgers,WIS,Big Ten,,11,9,2,0
+2004,2751,Wyoming,Wyoming,Cowboys,WYO,Mountain West,,11,6,5,0
+2005,2005,Air Force,Air Force,Falcons,AFA,Mountain West,,11,4,7,0
+2005,2006,Akron,Akron,Zips,AKR,Mid-American,East,12,7,5,0
+2005,333,Alabama,Alabama,Crimson Tide,ALA,SEC,West,11,9,2,0
+2005,12,Arizona,Arizona,Wildcats,ARIZ,Pac-10,,11,3,8,0
+2005,9,Arizona State,Arizona State,Sun Devils,ASU,Pac-10,,11,6,5,0
+2005,8,Arkansas,Arkansas,Razorbacks,ARK,SEC,West,11,4,7,0
+2005,2032,Arkansas State,Arkansas State,Red Wolves,ARST,Sun Belt,,11,6,5,0
+2005,349,Army,Army,Black Knights,ARMY,FBS Independents,,11,4,7,0
+2005,2,Auburn,Auburn,Tigers,AUB,SEC,West,11,9,2,0
+2005,2050,Ball State,Ball State,Cardinals,BALL,Mid-American,West,11,4,7,0
+2005,239,Baylor,Baylor,Bears,BAY,Big 12,South,11,5,6,0
+2005,68,Boise State,Boise State,Broncos,BSU,Western Athletic,,12,9,3,0
+2005,103,Boston College,Boston College,Eagles,BC,ACC,Atlantic,11,8,3,0
+2005,189,Bowling Green,Bowling Green,Falcons,BGSU,Mid-American,East,11,6,5,0
+2005,2084,Buffalo,Buffalo,Bulls,BUFF,Mid-American,East,11,1,10,0
+2005,252,BYU,BYU,Cougars,BYU,Mountain West,,11,6,5,0
+2005,25,California,California,Golden Bears,CAL,Pac-10,,11,7,4,0
+2005,2117,Central Michigan,Central Michigan,Chippewas,CMU,Mid-American,West,11,6,5,0
+2005,2132,Cincinnati,Cincinnati,Bearcats,CIN,Big East,,11,4,7,0
+2005,228,Clemson,Clemson,Tigers,CLEM,ACC,Atlantic,11,7,4,0
+2005,38,Colorado,Colorado,Buffaloes,COLO,Big 12,North,12,7,5,0
+2005,36,Colorado State,Colorado State,Rams,CSU,Mountain West,,11,6,5,0
+2005,41,Connecticut,Connecticut,Huskies,CONN,Big East,,11,5,6,0
+2005,150,Duke,Duke,Blue Devils,DUKE,ACC,Coastal,11,1,10,0
+2005,151,East Carolina,East Carolina,Pirates,ECU,Conference USA,East,11,5,6,0
+2005,2199,Eastern Michigan,Eastern Michigan,Eagles,EMU,Mid-American,West,11,4,7,0
+2005,57,Florida,Florida,Gators,FLA,SEC,East,11,8,3,0
+2005,2226,Florida Atlantic,Florida Atlantic,Owls,FAU,Sun Belt,,11,2,9,0
+2005,2229,Florida International,Florida International,Golden Panthers,FIU,Sun Belt,,11,5,6,0
+2005,52,Florida State,Florida State,Seminoles,FSU,ACC,Atlantic,12,8,4,0
+2005,278,Fresno State,Fresno State,Bulldogs,FRES,Western Athletic,,12,8,4,0
+2005,61,Georgia,Georgia,Bulldogs,UGA,SEC,East,12,10,2,0
+2005,59,Georgia Tech,Georgia Tech,Yellow Jackets,GT,ACC,Coastal,11,7,4,0
+2005,62,Hawai'i,Hawai'i,Rainbow Warriors,HAW,Western Athletic,,12,5,7,0
+2005,248,Houston,Houston,Cougars,HOU,Conference USA,West,11,6,5,0
+2005,70,Idaho,Idaho,Vandals,IDHO,Western Athletic,,11,2,9,0
+2005,356,Illinois,Illinois,Fighting Illini,ILL,Big Ten,,11,2,9,0
+2005,84,Indiana,Indiana,Hoosiers,IND,Big Ten,,11,4,7,0
+2005,2294,Iowa,Iowa,Hawkeyes,IOWA,Big Ten,,11,7,4,0
+2005,66,Iowa State,Iowa State,Cyclones,ISU,Big 12,North,11,7,4,0
+2005,2305,Kansas,Kansas,Jayhawks,KU,Big 12,North,11,6,5,0
+2005,2306,Kansas State,Kansas State,Wildcats,KSU,Big 12,North,11,5,6,0
+2005,2309,Kent State,Kent State,Golden Flashes,KENT,Mid-American,East,11,1,10,0
+2005,96,Kentucky,Kentucky,Wildcats,UK,SEC,East,11,3,8,0
+2005,309,Louisiana,Louisiana,Ragin' Cajuns,ULL,Sun Belt,,11,6,5,0
+2005,2433,Louisiana Monroe,Louisiana Monroe,Warhawks,ULM,Sun Belt,,11,5,6,0
+2005,2348,Louisiana Tech,Louisiana Tech,Bulldogs,LT,Western Athletic,,11,7,4,0
+2005,97,Louisville,Louisville,Cardinals,LOU,Big East,,11,9,2,0
+2005,99,LSU,LSU,Tigers,LSU,SEC,West,12,10,2,0
+2005,276,Marshall,Marshall,Thundering Herd,MRSH,Conference USA,East,11,4,7,0
+2005,120,Maryland,Maryland,Terrapins,MD,ACC,Atlantic,11,5,6,0
+2005,235,Memphis,Memphis,Tigers,MEM,Conference USA,East,11,6,5,0
+2005,2390,Miami,Miami,Hurricanes,MIAMI,ACC,Coastal,11,9,2,0
+2005,193,Miami (OH),Miami (OH),RedHawks,M-OH,Mid-American,East,11,7,4,0
+2005,130,Michigan,Michigan,Wolverines,MICH,Big Ten,,11,7,4,0
+2005,127,Michigan State,Michigan State,Spartans,MSU,Big Ten,,11,5,6,0
+2005,2393,Middle Tennessee,Middle Tennessee,Blue Raiders,MTSU,Sun Belt,,11,4,7,0
+2005,135,Minnesota,Minnesota,Golden Gophers,MINN,Big Ten,,11,7,4,0
+2005,344,Mississippi State,Mississippi State,Bulldogs,MSST,SEC,West,11,3,8,0
+2005,142,Missouri,Missouri,Tigers,MIZ,Big 12,North,11,6,5,0
+2005,2426,Navy,Navy,Midshipmen,NAVY,FBS Independents,,11,7,4,0
+2005,152,NC State,NC State,Wolfpack,NCST,ACC,Atlantic,11,6,5,0
+2005,158,Nebraska,Nebraska,Cornhuskers,NEB,Big 12,North,11,7,4,0
+2005,2440,Nevada,Nevada,Wolf Pack,NEV,Western Athletic,,11,8,3,0
+2005,167,New Mexico,New Mexico,Lobos,UNM,Mountain West,,11,6,5,0
+2005,166,New Mexico State,New Mexico State,Aggies,NMSU,Western Athletic,,12,0,12,0
+2005,153,North Carolina,North Carolina,Tar Heels,UNC,ACC,Coastal,11,5,6,0
+2005,2459,Northern Illinois,Northern Illinois,Huskies,NIU,Mid-American,West,12,7,5,0
+2005,249,North Texas,North Texas,Mean Green,UNT,Sun Belt,,11,2,9,0
+2005,77,Northwestern,Northwestern,Wildcats,NW,Big Ten,,11,7,4,0
+2005,87,Notre Dame,Notre Dame,Fighting Irish,ND,FBS Independents,,11,9,2,0
+2005,195,Ohio,Ohio,Bobcats,OHIO,Mid-American,East,11,4,7,0
+2005,194,Ohio State,Ohio State,Buckeyes,OSU,Big Ten,,11,9,2,0
+2005,201,Oklahoma,Oklahoma,Sooners,OKLA,Big 12,South,11,7,4,0
+2005,197,Oklahoma State,Oklahoma State,Cowboys,OKST,Big 12,South,11,4,7,0
+2005,145,Ole Miss,Ole Miss,Rebels,MISS,SEC,West,11,3,8,0
+2005,2483,Oregon,Oregon,Ducks,ORE,Pac-10,,11,10,1,0
+2005,204,Oregon State,Oregon State,Beavers,ORST,Pac-10,,11,5,6,0
+2005,213,Penn State,Penn State,Nittany Lions,PSU,Big Ten,,11,10,1,0
+2005,221,Pittsburgh,Pittsburgh,Panthers,PITT,Big East,,11,5,6,0
+2005,2509,Purdue,Purdue,Boilermakers,PUR,Big Ten,,11,5,6,0
+2005,242,Rice,Rice,Owls,RICE,Conference USA,West,11,1,10,0
+2005,164,Rutgers,Rutgers,Scarlet Knights,RUTG,Big East,,11,7,4,0
+2005,21,San Diego State,San Diego State,Aztecs,SDSU,Mountain West,,12,5,7,0
+2005,23,San José State,San José State,Spartans,SJSU,Western Athletic,,11,3,8,0
+2005,2567,SMU,SMU,Mustangs,SMU,Conference USA,West,11,5,6,0
+2005,2579,South Carolina,South Carolina,Gamecocks,SC,SEC,East,11,7,4,0
+2005,2572,Southern Mississippi,Southern Mississippi,Golden Eagles,USM,Conference USA,East,11,6,5,0
+2005,58,South Florida,South Florida,Bulls,USF,Big East,,11,6,5,0
+2005,24,Stanford,Stanford,Cardinal,STAN,Pac-10,,11,5,6,0
+2005,183,Syracuse,Syracuse,Orange,SYR,Big East,,11,1,10,0
+2005,2628,TCU,TCU,Horned Frogs,TCU,Mountain West,,11,10,1,0
+2005,218,Temple,Temple,Owls,TEM,FBS Independents,,11,0,11,0
+2005,2633,Tennessee,Tennessee,Volunteers,TENN,SEC,East,11,5,6,0
+2005,251,Texas,Texas,Longhorns,TEX,Big 12,South,12,12,0,0
+2005,245,Texas A&M,Texas A&M,Aggies,TA&M,Big 12,South,11,5,6,0
+2005,2641,Texas Tech,Texas Tech,Red Raiders,TTU,Big 12,South,11,9,2,0
+2005,2649,Toledo,Toledo,Rockets,TOL,Mid-American,West,11,8,3,0
+2005,2653,Troy,Troy,Trojans,TROY,Sun Belt,,11,4,7,0
+2005,2655,Tulane,Tulane,Green Wave,TULN,Conference USA,West,11,2,9,0
+2005,202,Tulsa,Tulsa,Golden Hurricane,TLSA,Conference USA,West,12,8,4,0
+2005,5,UAB,UAB,Blazers,UAB,Conference USA,East,11,5,6,0
+2005,2116,UCF,UCF,Knights,UCF,Conference USA,East,12,8,4,0
+2005,26,UCLA,UCLA,Bruins,UCLA,Pac-10,,11,9,2,0
+2005,2439,UNLV,UNLV,Rebels,UNLV,Mountain West,,11,2,9,0
+2005,30,USC,USC,Trojans,USC,Pac-10,,12,12,0,0
+2005,254,Utah,Utah,Utes,UTAH,Mountain West,,11,6,5,0
+2005,328,Utah State,Utah State,Aggies,USU,Western Athletic,,11,3,8,0
+2005,2638,UTEP,UTEP,Miners,UTEP,Conference USA,West,11,8,3,0
+2005,238,Vanderbilt,Vanderbilt,Commodores,VAN,SEC,East,11,5,6,0
+2005,258,Virginia,Virginia,Cavaliers,UVA,ACC,Coastal,11,6,5,0
+2005,259,Virginia Tech,Virginia Tech,Hokies,VT,ACC,Coastal,12,10,2,0
+2005,154,Wake Forest,Wake Forest,Demon Deacons,WAKE,ACC,Atlantic,11,4,7,0
+2005,264,Washington,Washington,Huskies,WASH,Pac-10,,11,2,9,0
+2005,265,Washington State,Washington State,Cougars,WSU,Pac-10,,11,4,7,0
+2005,2711,Western Michigan,Western Michigan,Broncos,WMU,Mid-American,West,11,7,4,0
+2005,277,West Virginia,West Virginia,Mountaineers,WVU,Big East,,11,10,1,0
+2005,275,Wisconsin,Wisconsin,Badgers,WIS,Big Ten,,12,9,3,0
+2005,2751,Wyoming,Wyoming,Cowboys,WYO,Mountain West,,11,4,7,0
+2006,2005,Air Force,Air Force,Falcons,AFA,Mountain West,,12,4,8,0
+2006,2006,Akron,Akron,Zips,AKR,Mid-American,East,12,5,7,0
+2006,333,Alabama,Alabama,Crimson Tide,ALA,SEC,West,12,6,6,0
+2006,12,Arizona,Arizona,Wildcats,ARIZ,Pac-10,,12,6,6,0
+2006,9,Arizona State,Arizona State,Sun Devils,ASU,Pac-10,,12,7,5,0
+2006,8,Arkansas,Arkansas,Razorbacks,ARK,SEC,West,13,10,3,0
+2006,2032,Arkansas State,Arkansas State,Red Wolves,ARST,Sun Belt,,12,6,6,0
+2006,349,Army,Army,Black Knights,ARMY,FBS Independents,,12,3,9,0
+2006,2,Auburn,Auburn,Tigers,AUB,SEC,West,12,10,2,0
+2006,2050,Ball State,Ball State,Cardinals,BALL,Mid-American,West,12,5,7,0
+2006,239,Baylor,Baylor,Bears,BAY,Big 12,South,12,4,8,0
+2006,68,Boise State,Boise State,Broncos,BSU,Western Athletic,,12,12,0,0
+2006,103,Boston College,Boston College,Eagles,BC,ACC,Atlantic,12,9,3,0
+2006,189,Bowling Green,Bowling Green,Falcons,BGSU,Mid-American,East,12,4,8,0
+2006,2084,Buffalo,Buffalo,Bulls,BUFF,Mid-American,East,12,2,10,0
+2006,252,BYU,BYU,Cougars,BYU,Mountain West,,12,10,2,0
+2006,25,California,California,Golden Bears,CAL,Pac-10,,12,9,3,0
+2006,2117,Central Michigan,Central Michigan,Chippewas,CMU,Mid-American,West,13,9,4,0
+2006,2132,Cincinnati,Cincinnati,Bearcats,CIN,Big East,,12,7,5,0
+2006,228,Clemson,Clemson,Tigers,CLEM,ACC,Atlantic,12,8,4,0
+2006,38,Colorado,Colorado,Buffaloes,COLO,Big 12,North,12,2,10,0
+2006,36,Colorado State,Colorado State,Rams,CSU,Mountain West,,12,4,8,0
+2006,41,Connecticut,Connecticut,Huskies,CONN,Big East,,12,4,8,0
+2006,150,Duke,Duke,Blue Devils,DUKE,ACC,Coastal,12,0,12,0
+2006,151,East Carolina,East Carolina,Pirates,ECU,Conference USA,East,12,7,5,0
+2006,2199,Eastern Michigan,Eastern Michigan,Eagles,EMU,Mid-American,West,12,1,11,0
+2006,57,Florida,Florida,Gators,FLA,SEC,East,13,12,1,0
+2006,2226,Florida Atlantic,Florida Atlantic,Owls,FAU,Sun Belt,,12,5,7,0
+2006,2229,Florida International,Florida International,Golden Panthers,FIU,Sun Belt,,12,0,12,0
+2006,52,Florida State,Florida State,Seminoles,FSU,ACC,Atlantic,12,6,6,0
+2006,278,Fresno State,Fresno State,Bulldogs,FRES,Western Athletic,,12,4,8,0
+2006,61,Georgia,Georgia,Bulldogs,UGA,SEC,East,12,8,4,0
+2006,59,Georgia Tech,Georgia Tech,Yellow Jackets,GT,ACC,Coastal,13,9,4,0
+2006,62,Hawai'i,Hawai'i,Rainbow Warriors,HAW,Western Athletic,,13,10,3,0
+2006,248,Houston,Houston,Cougars,HOU,Conference USA,West,13,10,3,0
+2006,70,Idaho,Idaho,Vandals,IDHO,Western Athletic,,12,4,8,0
+2006,356,Illinois,Illinois,Fighting Illini,ILL,Big Ten,,12,2,10,0
+2006,84,Indiana,Indiana,Hoosiers,IND,Big Ten,,12,5,7,0
+2006,2294,Iowa,Iowa,Hawkeyes,IOWA,Big Ten,,12,6,6,0
+2006,66,Iowa State,Iowa State,Cyclones,ISU,Big 12,North,12,4,8,0
+2006,2305,Kansas,Kansas,Jayhawks,KU,Big 12,North,12,6,6,0
+2006,2306,Kansas State,Kansas State,Wildcats,KSU,Big 12,North,12,7,5,0
+2006,2309,Kent State,Kent State,Golden Flashes,KENT,Mid-American,East,12,6,6,0
+2006,96,Kentucky,Kentucky,Wildcats,UK,SEC,East,12,7,5,0
+2006,309,Louisiana,Louisiana,Ragin' Cajuns,ULL,Sun Belt,,12,6,6,0
+2006,2433,Louisiana Monroe,Louisiana Monroe,Warhawks,ULM,Sun Belt,,12,4,8,0
+2006,2348,Louisiana Tech,Louisiana Tech,Bulldogs,LT,Western Athletic,,13,3,10,0
+2006,97,Louisville,Louisville,Cardinals,LOU,Big East,,12,11,1,0
+2006,99,LSU,LSU,Tigers,LSU,SEC,West,12,10,2,0
+2006,276,Marshall,Marshall,Thundering Herd,MRSH,Conference USA,East,12,5,7,0
+2006,120,Maryland,Maryland,Terrapins,MD,ACC,Atlantic,12,8,4,0
+2006,235,Memphis,Memphis,Tigers,MEM,Conference USA,East,12,2,10,0
+2006,2390,Miami,Miami,Hurricanes,MIAMI,ACC,Coastal,12,6,6,0
+2006,193,Miami (OH),Miami (OH),RedHawks,M-OH,Mid-American,East,12,2,10,0
+2006,130,Michigan,Michigan,Wolverines,MICH,Big Ten,,12,11,1,0
+2006,127,Michigan State,Michigan State,Spartans,MSU,Big Ten,,12,4,8,0
+2006,2393,Middle Tennessee,Middle Tennessee,Blue Raiders,MTSU,Sun Belt,,12,7,5,0
+2006,135,Minnesota,Minnesota,Golden Gophers,MINN,Big Ten,,12,6,6,0
+2006,344,Mississippi State,Mississippi State,Bulldogs,MSST,SEC,West,12,3,9,0
+2006,142,Missouri,Missouri,Tigers,MIZ,Big 12,North,12,8,4,0
+2006,2426,Navy,Navy,Midshipmen,NAVY,FBS Independents,,12,9,3,0
+2006,152,NC State,NC State,Wolfpack,NCST,ACC,Atlantic,12,3,9,0
+2006,158,Nebraska,Nebraska,Cornhuskers,NEB,Big 12,North,13,9,4,0
+2006,2440,Nevada,Nevada,Wolf Pack,NEV,Western Athletic,,12,8,4,0
+2006,167,New Mexico,New Mexico,Lobos,UNM,Mountain West,,12,6,6,0
+2006,166,New Mexico State,New Mexico State,Aggies,NMSU,Western Athletic,,12,4,8,0
+2006,153,North Carolina,North Carolina,Tar Heels,UNC,ACC,Coastal,12,3,9,0
+2006,2459,Northern Illinois,Northern Illinois,Huskies,NIU,Mid-American,West,12,7,5,0
+2006,249,North Texas,North Texas,Mean Green,UNT,Sun Belt,,12,3,9,0
+2006,77,Northwestern,Northwestern,Wildcats,NW,Big Ten,,12,4,8,0
+2006,87,Notre Dame,Notre Dame,Fighting Irish,ND,FBS Independents,,12,10,2,0
+2006,195,Ohio,Ohio,Bobcats,OHIO,Mid-American,East,13,9,4,0
+2006,194,Ohio State,Ohio State,Buckeyes,OSU,Big Ten,,12,12,0,0
+2006,201,Oklahoma,Oklahoma,Sooners,OKLA,Big 12,South,13,11,2,0
+2006,197,Oklahoma State,Oklahoma State,Cowboys,OKST,Big 12,South,12,6,6,0
+2006,145,Ole Miss,Ole Miss,Rebels,MISS,SEC,West,12,4,8,0
+2006,2483,Oregon,Oregon,Ducks,ORE,Pac-10,,12,7,5,0
+2006,204,Oregon State,Oregon State,Beavers,ORST,Pac-10,,13,9,4,0
+2006,213,Penn State,Penn State,Nittany Lions,PSU,Big Ten,,12,8,4,0
+2006,221,Pittsburgh,Pittsburgh,Panthers,PITT,Big East,,12,6,6,0
+2006,2509,Purdue,Purdue,Boilermakers,PUR,Big Ten,,13,8,5,0
+2006,242,Rice,Rice,Owls,RICE,Conference USA,West,12,7,5,0
+2006,164,Rutgers,Rutgers,Scarlet Knights,RUTG,Big East,,12,10,2,0
+2006,21,San Diego State,San Diego State,Aztecs,SDSU,Mountain West,,12,3,9,0
+2006,23,San José State,San José State,Spartans,SJSU,Western Athletic,,12,8,4,0
+2006,2567,SMU,SMU,Mustangs,SMU,Conference USA,West,12,6,6,0
+2006,2579,South Carolina,South Carolina,Gamecocks,SC,SEC,East,12,7,5,0
+2006,2572,Southern Mississippi,Southern Mississippi,Golden Eagles,USM,Conference USA,East,13,8,5,0
+2006,58,South Florida,South Florida,Bulls,USF,Big East,,12,8,4,0
+2006,24,Stanford,Stanford,Cardinal,STAN,Pac-10,,12,1,11,0
+2006,183,Syracuse,Syracuse,Orange,SYR,Big East,,12,4,8,0
+2006,2628,TCU,TCU,Horned Frogs,TCU,Mountain West,,12,10,2,0
+2006,218,Temple,Temple,Owls,TEM,FBS Independents,,12,1,11,0
+2006,2633,Tennessee,Tennessee,Volunteers,TENN,SEC,East,12,9,3,0
+2006,251,Texas,Texas,Longhorns,TEX,Big 12,South,12,9,3,0
+2006,245,Texas A&M,Texas A&M,Aggies,TA&M,Big 12,South,12,9,3,0
+2006,2641,Texas Tech,Texas Tech,Red Raiders,TTU,Big 12,South,12,7,5,0
+2006,2649,Toledo,Toledo,Rockets,TOL,Mid-American,West,12,5,7,0
+2006,2653,Troy,Troy,Trojans,TROY,Sun Belt,,12,7,5,0
+2006,2655,Tulane,Tulane,Green Wave,TULN,Conference USA,West,12,4,8,0
+2006,202,Tulsa,Tulsa,Golden Hurricane,TLSA,Conference USA,West,12,8,4,0
+2006,5,UAB,UAB,Blazers,UAB,Conference USA,East,12,3,9,0
+2006,2116,UCF,UCF,Knights,UCF,Conference USA,East,12,4,8,0
+2006,26,UCLA,UCLA,Bruins,UCLA,Pac-10,,12,7,5,0
+2006,2439,UNLV,UNLV,Rebels,UNLV,Mountain West,,12,2,10,0
+2006,30,USC,USC,Trojans,USC,Pac-10,,12,10,2,0
+2006,254,Utah,Utah,Utes,UTAH,Mountain West,,12,7,5,0
+2006,328,Utah State,Utah State,Aggies,USU,Western Athletic,,12,1,11,0
+2006,2638,UTEP,UTEP,Miners,UTEP,Conference USA,West,12,5,7,0
+2006,238,Vanderbilt,Vanderbilt,Commodores,VAN,SEC,East,12,4,8,0
+2006,258,Virginia,Virginia,Cavaliers,UVA,ACC,Coastal,12,5,7,0
+2006,259,Virginia Tech,Virginia Tech,Hokies,VT,ACC,Coastal,12,10,2,0
+2006,154,Wake Forest,Wake Forest,Demon Deacons,WAKE,ACC,Atlantic,13,11,2,0
+2006,264,Washington,Washington,Huskies,WASH,Pac-10,,12,5,7,0
+2006,265,Washington State,Washington State,Cougars,WSU,Pac-10,,12,6,6,0
+2006,2711,Western Michigan,Western Michigan,Broncos,WMU,Mid-American,West,12,8,4,0
+2006,277,West Virginia,West Virginia,Mountaineers,WVU,Big East,,12,10,2,0
+2006,275,Wisconsin,Wisconsin,Badgers,WIS,Big Ten,,12,11,1,0
+2006,2751,Wyoming,Wyoming,Cowboys,WYO,Mountain West,,12,6,6,0
+2007,2005,Air Force,Air Force,Falcons,AFA,Mountain West,,12,9,3,0
+2007,2006,Akron,Akron,Zips,AKR,Mid-American,East,12,4,8,0
+2007,333,Alabama,Alabama,Crimson Tide,ALA,SEC,West,12,6,6,0
+2007,12,Arizona,Arizona,Wildcats,ARIZ,Pac-10,,12,5,7,0
+2007,9,Arizona State,Arizona State,Sun Devils,ASU,Pac-10,,12,10,2,0
+2007,8,Arkansas,Arkansas,Razorbacks,ARK,SEC,West,12,8,4,0
+2007,2032,Arkansas State,Arkansas State,Red Wolves,ARST,Sun Belt,,12,5,7,0
+2007,349,Army,Army,Black Knights,ARMY,FBS Independents,,12,3,9,0
+2007,2,Auburn,Auburn,Tigers,AUB,SEC,West,12,8,4,0
+2007,2050,Ball State,Ball State,Cardinals,BALL,Mid-American,West,12,7,5,0
+2007,239,Baylor,Baylor,Bears,BAY,Big 12,South,12,3,9,0
+2007,68,Boise State,Boise State,Broncos,BSU,Western Athletic,,12,10,2,0
+2007,103,Boston College,Boston College,Eagles,BC,ACC,Atlantic,13,10,3,0
+2007,189,Bowling Green,Bowling Green,Falcons,BGSU,Mid-American,East,12,8,4,0
+2007,2084,Buffalo,Buffalo,Bulls,BUFF,Mid-American,East,12,5,7,0
+2007,252,BYU,BYU,Cougars,BYU,Mountain West,,12,10,2,0
+2007,25,California,California,Golden Bears,CAL,Pac-10,,12,6,6,0
+2007,2117,Central Michigan,Central Michigan,Chippewas,CMU,Mid-American,West,13,8,5,0
+2007,2132,Cincinnati,Cincinnati,Bearcats,CIN,Big East,,12,9,3,0
+2007,228,Clemson,Clemson,Tigers,CLEM,ACC,Atlantic,12,9,3,0
+2007,38,Colorado,Colorado,Buffaloes,COLO,Big 12,North,12,6,6,0
+2007,36,Colorado State,Colorado State,Rams,CSU,Mountain West,,12,3,9,0
+2007,41,Connecticut,Connecticut,Huskies,CONN,Big East,,12,9,3,0
+2007,150,Duke,Duke,Blue Devils,DUKE,ACC,Coastal,12,1,11,0
+2007,151,East Carolina,East Carolina,Pirates,ECU,Conference USA,East,12,7,5,0
+2007,2199,Eastern Michigan,Eastern Michigan,Eagles,EMU,Mid-American,West,12,4,8,0
+2007,57,Florida,Florida,Gators,FLA,SEC,East,12,9,3,0
+2007,2226,Florida Atlantic,Florida Atlantic,Owls,FAU,Sun Belt,,12,7,5,0
+2007,2229,Florida International,Florida International,Golden Panthers,FIU,Sun Belt,,12,1,11,0
+2007,52,Florida State,Florida State,Seminoles,FSU,ACC,Atlantic,12,7,5,0
+2007,278,Fresno State,Fresno State,Bulldogs,FRES,Western Athletic,,12,8,4,0
+2007,61,Georgia,Georgia,Bulldogs,UGA,SEC,East,12,10,2,0
+2007,59,Georgia Tech,Georgia Tech,Yellow Jackets,GT,ACC,Coastal,12,7,5,0
+2007,62,Hawai'i,Hawai'i,Rainbow Warriors,HAW,Western Athletic,,12,12,0,0
+2007,248,Houston,Houston,Cougars,HOU,Conference USA,West,12,8,4,0
+2007,70,Idaho,Idaho,Vandals,IDHO,Western Athletic,,12,1,11,0
+2007,356,Illinois,Illinois,Fighting Illini,ILL,Big Ten,,12,9,3,0
+2007,84,Indiana,Indiana,Hoosiers,IND,Big Ten,,12,7,5,0
+2007,2294,Iowa,Iowa,Hawkeyes,IOWA,Big Ten,,12,6,6,0
+2007,66,Iowa State,Iowa State,Cyclones,ISU,Big 12,North,12,3,9,0
+2007,2305,Kansas,Kansas,Jayhawks,KU,Big 12,North,12,11,1,0
+2007,2306,Kansas State,Kansas State,Wildcats,KSU,Big 12,North,12,5,7,0
+2007,2309,Kent State,Kent State,Golden Flashes,KENT,Mid-American,East,12,3,9,0
+2007,96,Kentucky,Kentucky,Wildcats,UK,SEC,East,12,7,5,0
+2007,309,Louisiana,Louisiana,Ragin' Cajuns,ULL,Sun Belt,,12,3,9,0
+2007,2433,Louisiana Monroe,Louisiana Monroe,Warhawks,ULM,Sun Belt,,12,6,6,0
+2007,2348,Louisiana Tech,Louisiana Tech,Bulldogs,LT,Western Athletic,,12,5,7,0
+2007,97,Louisville,Louisville,Cardinals,LOU,Big East,,12,6,6,0
+2007,99,LSU,LSU,Tigers,LSU,SEC,West,13,11,2,0
+2007,276,Marshall,Marshall,Thundering Herd,MRSH,Conference USA,East,12,3,9,0
+2007,120,Maryland,Maryland,Terrapins,MD,ACC,Atlantic,12,6,6,0
+2007,235,Memphis,Memphis,Tigers,MEM,Conference USA,East,12,7,5,0
+2007,2390,Miami,Miami,Hurricanes,MIAMI,ACC,Coastal,12,5,7,0
+2007,193,Miami (OH),Miami (OH),RedHawks,M-OH,Mid-American,East,13,6,7,0
+2007,130,Michigan,Michigan,Wolverines,MICH,Big Ten,,12,8,4,0
+2007,127,Michigan State,Michigan State,Spartans,MSU,Big Ten,,12,7,5,0
+2007,2393,Middle Tennessee,Middle Tennessee,Blue Raiders,MTSU,Sun Belt,,12,5,7,0
+2007,135,Minnesota,Minnesota,Golden Gophers,MINN,Big Ten,,12,1,11,0
+2007,344,Mississippi State,Mississippi State,Bulldogs,MSST,SEC,West,12,7,5,0
+2007,142,Missouri,Missouri,Tigers,MIZ,Big 12,North,13,11,2,0
+2007,2426,Navy,Navy,Midshipmen,NAVY,FBS Independents,,12,8,4,0
+2007,152,NC State,NC State,Wolfpack,NCST,ACC,Atlantic,12,5,7,0
+2007,158,Nebraska,Nebraska,Cornhuskers,NEB,Big 12,North,12,5,7,0
+2007,2440,Nevada,Nevada,Wolf Pack,NEV,Western Athletic,,12,6,6,0
+2007,167,New Mexico,New Mexico,Lobos,UNM,Mountain West,,12,8,4,0
+2007,166,New Mexico State,New Mexico State,Aggies,NMSU,Western Athletic,,13,4,9,0
+2007,153,North Carolina,North Carolina,Tar Heels,UNC,ACC,Coastal,12,4,8,0
+2007,2459,Northern Illinois,Northern Illinois,Huskies,NIU,Mid-American,West,12,2,10,0
+2007,249,North Texas,North Texas,Mean Green,UNT,Sun Belt,,12,2,10,0
+2007,77,Northwestern,Northwestern,Wildcats,NW,Big Ten,,12,6,6,0
+2007,87,Notre Dame,Notre Dame,Fighting Irish,ND,FBS Independents,,12,3,9,0
+2007,195,Ohio,Ohio,Bobcats,OHIO,Mid-American,East,12,6,6,0
+2007,194,Ohio State,Ohio State,Buckeyes,OSU,Big Ten,,12,11,1,0
+2007,201,Oklahoma,Oklahoma,Sooners,OKLA,Big 12,South,13,11,2,0
+2007,197,Oklahoma State,Oklahoma State,Cowboys,OKST,Big 12,South,12,6,6,0
+2007,145,Ole Miss,Ole Miss,Rebels,MISS,SEC,West,12,3,9,0
+2007,2483,Oregon,Oregon,Ducks,ORE,Pac-10,,12,8,4,0
+2007,204,Oregon State,Oregon State,Beavers,ORST,Pac-10,,12,8,4,0
+2007,213,Penn State,Penn State,Nittany Lions,PSU,Big Ten,,12,8,4,0
+2007,221,Pittsburgh,Pittsburgh,Panthers,PITT,Big East,,12,5,7,0
+2007,2509,Purdue,Purdue,Boilermakers,PUR,Big Ten,,12,7,5,0
+2007,242,Rice,Rice,Owls,RICE,Conference USA,West,12,3,9,0
+2007,164,Rutgers,Rutgers,Scarlet Knights,RUTG,Big East,,12,7,5,0
+2007,21,San Diego State,San Diego State,Aztecs,SDSU,Mountain West,,12,4,8,0
+2007,23,San José State,San José State,Spartans,SJSU,Western Athletic,,12,5,7,0
+2007,2567,SMU,SMU,Mustangs,SMU,Conference USA,West,12,1,11,0
+2007,2579,South Carolina,South Carolina,Gamecocks,SC,SEC,East,12,6,6,0
+2007,2572,Southern Mississippi,Southern Mississippi,Golden Eagles,USM,Conference USA,East,12,7,5,0
+2007,58,South Florida,South Florida,Bulls,USF,Big East,,12,9,3,0
+2007,24,Stanford,Stanford,Cardinal,STAN,Pac-10,,12,4,8,0
+2007,183,Syracuse,Syracuse,Orange,SYR,Big East,,12,2,10,0
+2007,2628,TCU,TCU,Horned Frogs,TCU,Mountain West,,12,7,5,0
+2007,218,Temple,Temple,Owls,TEM,Mid-American,East,12,4,8,0
+2007,2633,Tennessee,Tennessee,Volunteers,TENN,SEC,East,13,9,4,0
+2007,251,Texas,Texas,Longhorns,TEX,Big 12,South,12,9,3,0
+2007,245,Texas A&M,Texas A&M,Aggies,TA&M,Big 12,South,12,7,5,0
+2007,2641,Texas Tech,Texas Tech,Red Raiders,TTU,Big 12,South,12,8,4,0
+2007,2649,Toledo,Toledo,Rockets,TOL,Mid-American,West,12,5,7,0
+2007,2653,Troy,Troy,Trojans,TROY,Sun Belt,,12,8,4,0
+2007,2655,Tulane,Tulane,Green Wave,TULN,Conference USA,West,12,4,8,0
+2007,202,Tulsa,Tulsa,Golden Hurricane,TLSA,Conference USA,West,13,9,4,0
+2007,5,UAB,UAB,Blazers,UAB,Conference USA,East,12,2,10,0
+2007,2116,UCF,UCF,Knights,UCF,Conference USA,East,13,10,3,0
+2007,26,UCLA,UCLA,Bruins,UCLA,Pac-10,,12,6,6,0
+2007,2439,UNLV,UNLV,Rebels,UNLV,Mountain West,,12,2,10,0
+2007,30,USC,USC,Trojans,USC,Pac-10,,12,10,2,0
+2007,254,Utah,Utah,Utes,UTAH,Mountain West,,12,8,4,0
+2007,328,Utah State,Utah State,Aggies,USU,Western Athletic,,12,2,10,0
+2007,2638,UTEP,UTEP,Miners,UTEP,Conference USA,West,12,4,8,0
+2007,238,Vanderbilt,Vanderbilt,Commodores,VAN,SEC,East,12,5,7,0
+2007,258,Virginia,Virginia,Cavaliers,UVA,ACC,Coastal,12,9,3,0
+2007,259,Virginia Tech,Virginia Tech,Hokies,VT,ACC,Coastal,13,11,2,0
+2007,154,Wake Forest,Wake Forest,Demon Deacons,WAKE,ACC,Atlantic,12,8,4,0
+2007,264,Washington,Washington,Huskies,WASH,Pac-10,,13,4,9,0
+2007,265,Washington State,Washington State,Cougars,WSU,Pac-10,,12,5,7,0
+2007,98,Western Kentucky,Western Kentucky,Hilltoppers,WKU,FBS Independents,,12,7,5,0
+2007,2711,Western Michigan,Western Michigan,Broncos,WMU,Mid-American,West,12,5,7,0
+2007,277,West Virginia,West Virginia,Mountaineers,WVU,Big East,,12,10,2,0
+2007,275,Wisconsin,Wisconsin,Badgers,WIS,Big Ten,,12,9,3,0
+2007,2751,Wyoming,Wyoming,Cowboys,WYO,Mountain West,,12,5,7,0
+2008,2005,Air Force,Air Force,Falcons,AFA,Mountain West,,12,8,4,0
+2008,2006,Akron,Akron,Zips,AKR,Mid-American,East,12,5,7,0
+2008,333,Alabama,Alabama,Crimson Tide,ALA,SEC,West,13,12,1,0
+2008,12,Arizona,Arizona,Wildcats,ARIZ,Pac-10,,12,7,5,0
+2008,9,Arizona State,Arizona State,Sun Devils,ASU,Pac-10,,12,5,7,0
+2008,8,Arkansas,Arkansas,Razorbacks,ARK,SEC,West,12,5,7,0
+2008,2032,Arkansas State,Arkansas State,Red Wolves,ARST,Sun Belt,,12,6,6,0
+2008,349,Army,Army,Black Knights,ARMY,FBS Independents,,12,3,9,0
+2008,2,Auburn,Auburn,Tigers,AUB,SEC,West,12,5,7,0
+2008,2050,Ball State,Ball State,Cardinals,BALL,Mid-American,West,13,12,1,0
+2008,239,Baylor,Baylor,Bears,BAY,Big 12,South,12,4,8,0
+2008,68,Boise State,Boise State,Broncos,BSU,Western Athletic,,12,12,0,0
+2008,103,Boston College,Boston College,Eagles,BC,ACC,Atlantic,13,9,4,0
+2008,189,Bowling Green,Bowling Green,Falcons,BGSU,Mid-American,East,12,6,6,0
+2008,2084,Buffalo,Buffalo,Bulls,BUFF,Mid-American,East,13,8,5,0
+2008,252,BYU,BYU,Cougars,BYU,Mountain West,,12,10,2,0
+2008,25,California,California,Golden Bears,CAL,Pac-10,,12,8,4,0
+2008,2117,Central Michigan,Central Michigan,Chippewas,CMU,Mid-American,West,12,8,4,0
+2008,2132,Cincinnati,Cincinnati,Bearcats,CIN,Big East,,13,11,2,0
+2008,228,Clemson,Clemson,Tigers,CLEM,ACC,Atlantic,12,7,5,0
+2008,38,Colorado,Colorado,Buffaloes,COLO,Big 12,North,12,5,7,0
+2008,36,Colorado State,Colorado State,Rams,CSU,Mountain West,,12,6,6,0
+2008,41,Connecticut,Connecticut,Huskies,CONN,Big East,,12,7,5,0
+2008,150,Duke,Duke,Blue Devils,DUKE,ACC,Coastal,12,4,8,0
+2008,151,East Carolina,East Carolina,Pirates,ECU,Conference USA,East,13,9,4,0
+2008,2199,Eastern Michigan,Eastern Michigan,Eagles,EMU,Mid-American,West,12,3,9,0
+2008,57,Florida,Florida,Gators,FLA,SEC,East,13,12,1,0
+2008,2226,Florida Atlantic,Florida Atlantic,Owls,FAU,Sun Belt,,12,6,6,0
+2008,2229,Florida International,Florida International,Golden Panthers,FIU,Sun Belt,,12,5,7,0
+2008,52,Florida State,Florida State,Seminoles,FSU,ACC,Atlantic,12,8,4,0
+2008,278,Fresno State,Fresno State,Bulldogs,FRES,Western Athletic,,12,7,5,0
+2008,61,Georgia,Georgia,Bulldogs,UGA,SEC,East,12,9,3,0
+2008,59,Georgia Tech,Georgia Tech,Yellow Jackets,GT,ACC,Coastal,12,9,3,0
+2008,62,Hawai'i,Hawai'i,Rainbow Warriors,HAW,Western Athletic,,13,7,6,0
+2008,248,Houston,Houston,Cougars,HOU,Conference USA,West,12,7,5,0
+2008,70,Idaho,Idaho,Vandals,IDHO,Western Athletic,,12,2,10,0
+2008,356,Illinois,Illinois,Fighting Illini,ILL,Big Ten,,12,5,7,0
+2008,84,Indiana,Indiana,Hoosiers,IND,Big Ten,,12,3,9,0
+2008,2294,Iowa,Iowa,Hawkeyes,IOWA,Big Ten,,12,8,4,0
+2008,66,Iowa State,Iowa State,Cyclones,ISU,Big 12,North,12,2,10,0
+2008,2305,Kansas,Kansas,Jayhawks,KU,Big 12,North,12,7,5,0
+2008,2306,Kansas State,Kansas State,Wildcats,KSU,Big 12,North,12,5,7,0
+2008,2309,Kent State,Kent State,Golden Flashes,KENT,Mid-American,East,12,4,8,0
+2008,96,Kentucky,Kentucky,Wildcats,UK,SEC,East,12,6,6,0
+2008,309,Louisiana,Louisiana,Ragin' Cajuns,ULL,Sun Belt,,12,6,6,0
+2008,2433,Louisiana Monroe,Louisiana Monroe,Warhawks,ULM,Sun Belt,,12,4,8,0
+2008,2348,Louisiana Tech,Louisiana Tech,Bulldogs,LT,Western Athletic,,12,7,5,0
+2008,97,Louisville,Louisville,Cardinals,LOU,Big East,,12,5,7,0
+2008,99,LSU,LSU,Tigers,LSU,SEC,West,12,7,5,0
+2008,276,Marshall,Marshall,Thundering Herd,MRSH,Conference USA,East,12,4,8,0
+2008,120,Maryland,Maryland,Terrapins,MD,ACC,Atlantic,12,7,5,0
+2008,235,Memphis,Memphis,Tigers,MEM,Conference USA,East,12,6,6,0
+2008,2390,Miami,Miami,Hurricanes,MIAMI,ACC,Coastal,12,7,5,0
+2008,193,Miami (OH),Miami (OH),RedHawks,M-OH,Mid-American,East,12,2,10,0
+2008,130,Michigan,Michigan,Wolverines,MICH,Big Ten,,12,3,9,0
+2008,127,Michigan State,Michigan State,Spartans,MSU,Big Ten,,12,9,3,0
+2008,2393,Middle Tennessee,Middle Tennessee,Blue Raiders,MTSU,Sun Belt,,12,5,7,0
+2008,135,Minnesota,Minnesota,Golden Gophers,MINN,Big Ten,,12,7,5,0
+2008,344,Mississippi State,Mississippi State,Bulldogs,MSST,SEC,West,12,4,8,0
+2008,142,Missouri,Missouri,Tigers,MIZ,Big 12,North,13,9,4,0
+2008,2426,Navy,Navy,Midshipmen,NAVY,FBS Independents,,12,8,4,0
+2008,152,NC State,NC State,Wolfpack,NCST,ACC,Atlantic,12,6,6,0
+2008,158,Nebraska,Nebraska,Cornhuskers,NEB,Big 12,North,12,8,4,0
+2008,2440,Nevada,Nevada,Wolf Pack,NEV,Western Athletic,,12,7,5,0
+2008,167,New Mexico,New Mexico,Lobos,UNM,Mountain West,,12,4,8,0
+2008,166,New Mexico State,New Mexico State,Aggies,NMSU,Western Athletic,,12,3,9,0
+2008,153,North Carolina,North Carolina,Tar Heels,UNC,ACC,Coastal,12,8,4,0
+2008,2459,Northern Illinois,Northern Illinois,Huskies,NIU,Mid-American,West,12,6,6,0
+2008,249,North Texas,North Texas,Mean Green,UNT,Sun Belt,,12,1,11,0
+2008,77,Northwestern,Northwestern,Wildcats,NW,Big Ten,,12,9,3,0
+2008,87,Notre Dame,Notre Dame,Fighting Irish,ND,FBS Independents,,12,6,6,0
+2008,195,Ohio,Ohio,Bobcats,OHIO,Mid-American,East,12,4,8,0
+2008,194,Ohio State,Ohio State,Buckeyes,OSU,Big Ten,,12,10,2,0
+2008,201,Oklahoma,Oklahoma,Sooners,OKLA,Big 12,South,13,12,1,0
+2008,197,Oklahoma State,Oklahoma State,Cowboys,OKST,Big 12,South,12,9,3,0
+2008,145,Ole Miss,Ole Miss,Rebels,MISS,SEC,West,12,8,4,0
+2008,2483,Oregon,Oregon,Ducks,ORE,Pac-10,,12,9,3,0
+2008,204,Oregon State,Oregon State,Beavers,ORST,Pac-10,,12,8,4,0
+2008,213,Penn State,Penn State,Nittany Lions,PSU,Big Ten,,12,11,1,0
+2008,221,Pittsburgh,Pittsburgh,Panthers,PITT,Big East,,12,9,3,0
+2008,2509,Purdue,Purdue,Boilermakers,PUR,Big Ten,,12,4,8,0
+2008,242,Rice,Rice,Owls,RICE,Conference USA,West,12,9,3,0
+2008,164,Rutgers,Rutgers,Scarlet Knights,RUTG,Big East,,12,7,5,0
+2008,21,San Diego State,San Diego State,Aztecs,SDSU,Mountain West,,12,2,10,0
+2008,23,San José State,San José State,Spartans,SJSU,Western Athletic,,12,6,6,0
+2008,2567,SMU,SMU,Mustangs,SMU,Conference USA,West,12,1,11,0
+2008,2579,South Carolina,South Carolina,Gamecocks,SC,SEC,East,12,7,5,0
+2008,2572,Southern Mississippi,Southern Mississippi,Golden Eagles,USM,Conference USA,East,12,6,6,0
+2008,58,South Florida,South Florida,Bulls,USF,Big East,,12,7,5,0
+2008,24,Stanford,Stanford,Cardinal,STAN,Pac-10,,12,5,7,0
+2008,183,Syracuse,Syracuse,Orange,SYR,Big East,,12,3,9,0
+2008,2628,TCU,TCU,Horned Frogs,TCU,Mountain West,,12,10,2,0
+2008,218,Temple,Temple,Owls,TEM,Mid-American,East,12,5,7,0
+2008,2633,Tennessee,Tennessee,Volunteers,TENN,SEC,East,12,5,7,0
+2008,251,Texas,Texas,Longhorns,TEX,Big 12,South,12,11,1,0
+2008,245,Texas A&M,Texas A&M,Aggies,TA&M,Big 12,South,12,4,8,0
+2008,2641,Texas Tech,Texas Tech,Red Raiders,TTU,Big 12,South,12,11,1,0
+2008,2649,Toledo,Toledo,Rockets,TOL,Mid-American,West,12,3,9,0
+2008,2653,Troy,Troy,Trojans,TROY,Sun Belt,,12,8,4,0
+2008,2655,Tulane,Tulane,Green Wave,TULN,Conference USA,West,12,2,10,0
+2008,202,Tulsa,Tulsa,Golden Hurricane,TLSA,Conference USA,West,13,10,3,0
+2008,5,UAB,UAB,Blazers,UAB,Conference USA,East,12,4,8,0
+2008,2116,UCF,UCF,Knights,UCF,Conference USA,East,12,4,8,0
+2008,26,UCLA,UCLA,Bruins,UCLA,Pac-10,,12,4,8,0
+2008,2439,UNLV,UNLV,Rebels,UNLV,Mountain West,,12,5,7,0
+2008,30,USC,USC,Trojans,USC,Pac-10,,12,11,1,0
+2008,254,Utah,Utah,Utes,UTAH,Mountain West,,12,12,0,0
+2008,328,Utah State,Utah State,Aggies,USU,Western Athletic,,12,3,9,0
+2008,2638,UTEP,UTEP,Miners,UTEP,Conference USA,West,12,5,7,0
+2008,238,Vanderbilt,Vanderbilt,Commodores,VAN,SEC,East,12,6,6,0
+2008,258,Virginia,Virginia,Cavaliers,UVA,ACC,Coastal,12,5,7,0
+2008,259,Virginia Tech,Virginia Tech,Hokies,VT,ACC,Coastal,13,9,4,0
+2008,154,Wake Forest,Wake Forest,Demon Deacons,WAKE,ACC,Atlantic,12,7,5,0
+2008,264,Washington,Washington,Huskies,WASH,Pac-10,,12,0,12,0
+2008,265,Washington State,Washington State,Cougars,WSU,Pac-10,,13,2,11,0
+2008,98,Western Kentucky,Western Kentucky,Hilltoppers,WKU,FBS Independents,,12,2,10,0
+2008,2711,Western Michigan,Western Michigan,Broncos,WMU,Mid-American,West,12,9,3,0
+2008,277,West Virginia,West Virginia,Mountaineers,WVU,Big East,,12,8,4,0
+2008,275,Wisconsin,Wisconsin,Badgers,WIS,Big Ten,,12,7,5,0
+2008,2751,Wyoming,Wyoming,Cowboys,WYO,Mountain West,,12,4,8,0
+2009,2005,Air Force,Air Force,Falcons,AFA,Mountain West,,12,7,5,0
+2009,2006,Akron,Akron,Zips,AKR,Mid-American,East,12,3,9,0
+2009,333,Alabama,Alabama,Crimson Tide,ALA,SEC,West,13,13,0,0
+2009,12,Arizona,Arizona,Wildcats,ARIZ,Pac-10,,12,8,4,0
+2009,9,Arizona State,Arizona State,Sun Devils,ASU,Pac-10,,12,4,8,0
+2009,8,Arkansas,Arkansas,Razorbacks,ARK,SEC,West,12,7,5,0
+2009,2032,Arkansas State,Arkansas State,Red Wolves,ARST,Sun Belt,,12,4,8,0
+2009,349,Army,Army,Black Knights,ARMY,FBS Independents,,12,5,7,0
+2009,2,Auburn,Auburn,Tigers,AUB,SEC,West,12,7,5,0
+2009,2050,Ball State,Ball State,Cardinals,BALL,Mid-American,West,12,2,10,0
+2009,239,Baylor,Baylor,Bears,BAY,Big 12,South,12,4,8,0
+2009,68,Boise State,Boise State,Broncos,BSU,Western Athletic,,13,13,0,0
+2009,103,Boston College,Boston College,Eagles,BC,ACC,Atlantic,12,8,4,0
+2009,189,Bowling Green,Bowling Green,Falcons,BGSU,Mid-American,East,12,7,5,0
+2009,2084,Buffalo,Buffalo,Bulls,BUFF,Mid-American,East,12,5,7,0
+2009,252,BYU,BYU,Cougars,BYU,Mountain West,,12,10,2,0
+2009,25,California,California,Golden Bears,CAL,Pac-10,,12,8,4,0
+2009,2117,Central Michigan,Central Michigan,Chippewas,CMU,Mid-American,West,13,11,2,0
+2009,2132,Cincinnati,Cincinnati,Bearcats,CIN,Big East,,12,12,0,0
+2009,228,Clemson,Clemson,Tigers,CLEM,ACC,Atlantic,13,8,5,0
+2009,38,Colorado,Colorado,Buffaloes,COLO,Big 12,North,12,3,9,0
+2009,36,Colorado State,Colorado State,Rams,CSU,Mountain West,,12,3,9,0
+2009,41,Connecticut,Connecticut,Huskies,CONN,Big East,,12,7,5,0
+2009,150,Duke,Duke,Blue Devils,DUKE,ACC,Coastal,12,5,7,0
+2009,151,East Carolina,East Carolina,Pirates,ECU,Conference USA,East,13,9,4,0
+2009,2199,Eastern Michigan,Eastern Michigan,Eagles,EMU,Mid-American,West,12,0,12,0
+2009,57,Florida,Florida,Gators,FLA,SEC,East,13,12,1,0
+2009,2226,Florida Atlantic,Florida Atlantic,Owls,FAU,Sun Belt,,12,5,7,0
+2009,2229,Florida International,Florida International,Golden Panthers,FIU,Sun Belt,,12,3,9,0
+2009,52,Florida State,Florida State,Seminoles,FSU,ACC,Atlantic,12,6,6,0
+2009,278,Fresno State,Fresno State,Bulldogs,FRES,Western Athletic,,12,8,4,0
+2009,61,Georgia,Georgia,Bulldogs,UGA,SEC,East,12,7,5,0
+2009,59,Georgia Tech,Georgia Tech,Yellow Jackets,GT,ACC,Coastal,13,11,2,0
+2009,62,Hawai'i,Hawai'i,Rainbow Warriors,HAW,Western Athletic,,13,6,7,0
+2009,248,Houston,Houston,Cougars,HOU,Conference USA,West,13,10,3,0
+2009,70,Idaho,Idaho,Vandals,IDHO,Western Athletic,,12,7,5,0
+2009,356,Illinois,Illinois,Fighting Illini,ILL,Big Ten,,12,3,9,0
+2009,84,Indiana,Indiana,Hoosiers,IND,Big Ten,,12,4,8,0
+2009,2294,Iowa,Iowa,Hawkeyes,IOWA,Big Ten,,12,10,2,0
+2009,66,Iowa State,Iowa State,Cyclones,ISU,Big 12,North,12,6,6,0
+2009,2305,Kansas,Kansas,Jayhawks,KU,Big 12,North,12,5,7,0
+2009,2306,Kansas State,Kansas State,Wildcats,KSU,Big 12,North,12,6,6,0
+2009,2309,Kent State,Kent State,Golden Flashes,KENT,Mid-American,East,12,5,7,0
+2009,96,Kentucky,Kentucky,Wildcats,UK,SEC,East,12,7,5,0
+2009,309,Louisiana,Louisiana,Ragin' Cajuns,ULL,Sun Belt,,12,6,6,0
+2009,2433,Louisiana Monroe,Louisiana Monroe,Warhawks,ULM,Sun Belt,,12,6,6,0
+2009,2348,Louisiana Tech,Louisiana Tech,Bulldogs,LT,Western Athletic,,12,4,8,0
+2009,97,Louisville,Louisville,Cardinals,LOU,Big East,,12,4,8,0
+2009,99,LSU,LSU,Tigers,LSU,SEC,West,12,9,3,0
+2009,276,Marshall,Marshall,Thundering Herd,MRSH,Conference USA,East,12,6,6,0
+2009,120,Maryland,Maryland,Terrapins,MD,ACC,Atlantic,12,2,10,0
+2009,235,Memphis,Memphis,Tigers,MEM,Conference USA,East,12,2,10,0
+2009,2390,Miami,Miami,Hurricanes,MIAMI,ACC,Coastal,12,9,3,0
+2009,193,Miami (OH),Miami (OH),RedHawks,M-OH,Mid-American,East,12,1,11,0
+2009,130,Michigan,Michigan,Wolverines,MICH,Big Ten,,12,5,7,0
+2009,127,Michigan State,Michigan State,Spartans,MSU,Big Ten,,12,6,6,0
+2009,2393,Middle Tennessee,Middle Tennessee,Blue Raiders,MTSU,Sun Belt,,12,9,3,0
+2009,135,Minnesota,Minnesota,Golden Gophers,MINN,Big Ten,,12,6,6,0
+2009,344,Mississippi State,Mississippi State,Bulldogs,MSST,SEC,West,12,5,7,0
+2009,142,Missouri,Missouri,Tigers,MIZ,Big 12,North,12,8,4,0
+2009,2426,Navy,Navy,Midshipmen,NAVY,FBS Independents,,13,9,4,0
+2009,152,NC State,NC State,Wolfpack,NCST,ACC,Atlantic,12,5,7,0
+2009,158,Nebraska,Nebraska,Cornhuskers,NEB,Big 12,North,13,9,4,0
+2009,2440,Nevada,Nevada,Wolf Pack,NEV,Western Athletic,,12,8,4,0
+2009,167,New Mexico,New Mexico,Lobos,UNM,Mountain West,,12,1,11,0
+2009,166,New Mexico State,New Mexico State,Aggies,NMSU,Western Athletic,,13,3,10,0
+2009,153,North Carolina,North Carolina,Tar Heels,UNC,ACC,Coastal,12,8,4,0
+2009,2459,Northern Illinois,Northern Illinois,Huskies,NIU,Mid-American,West,12,7,5,0
+2009,249,North Texas,North Texas,Mean Green,UNT,Sun Belt,,12,2,10,0
+2009,77,Northwestern,Northwestern,Wildcats,NW,Big Ten,,12,8,4,0
+2009,87,Notre Dame,Notre Dame,Fighting Irish,ND,FBS Independents,,12,6,6,0
+2009,195,Ohio,Ohio,Bobcats,OHIO,Mid-American,East,13,9,4,0
+2009,194,Ohio State,Ohio State,Buckeyes,OSU,Big Ten,,12,10,2,0
+2009,201,Oklahoma,Oklahoma,Sooners,OKLA,Big 12,South,12,7,5,0
+2009,197,Oklahoma State,Oklahoma State,Cowboys,OKST,Big 12,South,12,9,3,0
+2009,145,Ole Miss,Ole Miss,Rebels,MISS,SEC,West,12,8,4,0
+2009,2483,Oregon,Oregon,Ducks,ORE,Pac-10,,12,10,2,0
+2009,204,Oregon State,Oregon State,Beavers,ORST,Pac-10,,12,8,4,0
+2009,213,Penn State,Penn State,Nittany Lions,PSU,Big Ten,,12,10,2,0
+2009,221,Pittsburgh,Pittsburgh,Panthers,PITT,Big East,,12,9,3,0
+2009,2509,Purdue,Purdue,Boilermakers,PUR,Big Ten,,12,5,7,0
+2009,242,Rice,Rice,Owls,RICE,Conference USA,West,12,2,10,0
+2009,164,Rutgers,Rutgers,Scarlet Knights,RUTG,Big East,,12,8,4,0
+2009,21,San Diego State,San Diego State,Aztecs,SDSU,Mountain West,,12,4,8,0
+2009,23,San José State,San José State,Spartans,SJSU,Western Athletic,,12,2,10,0
+2009,2567,SMU,SMU,Mustangs,SMU,Conference USA,West,12,7,5,0
+2009,2579,South Carolina,South Carolina,Gamecocks,SC,SEC,East,12,7,5,0
+2009,2572,Southern Mississippi,Southern Mississippi,Golden Eagles,USM,Conference USA,East,12,7,5,0
+2009,58,South Florida,South Florida,Bulls,USF,Big East,,12,7,5,0
+2009,24,Stanford,Stanford,Cardinal,STAN,Pac-10,,12,8,4,0
+2009,183,Syracuse,Syracuse,Orange,SYR,Big East,,12,4,8,0
+2009,2628,TCU,TCU,Horned Frogs,TCU,Mountain West,,12,12,0,0
+2009,218,Temple,Temple,Owls,TEM,Mid-American,East,12,9,3,0
+2009,2633,Tennessee,Tennessee,Volunteers,TENN,SEC,East,12,7,5,0
+2009,251,Texas,Texas,Longhorns,TEX,Big 12,South,13,13,0,0
+2009,245,Texas A&M,Texas A&M,Aggies,TA&M,Big 12,South,12,6,6,0
+2009,2641,Texas Tech,Texas Tech,Red Raiders,TTU,Big 12,South,12,8,4,0
+2009,2649,Toledo,Toledo,Rockets,TOL,Mid-American,West,12,5,7,0
+2009,2653,Troy,Troy,Trojans,TROY,Sun Belt,,12,9,3,0
+2009,2655,Tulane,Tulane,Green Wave,TULN,Conference USA,West,12,3,9,0
+2009,202,Tulsa,Tulsa,Golden Hurricane,TLSA,Conference USA,West,12,5,7,0
+2009,5,UAB,UAB,Blazers,UAB,Conference USA,East,12,5,7,0
+2009,2116,UCF,UCF,Knights,UCF,Conference USA,East,12,8,4,0
+2009,26,UCLA,UCLA,Bruins,UCLA,Pac-10,,12,6,6,0
+2009,2439,UNLV,UNLV,Rebels,UNLV,Mountain West,,12,5,7,0
+2009,30,USC,USC,Trojans,USC,Pac-10,,12,8,4,0
+2009,254,Utah,Utah,Utes,UTAH,Mountain West,,12,9,3,0
+2009,328,Utah State,Utah State,Aggies,USU,Western Athletic,,12,4,8,0
+2009,2638,UTEP,UTEP,Miners,UTEP,Conference USA,West,12,4,8,0
+2009,238,Vanderbilt,Vanderbilt,Commodores,VAN,SEC,East,12,2,10,0
+2009,258,Virginia,Virginia,Cavaliers,UVA,ACC,Coastal,12,3,9,0
+2009,259,Virginia Tech,Virginia Tech,Hokies,VT,ACC,Coastal,12,9,3,0
+2009,154,Wake Forest,Wake Forest,Demon Deacons,WAKE,ACC,Atlantic,12,5,7,0
+2009,264,Washington,Washington,Huskies,WASH,Pac-10,,12,5,7,0
+2009,265,Washington State,Washington State,Cougars,WSU,Pac-10,,12,1,11,0
+2009,98,Western Kentucky,Western Kentucky,Hilltoppers,WKU,Sun Belt,,12,0,12,0
+2009,2711,Western Michigan,Western Michigan,Broncos,WMU,Mid-American,West,12,5,7,0
+2009,277,West Virginia,West Virginia,Mountaineers,WVU,Big East,,12,9,3,0
+2009,275,Wisconsin,Wisconsin,Badgers,WIS,Big Ten,,12,9,3,0
+2009,2751,Wyoming,Wyoming,Cowboys,WYO,Mountain West,,12,6,6,0
+2010,2005,Air Force,Air Force,Falcons,AFA,Mountain West,,12,8,4,0
+2010,2006,Akron,Akron,Zips,AKR,Mid-American,East,12,1,11,0
+2010,333,Alabama,Alabama,Crimson Tide,ALA,SEC,West,12,9,3,0
+2010,12,Arizona,Arizona,Wildcats,ARIZ,Pac-10,,12,7,5,0
+2010,9,Arizona State,Arizona State,Sun Devils,ASU,Pac-10,,12,6,6,0
+2010,8,Arkansas,Arkansas,Razorbacks,ARK,SEC,West,12,10,2,0
+2010,2032,Arkansas State,Arkansas State,Red Wolves,ARST,Sun Belt,,12,4,8,0
+2010,349,Army,Army,Black Knights,ARMY,FBS Independents,,12,6,6,0
+2010,2,Auburn,Auburn,Tigers,AUB,SEC,West,13,13,0,0
+2010,2050,Ball State,Ball State,Cardinals,BALL,Mid-American,West,12,4,8,0
+2010,239,Baylor,Baylor,Bears,BAY,Big 12,South,12,7,5,0
+2010,68,Boise State,Boise State,Broncos,BSU,Western Athletic,,12,11,1,0
+2010,103,Boston College,Boston College,Eagles,BC,ACC,Atlantic,12,7,5,0
+2010,189,Bowling Green,Bowling Green,Falcons,BGSU,Mid-American,East,12,2,10,0
+2010,2084,Buffalo,Buffalo,Bulls,BUFF,Mid-American,East,12,2,10,0
+2010,252,BYU,BYU,Cougars,BYU,Mountain West,,12,6,6,0
+2010,25,California,California,Golden Bears,CAL,Pac-10,,12,5,7,0
+2010,2117,Central Michigan,Central Michigan,Chippewas,CMU,Mid-American,West,12,3,9,0
+2010,2132,Cincinnati,Cincinnati,Bearcats,CIN,Big East,,12,4,8,0
+2010,228,Clemson,Clemson,Tigers,CLEM,ACC,Atlantic,12,6,6,0
+2010,38,Colorado,Colorado,Buffaloes,COLO,Big 12,North,12,5,7,0
+2010,36,Colorado State,Colorado State,Rams,CSU,Mountain West,,12,3,9,0
+2010,41,Connecticut,Connecticut,Huskies,CONN,Big East,,12,8,4,0
+2010,150,Duke,Duke,Blue Devils,DUKE,ACC,Coastal,12,3,9,0
+2010,151,East Carolina,East Carolina,Pirates,ECU,Conference USA,East,12,6,6,0
+2010,2199,Eastern Michigan,Eastern Michigan,Eagles,EMU,Mid-American,West,12,2,10,0
+2010,57,Florida,Florida,Gators,FLA,SEC,East,12,7,5,0
+2010,2226,Florida Atlantic,Florida Atlantic,Owls,FAU,Sun Belt,,12,4,8,0
+2010,2229,Florida International,Florida International,Golden Panthers,FIU,Sun Belt,,12,6,6,0
+2010,52,Florida State,Florida State,Seminoles,FSU,ACC,Atlantic,13,9,4,0
+2010,278,Fresno State,Fresno State,Bulldogs,FRES,Western Athletic,,12,8,4,0
+2010,61,Georgia,Georgia,Bulldogs,UGA,SEC,East,12,6,6,0
+2010,59,Georgia Tech,Georgia Tech,Yellow Jackets,GT,ACC,Coastal,12,6,6,0
+2010,62,Hawai'i,Hawai'i,Rainbow Warriors,HAW,Western Athletic,,13,10,3,0
+2010,248,Houston,Houston,Cougars,HOU,Conference USA,West,12,5,7,0
+2010,70,Idaho,Idaho,Vandals,IDHO,Western Athletic,,13,6,7,0
+2010,356,Illinois,Illinois,Fighting Illini,ILL,Big Ten,,12,6,6,0
+2010,84,Indiana,Indiana,Hoosiers,IND,Big Ten,,12,5,7,0
+2010,2294,Iowa,Iowa,Hawkeyes,IOWA,Big Ten,,12,7,5,0
+2010,66,Iowa State,Iowa State,Cyclones,ISU,Big 12,North,12,5,7,0
+2010,2305,Kansas,Kansas,Jayhawks,KU,Big 12,North,12,3,9,0
+2010,2306,Kansas State,Kansas State,Wildcats,KSU,Big 12,North,12,7,5,0
+2010,2309,Kent State,Kent State,Golden Flashes,KENT,Mid-American,East,12,5,7,0
+2010,96,Kentucky,Kentucky,Wildcats,UK,SEC,East,12,6,6,0
+2010,309,Louisiana,Louisiana,Ragin' Cajuns,ULL,Sun Belt,,12,3,9,0
+2010,2433,Louisiana Monroe,Louisiana Monroe,Warhawks,ULM,Sun Belt,,12,5,7,0
+2010,2348,Louisiana Tech,Louisiana Tech,Bulldogs,LT,Western Athletic,,12,5,7,0
+2010,97,Louisville,Louisville,Cardinals,LOU,Big East,,12,6,6,0
+2010,99,LSU,LSU,Tigers,LSU,SEC,West,12,10,2,0
+2010,276,Marshall,Marshall,Thundering Herd,MRSH,Conference USA,East,12,5,7,0
+2010,120,Maryland,Maryland,Terrapins,MD,ACC,Atlantic,12,8,4,0
+2010,235,Memphis,Memphis,Tigers,MEM,Conference USA,East,12,1,11,0
+2010,2390,Miami,Miami,Hurricanes,MIAMI,ACC,Coastal,12,7,5,0
+2010,193,Miami (OH),Miami (OH),RedHawks,M-OH,Mid-American,East,13,9,4,0
+2010,130,Michigan,Michigan,Wolverines,MICH,Big Ten,,12,7,5,0
+2010,127,Michigan State,Michigan State,Spartans,MSU,Big Ten,,12,11,1,0
+2010,2393,Middle Tennessee,Middle Tennessee,Blue Raiders,MTSU,Sun Belt,,12,6,6,0
+2010,135,Minnesota,Minnesota,Golden Gophers,MINN,Big Ten,,12,3,9,0
+2010,344,Mississippi State,Mississippi State,Bulldogs,MSST,SEC,West,12,8,4,0
+2010,142,Missouri,Missouri,Tigers,MIZ,Big 12,North,12,10,2,0
+2010,2426,Navy,Navy,Midshipmen,NAVY,FBS Independents,,12,9,3,0
+2010,152,NC State,NC State,Wolfpack,NCST,ACC,Atlantic,12,8,4,0
+2010,158,Nebraska,Nebraska,Cornhuskers,NEB,Big 12,North,13,10,3,0
+2010,2440,Nevada,Nevada,Wolf Pack,NEV,Western Athletic,,13,12,1,0
+2010,167,New Mexico,New Mexico,Lobos,UNM,Mountain West,,12,1,11,0
+2010,166,New Mexico State,New Mexico State,Aggies,NMSU,Western Athletic,,12,2,10,0
+2010,153,North Carolina,North Carolina,Tar Heels,UNC,ACC,Coastal,12,7,5,0
+2010,2459,Northern Illinois,Northern Illinois,Huskies,NIU,Mid-American,West,13,10,3,0
+2010,249,North Texas,North Texas,Mean Green,UNT,Sun Belt,,12,3,9,0
+2010,77,Northwestern,Northwestern,Wildcats,NW,Big Ten,,12,7,5,0
+2010,87,Notre Dame,Notre Dame,Fighting Irish,ND,FBS Independents,,12,7,5,0
+2010,195,Ohio,Ohio,Bobcats,OHIO,Mid-American,East,12,8,4,0
+2010,194,Ohio State,Ohio State,Buckeyes,OSU,Big Ten,,12,11,1,0
+2010,201,Oklahoma,Oklahoma,Sooners,OKLA,Big 12,South,13,11,2,0
+2010,197,Oklahoma State,Oklahoma State,Cowboys,OKST,Big 12,South,12,10,2,0
+2010,145,Ole Miss,Ole Miss,Rebels,MISS,SEC,West,12,4,8,0
+2010,2483,Oregon,Oregon,Ducks,ORE,Pac-10,,12,12,0,0
+2010,204,Oregon State,Oregon State,Beavers,ORST,Pac-10,,12,5,7,0
+2010,213,Penn State,Penn State,Nittany Lions,PSU,Big Ten,,12,7,5,0
+2010,221,Pittsburgh,Pittsburgh,Panthers,PITT,Big East,,12,7,5,0
+2010,2509,Purdue,Purdue,Boilermakers,PUR,Big Ten,,12,4,8,0
+2010,242,Rice,Rice,Owls,RICE,Conference USA,West,12,4,8,0
+2010,164,Rutgers,Rutgers,Scarlet Knights,RUTG,Big East,,12,4,8,0
+2010,21,San Diego State,San Diego State,Aztecs,SDSU,Mountain West,,12,8,4,0
+2010,23,San José State,San José State,Spartans,SJSU,Western Athletic,,13,1,12,0
+2010,2567,SMU,SMU,Mustangs,SMU,Conference USA,West,13,7,6,0
+2010,2579,South Carolina,South Carolina,Gamecocks,SC,SEC,East,13,9,4,0
+2010,2572,Southern Mississippi,Southern Mississippi,Golden Eagles,USM,Conference USA,East,12,8,4,0
+2010,58,South Florida,South Florida,Bulls,USF,Big East,,12,7,5,0
+2010,24,Stanford,Stanford,Cardinal,STAN,Pac-10,,12,11,1,0
+2010,183,Syracuse,Syracuse,Orange,SYR,Big East,,12,7,5,0
+2010,2628,TCU,TCU,Horned Frogs,TCU,Mountain West,,12,12,0,0
+2010,218,Temple,Temple,Owls,TEM,Mid-American,East,12,8,4,0
+2010,2633,Tennessee,Tennessee,Volunteers,TENN,SEC,East,12,6,6,0
+2010,251,Texas,Texas,Longhorns,TEX,Big 12,South,12,5,7,0
+2010,245,Texas A&M,Texas A&M,Aggies,TA&M,Big 12,South,12,9,3,0
+2010,2641,Texas Tech,Texas Tech,Red Raiders,TTU,Big 12,South,12,7,5,0
+2010,2649,Toledo,Toledo,Rockets,TOL,Mid-American,West,12,8,4,0
+2010,2653,Troy,Troy,Trojans,TROY,Sun Belt,,12,7,5,0
+2010,2655,Tulane,Tulane,Green Wave,TULN,Conference USA,West,12,4,8,0
+2010,202,Tulsa,Tulsa,Golden Hurricane,TLSA,Conference USA,West,12,9,3,0
+2010,5,UAB,UAB,Blazers,UAB,Conference USA,East,12,4,8,0
+2010,2116,UCF,UCF,Knights,UCF,Conference USA,East,13,10,3,0
+2010,26,UCLA,UCLA,Bruins,UCLA,Pac-10,,12,4,8,0
+2010,2439,UNLV,UNLV,Rebels,UNLV,Mountain West,,13,2,11,0
+2010,30,USC,USC,Trojans,USC,Pac-10,,13,8,5,0
+2010,254,Utah,Utah,Utes,UTAH,Mountain West,,12,10,2,0
+2010,328,Utah State,Utah State,Aggies,USU,Western Athletic,,12,4,8,0
+2010,2638,UTEP,UTEP,Miners,UTEP,Conference USA,West,12,6,6,0
+2010,238,Vanderbilt,Vanderbilt,Commodores,VAN,SEC,East,12,2,10,0
+2010,258,Virginia,Virginia,Cavaliers,UVA,ACC,Coastal,12,4,8,0
+2010,259,Virginia Tech,Virginia Tech,Hokies,VT,ACC,Coastal,13,11,2,0
+2010,154,Wake Forest,Wake Forest,Demon Deacons,WAKE,ACC,Atlantic,12,3,9,0
+2010,264,Washington,Washington,Huskies,WASH,Pac-10,,12,6,6,0
+2010,265,Washington State,Washington State,Cougars,WSU,Pac-10,,12,2,10,0
+2010,98,Western Kentucky,Western Kentucky,Hilltoppers,WKU,Sun Belt,,12,2,10,0
+2010,2711,Western Michigan,Western Michigan,Broncos,WMU,Mid-American,West,12,6,6,0
+2010,277,West Virginia,West Virginia,Mountaineers,WVU,Big East,,12,9,3,0
+2010,275,Wisconsin,Wisconsin,Badgers,WIS,Big Ten,,12,11,1,0
+2010,2751,Wyoming,Wyoming,Cowboys,WYO,Mountain West,,12,3,9,0
+2011,2005,Air Force,Air Force,Falcons,AFA,Mountain West,,12,7,5,0
+2011,2006,Akron,Akron,Zips,AKR,Mid-American,East,12,1,11,0
+2011,333,Alabama,Alabama,Crimson Tide,ALA,SEC,West,12,11,1,0
+2011,12,Arizona,Arizona,Wildcats,ARIZ,Pac-12,South,12,4,8,0
+2011,9,Arizona State,Arizona State,Sun Devils,ASU,Pac-12,South,12,6,6,0
+2011,8,Arkansas,Arkansas,Razorbacks,ARK,SEC,West,12,10,2,0
+2011,2032,Arkansas State,Arkansas State,Red Wolves,ARST,Sun Belt,,12,10,2,0
+2011,349,Army,Army,Black Knights,ARMY,FBS Independents,,12,3,9,0
+2011,2,Auburn,Auburn,Tigers,AUB,SEC,West,12,7,5,0
+2011,2050,Ball State,Ball State,Cardinals,BALL,Mid-American,West,12,6,6,0
+2011,239,Baylor,Baylor,Bears,BAY,Big 12,,12,9,3,0
+2011,68,Boise State,Boise State,Broncos,BSU,Mountain West,,12,11,1,0
+2011,103,Boston College,Boston College,Eagles,BC,ACC,Atlantic,12,4,8,0
+2011,189,Bowling Green,Bowling Green,Falcons,BGSU,Mid-American,East,12,5,7,0
+2011,2084,Buffalo,Buffalo,Bulls,BUFF,Mid-American,East,12,3,9,0
+2011,252,BYU,BYU,Cougars,BYU,FBS Independents,,12,9,3,0
+2011,25,California,California,Golden Bears,CAL,Pac-12,North,12,7,5,0
+2011,2117,Central Michigan,Central Michigan,Chippewas,CMU,Mid-American,West,12,3,9,0
+2011,2132,Cincinnati,Cincinnati,Bearcats,CIN,Big East,,12,9,3,0
+2011,228,Clemson,Clemson,Tigers,CLEM,ACC,Atlantic,13,10,3,0
+2011,38,Colorado,Colorado,Buffaloes,COLO,Pac-12,South,13,3,10,0
+2011,36,Colorado State,Colorado State,Rams,CSU,Mountain West,,12,3,9,0
+2011,41,Connecticut,Connecticut,Huskies,CONN,Big East,,12,5,7,0
+2011,150,Duke,Duke,Blue Devils,DUKE,ACC,Coastal,12,3,9,0
+2011,151,East Carolina,East Carolina,Pirates,ECU,Conference USA,East,12,5,7,0
+2011,2199,Eastern Michigan,Eastern Michigan,Eagles,EMU,Mid-American,West,12,6,6,0
+2011,57,Florida,Florida,Gators,FLA,SEC,East,12,6,6,0
+2011,2226,Florida Atlantic,Florida Atlantic,Owls,FAU,Sun Belt,,12,1,11,0
+2011,2229,Florida International,Florida International,Golden Panthers,FIU,Sun Belt,,12,8,4,0
+2011,52,Florida State,Florida State,Seminoles,FSU,ACC,Atlantic,12,8,4,0
+2011,278,Fresno State,Fresno State,Bulldogs,FRES,Western Athletic,,13,4,9,0
+2011,61,Georgia,Georgia,Bulldogs,UGA,SEC,East,13,10,3,0
+2011,59,Georgia Tech,Georgia Tech,Yellow Jackets,GT,ACC,Coastal,12,8,4,0
+2011,62,Hawai'i,Hawai'i,Rainbow Warriors,HAW,Western Athletic,,13,6,7,0
+2011,248,Houston,Houston,Cougars,HOU,Conference USA,West,13,12,1,0
+2011,70,Idaho,Idaho,Vandals,IDHO,Western Athletic,,12,2,10,0
+2011,356,Illinois,Illinois,Fighting Illini,ILL,Big Ten,Leaders,12,6,6,0
+2011,84,Indiana,Indiana,Hoosiers,IND,Big Ten,Leaders,12,1,11,0
+2011,2294,Iowa,Iowa,Hawkeyes,IOWA,Big Ten,Legends,12,7,5,0
+2011,66,Iowa State,Iowa State,Cyclones,ISU,Big 12,,12,6,6,0
+2011,2305,Kansas,Kansas,Jayhawks,KU,Big 12,,12,2,10,0
+2011,2306,Kansas State,Kansas State,Wildcats,KSU,Big 12,,12,10,2,0
+2011,2309,Kent State,Kent State,Golden Flashes,KENT,Mid-American,East,12,5,7,0
+2011,96,Kentucky,Kentucky,Wildcats,UK,SEC,East,12,5,7,0
+2011,309,Louisiana,Louisiana,Ragin' Cajuns,ULL,Sun Belt,,12,8,4,0
+2011,2433,Louisiana Monroe,Louisiana Monroe,Warhawks,ULM,Sun Belt,,12,4,8,0
+2011,2348,Louisiana Tech,Louisiana Tech,Bulldogs,LT,Western Athletic,,12,8,4,0
+2011,97,Louisville,Louisville,Cardinals,LOU,Big East,,12,7,5,0
+2011,99,LSU,LSU,Tigers,LSU,SEC,West,13,13,0,0
+2011,276,Marshall,Marshall,Thundering Herd,MRSH,Conference USA,East,12,6,6,0
+2011,120,Maryland,Maryland,Terrapins,MD,ACC,Atlantic,12,2,10,0
+2011,235,Memphis,Memphis,Tigers,MEM,Conference USA,East,12,2,10,0
+2011,2390,Miami,Miami,Hurricanes,MIAMI,ACC,Coastal,12,6,6,0
+2011,193,Miami (OH),Miami (OH),RedHawks,M-OH,Mid-American,East,12,4,8,0
+2011,130,Michigan,Michigan,Wolverines,MICH,Big Ten,Legends,12,10,2,0
+2011,127,Michigan State,Michigan State,Spartans,MSU,Big Ten,Legends,13,10,3,0
+2011,2393,Middle Tennessee,Middle Tennessee,Blue Raiders,MTSU,Sun Belt,,12,2,10,0
+2011,135,Minnesota,Minnesota,Golden Gophers,MINN,Big Ten,Legends,12,3,9,0
+2011,344,Mississippi State,Mississippi State,Bulldogs,MSST,SEC,West,12,6,6,0
+2011,142,Missouri,Missouri,Tigers,MIZ,Big 12,,12,7,5,0
+2011,2426,Navy,Navy,Midshipmen,NAVY,FBS Independents,,12,5,7,0
+2011,152,NC State,NC State,Wolfpack,NCST,ACC,Atlantic,12,7,5,0
+2011,158,Nebraska,Nebraska,Cornhuskers,NEB,Big Ten,Legends,12,9,3,0
+2011,2440,Nevada,Nevada,Wolf Pack,NEV,Western Athletic,,12,7,5,0
+2011,167,New Mexico,New Mexico,Lobos,UNM,Mountain West,,12,1,11,0
+2011,166,New Mexico State,New Mexico State,Aggies,NMSU,Western Athletic,,13,4,9,0
+2011,153,North Carolina,North Carolina,Tar Heels,UNC,ACC,Coastal,12,7,5,0
+2011,2459,Northern Illinois,Northern Illinois,Huskies,NIU,Mid-American,West,13,10,3,0
+2011,249,North Texas,North Texas,Mean Green,UNT,Sun Belt,,12,5,7,0
+2011,77,Northwestern,Northwestern,Wildcats,NW,Big Ten,Legends,12,6,6,0
+2011,87,Notre Dame,Notre Dame,Fighting Irish,ND,FBS Independents,,12,8,4,0
+2011,195,Ohio,Ohio,Bobcats,OHIO,Mid-American,East,13,9,4,0
+2011,194,Ohio State,Ohio State,Buckeyes,OSU,Big Ten,Leaders,12,6,6,0
+2011,201,Oklahoma,Oklahoma,Sooners,OKLA,Big 12,,12,9,3,0
+2011,197,Oklahoma State,Oklahoma State,Cowboys,OKST,Big 12,,12,11,1,0
+2011,145,Ole Miss,Ole Miss,Rebels,MISS,SEC,West,12,2,10,0
+2011,2483,Oregon,Oregon,Ducks,ORE,Pac-12,North,13,11,2,0
+2011,204,Oregon State,Oregon State,Beavers,ORST,Pac-12,North,12,3,9,0
+2011,213,Penn State,Penn State,Nittany Lions,PSU,Big Ten,Leaders,12,9,3,0
+2011,221,Pittsburgh,Pittsburgh,Panthers,PITT,Big East,,12,6,6,0
+2011,2509,Purdue,Purdue,Boilermakers,PUR,Big Ten,Leaders,12,6,6,0
+2011,242,Rice,Rice,Owls,RICE,Conference USA,West,12,4,8,0
+2011,164,Rutgers,Rutgers,Scarlet Knights,RUTG,Big East,,12,8,4,0
+2011,21,San Diego State,San Diego State,Aztecs,SDSU,Mountain West,,12,8,4,0
+2011,23,San José State,San José State,Spartans,SJSU,Western Athletic,,12,5,7,0
+2011,2567,SMU,SMU,Mustangs,SMU,Conference USA,West,12,7,5,0
+2011,2579,South Carolina,South Carolina,Gamecocks,SC,SEC,East,12,10,2,0
+2011,2572,Southern Mississippi,Southern Mississippi,Golden Eagles,USM,Conference USA,East,13,11,2,0
+2011,58,South Florida,South Florida,Bulls,USF,Big East,,12,5,7,0
+2011,24,Stanford,Stanford,Cardinal,STAN,Pac-12,North,12,11,1,0
+2011,183,Syracuse,Syracuse,Orange,SYR,Big East,,12,5,7,0
+2011,2628,TCU,TCU,Horned Frogs,TCU,Mountain West,,12,10,2,0
+2011,218,Temple,Temple,Owls,TEM,Mid-American,East,12,8,4,0
+2011,2633,Tennessee,Tennessee,Volunteers,TENN,SEC,East,12,5,7,0
+2011,251,Texas,Texas,Longhorns,TEX,Big 12,,12,7,5,0
+2011,245,Texas A&M,Texas A&M,Aggies,TA&M,Big 12,,12,6,6,0
+2011,2641,Texas Tech,Texas Tech,Red Raiders,TTU,Big 12,,12,5,7,0
+2011,2649,Toledo,Toledo,Rockets,TOL,Mid-American,West,12,8,4,0
+2011,2653,Troy,Troy,Trojans,TROY,Sun Belt,,12,3,9,0
+2011,2655,Tulane,Tulane,Green Wave,TULN,Conference USA,West,13,2,11,0
+2011,202,Tulsa,Tulsa,Golden Hurricane,TLSA,Conference USA,West,12,8,4,0
+2011,5,UAB,UAB,Blazers,UAB,Conference USA,East,12,3,9,0
+2011,2116,UCF,UCF,Knights,UCF,Conference USA,East,12,5,7,0
+2011,26,UCLA,UCLA,Bruins,UCLA,Pac-12,South,13,6,7,0
+2011,2439,UNLV,UNLV,Rebels,UNLV,Mountain West,,12,2,10,0
+2011,30,USC,USC,Trojans,USC,Pac-12,South,12,10,2,0
+2011,254,Utah,Utah,Utes,UTAH,Pac-12,South,12,7,5,0
+2011,328,Utah State,Utah State,Aggies,USU,Western Athletic,,12,7,5,0
+2011,2638,UTEP,UTEP,Miners,UTEP,Conference USA,West,12,5,7,0
+2011,238,Vanderbilt,Vanderbilt,Commodores,VAN,SEC,East,12,6,6,0
+2011,258,Virginia,Virginia,Cavaliers,UVA,ACC,Coastal,12,8,4,0
+2011,259,Virginia Tech,Virginia Tech,Hokies,VT,ACC,Coastal,13,11,2,0
+2011,154,Wake Forest,Wake Forest,Demon Deacons,WAKE,ACC,Atlantic,12,6,6,0
+2011,264,Washington,Washington,Huskies,WASH,Pac-12,North,12,7,5,0
+2011,265,Washington State,Washington State,Cougars,WSU,Pac-12,North,12,4,8,0
+2011,98,Western Kentucky,Western Kentucky,Hilltoppers,WKU,Sun Belt,,12,7,5,0
+2011,2711,Western Michigan,Western Michigan,Broncos,WMU,Mid-American,West,12,7,5,0
+2011,277,West Virginia,West Virginia,Mountaineers,WVU,Big East,,12,9,3,0
+2011,275,Wisconsin,Wisconsin,Badgers,WIS,Big Ten,Leaders,13,11,2,0
+2011,2751,Wyoming,Wyoming,Cowboys,WYO,Mountain West,,12,8,4,0
+2012,2005,Air Force,Air Force,Falcons,AFA,Mountain West,,12,6,6,0
+2012,2006,Akron,Akron,Zips,AKR,Mid-American,East,12,1,11,0
+2012,333,Alabama,Alabama,Crimson Tide,ALA,SEC,West,13,12,1,0
+2012,12,Arizona,Arizona,Wildcats,ARIZ,Pac-12,South,12,7,5,0
+2012,9,Arizona State,Arizona State,Sun Devils,ASU,Pac-12,South,12,7,5,0
+2012,8,Arkansas,Arkansas,Razorbacks,ARK,SEC,West,12,4,8,0
+2012,2032,Arkansas State,Arkansas State,Red Wolves,ARST,Sun Belt,,12,9,3,0
+2012,349,Army,Army,Black Knights,ARMY,FBS Independents,,13,2,11,0
+2012,2,Auburn,Auburn,Tigers,AUB,SEC,West,12,3,9,0
+2012,2050,Ball State,Ball State,Cardinals,BALL,Mid-American,West,12,9,3,0
+2012,239,Baylor,Baylor,Bears,BAY,Big 12,,12,7,5,0
+2012,68,Boise State,Boise State,Broncos,BSU,Mountain West,,12,10,2,0
+2012,103,Boston College,Boston College,Eagles,BC,ACC,Atlantic,12,2,10,0
+2012,189,Bowling Green,Bowling Green,Falcons,BGSU,Mid-American,East,12,8,4,0
+2012,2084,Buffalo,Buffalo,Bulls,BUFF,Mid-American,East,12,4,8,0
+2012,252,BYU,BYU,Cougars,BYU,FBS Independents,,12,7,5,0
+2012,25,California,California,Golden Bears,CAL,Pac-12,North,12,3,9,0
+2012,2117,Central Michigan,Central Michigan,Chippewas,CMU,Mid-American,West,12,6,6,0
+2012,2132,Cincinnati,Cincinnati,Bearcats,CIN,Big East,,12,9,3,0
+2012,228,Clemson,Clemson,Tigers,CLEM,ACC,Atlantic,12,10,2,0
+2012,38,Colorado,Colorado,Buffaloes,COLO,Pac-12,South,12,1,11,0
+2012,36,Colorado State,Colorado State,Rams,CSU,Mountain West,,12,4,8,0
+2012,41,Connecticut,Connecticut,Huskies,CONN,Big East,,12,5,7,0
+2012,150,Duke,Duke,Blue Devils,DUKE,ACC,Coastal,12,6,6,0
+2012,151,East Carolina,East Carolina,Pirates,ECU,Conference USA,East,12,8,4,0
+2012,2199,Eastern Michigan,Eastern Michigan,Eagles,EMU,Mid-American,West,12,2,10,0
+2012,57,Florida,Florida,Gators,FLA,SEC,East,12,11,1,0
+2012,2226,Florida Atlantic,Florida Atlantic,Owls,FAU,Sun Belt,,12,3,9,0
+2012,2229,Florida International,Florida International,Golden Panthers,FIU,Sun Belt,,12,3,9,0
+2012,52,Florida State,Florida State,Seminoles,FSU,ACC,Atlantic,13,11,2,0
+2012,278,Fresno State,Fresno State,Bulldogs,FRES,Mountain West,,12,9,3,0
+2012,61,Georgia,Georgia,Bulldogs,UGA,SEC,East,13,11,2,0
+2012,59,Georgia Tech,Georgia Tech,Yellow Jackets,GT,ACC,Coastal,13,6,7,0
+2012,62,Hawai'i,Hawai'i,Rainbow Warriors,HAW,Mountain West,,12,3,9,0
+2012,248,Houston,Houston,Cougars,HOU,Conference USA,West,12,5,7,0
+2012,70,Idaho,Idaho,Vandals,IDHO,Western Athletic,,12,1,11,0
+2012,356,Illinois,Illinois,Fighting Illini,ILL,Big Ten,Leaders,12,2,10,0
+2012,84,Indiana,Indiana,Hoosiers,IND,Big Ten,Leaders,12,4,8,0
+2012,2294,Iowa,Iowa,Hawkeyes,IOWA,Big Ten,Legends,12,4,8,0
+2012,66,Iowa State,Iowa State,Cyclones,ISU,Big 12,,12,6,6,0
+2012,2305,Kansas,Kansas,Jayhawks,KU,Big 12,,12,1,11,0
+2012,2306,Kansas State,Kansas State,Wildcats,KSU,Big 12,,12,11,1,0
+2012,2309,Kent State,Kent State,Golden Flashes,KENT,Mid-American,East,13,11,2,0
+2012,96,Kentucky,Kentucky,Wildcats,UK,SEC,East,12,2,10,0
+2012,309,Louisiana,Louisiana,Ragin' Cajuns,ULL,Sun Belt,,12,8,4,0
+2012,2433,Louisiana Monroe,Louisiana Monroe,Warhawks,ULM,Sun Belt,,12,8,4,0
+2012,2348,Louisiana Tech,Louisiana Tech,Bulldogs,LT,Western Athletic,,12,9,3,0
+2012,97,Louisville,Louisville,Cardinals,LOU,Big East,,12,10,2,0
+2012,99,LSU,LSU,Tigers,LSU,SEC,West,12,10,2,0
+2012,276,Marshall,Marshall,Thundering Herd,MRSH,Conference USA,East,12,5,7,0
+2012,120,Maryland,Maryland,Terrapins,MD,ACC,Atlantic,12,4,8,0
+2012,235,Memphis,Memphis,Tigers,MEM,Conference USA,East,12,4,8,0
+2012,2390,Miami,Miami,Hurricanes,MIAMI,ACC,Coastal,12,7,5,0
+2012,193,Miami (OH),Miami (OH),RedHawks,M-OH,Mid-American,East,12,4,8,0
+2012,130,Michigan,Michigan,Wolverines,MICH,Big Ten,Legends,12,8,4,0
+2012,127,Michigan State,Michigan State,Spartans,MSU,Big Ten,Legends,12,6,6,0
+2012,2393,Middle Tennessee,Middle Tennessee,Blue Raiders,MTSU,Sun Belt,,12,8,4,0
+2012,135,Minnesota,Minnesota,Golden Gophers,MINN,Big Ten,Legends,12,6,6,0
+2012,344,Mississippi State,Mississippi State,Bulldogs,MSST,SEC,West,12,8,4,0
+2012,142,Missouri,Missouri,Tigers,MIZ,SEC,East,12,5,7,0
+2012,2426,Navy,Navy,Midshipmen,NAVY,FBS Independents,,12,8,4,0
+2012,152,NC State,NC State,Wolfpack,NCST,ACC,Atlantic,12,7,5,0
+2012,158,Nebraska,Nebraska,Cornhuskers,NEB,Big Ten,Legends,13,10,3,0
+2012,2440,Nevada,Nevada,Wolf Pack,NEV,Mountain West,,12,7,5,0
+2012,167,New Mexico,New Mexico,Lobos,UNM,Mountain West,,13,4,9,0
+2012,166,New Mexico State,New Mexico State,Aggies,NMSU,Western Athletic,,12,1,11,0
+2012,153,North Carolina,North Carolina,Tar Heels,UNC,ACC,Coastal,12,8,4,0
+2012,2459,Northern Illinois,Northern Illinois,Huskies,NIU,Mid-American,West,13,12,1,0
+2012,249,North Texas,North Texas,Mean Green,UNT,Sun Belt,,12,4,8,0
+2012,77,Northwestern,Northwestern,Wildcats,NW,Big Ten,Legends,12,9,3,0
+2012,87,Notre Dame,Notre Dame,Fighting Irish,ND,FBS Independents,,12,12,0,0
+2012,195,Ohio,Ohio,Bobcats,OHIO,Mid-American,East,12,8,4,0
+2012,194,Ohio State,Ohio State,Buckeyes,OSU,Big Ten,Leaders,12,12,0,0
+2012,201,Oklahoma,Oklahoma,Sooners,OKLA,Big 12,,12,10,2,0
+2012,197,Oklahoma State,Oklahoma State,Cowboys,OKST,Big 12,,12,7,5,0
+2012,145,Ole Miss,Ole Miss,Rebels,MISS,SEC,West,12,6,6,0
+2012,2483,Oregon,Oregon,Ducks,ORE,Pac-12,North,12,11,1,0
+2012,204,Oregon State,Oregon State,Beavers,ORST,Pac-12,North,12,9,3,0
+2012,213,Penn State,Penn State,Nittany Lions,PSU,Big Ten,Leaders,12,8,4,0
+2012,221,Pittsburgh,Pittsburgh,Panthers,PITT,Big East,,12,6,6,0
+2012,2509,Purdue,Purdue,Boilermakers,PUR,Big Ten,Leaders,12,6,6,0
+2012,242,Rice,Rice,Owls,RICE,Conference USA,West,12,6,6,0
+2012,164,Rutgers,Rutgers,Scarlet Knights,RUTG,Big East,,12,9,3,0
+2012,21,San Diego State,San Diego State,Aztecs,SDSU,Mountain West,,12,9,3,0
+2012,23,San José State,San José State,Spartans,SJSU,Western Athletic,,12,10,2,0
+2012,2567,SMU,SMU,Mustangs,SMU,Conference USA,West,12,6,6,0
+2012,6,South Alabama,South Alabama,Jaguars,USA,Sun Belt,,13,2,11,0
+2012,2579,South Carolina,South Carolina,Gamecocks,SC,SEC,East,12,10,2,0
+2012,2572,Southern Mississippi,Southern Mississippi,Golden Eagles,USM,Conference USA,East,12,0,12,0
+2012,58,South Florida,South Florida,Bulls,USF,Big East,,12,3,9,0
+2012,24,Stanford,Stanford,Cardinal,STAN,Pac-12,North,13,11,2,0
+2012,183,Syracuse,Syracuse,Orange,SYR,Big East,,12,7,5,0
+2012,2628,TCU,TCU,Horned Frogs,TCU,Big 12,,12,7,5,0
+2012,218,Temple,Temple,Owls,TEM,Big East,,12,5,7,0
+2012,2633,Tennessee,Tennessee,Volunteers,TENN,SEC,East,12,5,7,0
+2012,251,Texas,Texas,Longhorns,TEX,Big 12,,12,8,4,0
+2012,245,Texas A&M,Texas A&M,Aggies,TA&M,SEC,West,12,10,2,0
+2012,326,Texas State,Texas State,Bobcats,TXST,Western Athletic,,12,4,8,0
+2012,2641,Texas Tech,Texas Tech,Red Raiders,TTU,Big 12,,12,7,5,0
+2012,2649,Toledo,Toledo,Rockets,TOL,Mid-American,West,12,9,3,0
+2012,2653,Troy,Troy,Trojans,TROY,Sun Belt,,12,5,7,0
+2012,2655,Tulane,Tulane,Green Wave,TULN,Conference USA,West,12,2,10,0
+2012,202,Tulsa,Tulsa,Golden Hurricane,TLSA,Conference USA,West,13,10,3,0
+2012,5,UAB,UAB,Blazers,UAB,Conference USA,East,12,3,9,0
+2012,2116,UCF,UCF,Knights,UCF,Conference USA,East,13,9,4,0
+2012,26,UCLA,UCLA,Bruins,UCLA,Pac-12,South,13,9,4,0
+2012,113,UMass,UMass,Minutemen,UMASS,Mid-American,East,12,1,11,0
+2012,2439,UNLV,UNLV,Rebels,UNLV,Mountain West,,13,2,11,0
+2012,30,USC,USC,Trojans,USC,Pac-12,South,12,7,5,0
+2012,254,Utah,Utah,Utes,UTAH,Pac-12,South,12,5,7,0
+2012,328,Utah State,Utah State,Aggies,USU,Western Athletic,,12,10,2,0
+2012,2638,UTEP,UTEP,Miners,UTEP,Conference USA,West,12,3,9,0
+2012,2636,UT San Antonio,UT San Antonio,Roadrunners,UTSA,Western Athletic,,12,8,4,0
+2012,238,Vanderbilt,Vanderbilt,Commodores,VAN,SEC,East,12,8,4,0
+2012,258,Virginia,Virginia,Cavaliers,UVA,ACC,Coastal,12,4,8,0
+2012,259,Virginia Tech,Virginia Tech,Hokies,VT,ACC,Coastal,12,6,6,0
+2012,154,Wake Forest,Wake Forest,Demon Deacons,WAKE,ACC,Atlantic,12,5,7,0
+2012,264,Washington,Washington,Huskies,WASH,Pac-12,North,12,7,5,0
+2012,265,Washington State,Washington State,Cougars,WSU,Pac-12,North,12,3,9,0
+2012,98,Western Kentucky,Western Kentucky,Hilltoppers,WKU,Sun Belt,,12,7,5,0
+2012,2711,Western Michigan,Western Michigan,Broncos,WMU,Mid-American,West,12,4,8,0
+2012,277,West Virginia,West Virginia,Mountaineers,WVU,Big 12,,12,7,5,0
+2012,275,Wisconsin,Wisconsin,Badgers,WIS,Big Ten,Leaders,13,8,5,0
+2012,2751,Wyoming,Wyoming,Cowboys,WYO,Mountain West,,12,4,8,0
+2013,2005,Air Force,Air Force,Falcons,AFA,Mountain West,Mountain,12,2,10,0
+2013,2006,Akron,Akron,Zips,AKR,Mid-American,East,12,5,7,0
+2013,333,Alabama,Alabama,Crimson Tide,ALA,SEC,West,12,11,1,0
+2013,12,Arizona,Arizona,Wildcats,ARIZ,Pac-12,South,12,7,5,0
+2013,9,Arizona State,Arizona State,Sun Devils,ASU,Pac-12,South,13,10,3,0
+2013,8,Arkansas,Arkansas,Razorbacks,ARK,SEC,West,12,3,9,0
+2013,2032,Arkansas State,Arkansas State,Red Wolves,ARST,Sun Belt,,12,7,5,0
+2013,349,Army,Army,Black Knights,ARMY,FBS Independents,,12,3,9,0
+2013,2,Auburn,Auburn,Tigers,AUB,SEC,West,13,12,1,0
+2013,2050,Ball State,Ball State,Cardinals,BALL,Mid-American,West,12,10,2,0
+2013,239,Baylor,Baylor,Bears,BAY,Big 12,,12,11,1,0
+2013,68,Boise State,Boise State,Broncos,BSU,Mountain West,Mountain,12,8,4,0
+2013,103,Boston College,Boston College,Eagles,BC,ACC,Atlantic,12,7,5,0
+2013,189,Bowling Green,Bowling Green,Falcons,BGSU,Mid-American,East,13,10,3,0
+2013,2084,Buffalo,Buffalo,Bulls,BUFF,Mid-American,East,12,8,4,0
+2013,252,BYU,BYU,Cougars,BYU,FBS Independents,,12,8,4,0
+2013,25,California,California,Golden Bears,CAL,Pac-12,North,12,1,11,0
+2013,2117,Central Michigan,Central Michigan,Chippewas,CMU,Mid-American,West,12,6,6,0
+2013,2132,Cincinnati,Cincinnati,Bearcats,CIN,American Athletic,,12,9,3,0
+2013,228,Clemson,Clemson,Tigers,CLEM,ACC,Atlantic,12,10,2,0
+2013,38,Colorado,Colorado,Buffaloes,COLO,Pac-12,South,12,4,8,0
+2013,36,Colorado State,Colorado State,Rams,CSU,Mountain West,Mountain,13,7,6,0
+2013,41,Connecticut,Connecticut,Huskies,CONN,American Athletic,,12,3,9,0
+2013,150,Duke,Duke,Blue Devils,DUKE,ACC,Coastal,13,10,3,0
+2013,151,East Carolina,East Carolina,Pirates,ECU,Conference USA,East,12,9,3,0
+2013,2199,Eastern Michigan,Eastern Michigan,Eagles,EMU,Mid-American,West,12,2,10,0
+2013,57,Florida,Florida,Gators,FLA,SEC,East,12,4,8,0
+2013,2226,Florida Atlantic,Florida Atlantic,Owls,FAU,Conference USA,East,12,6,6,0
+2013,2229,Florida International,Florida International,Golden Panthers,FIU,Conference USA,East,12,1,11,0
+2013,52,Florida State,Florida State,Seminoles,FSU,ACC,Atlantic,13,13,0,0
+2013,278,Fresno State,Fresno State,Bulldogs,FRES,Mountain West,West,12,11,1,0
+2013,61,Georgia,Georgia,Bulldogs,UGA,SEC,East,12,8,4,0
+2013,2247,Georgia State,Georgia State,Panthers,GAST,Sun Belt,,12,0,12,0
+2013,59,Georgia Tech,Georgia Tech,Yellow Jackets,GT,ACC,Coastal,12,7,5,0
+2013,62,Hawai'i,Hawai'i,Rainbow Warriors,HAW,Mountain West,West,12,1,11,0
+2013,248,Houston,Houston,Cougars,HOU,American Athletic,,12,8,4,0
+2013,70,Idaho,Idaho,Vandals,IDHO,FBS Independents,,12,1,11,0
+2013,356,Illinois,Illinois,Fighting Illini,ILL,Big Ten,Leaders,12,4,8,0
+2013,84,Indiana,Indiana,Hoosiers,IND,Big Ten,Leaders,12,5,7,0
+2013,2294,Iowa,Iowa,Hawkeyes,IOWA,Big Ten,Legends,12,8,4,0
+2013,66,Iowa State,Iowa State,Cyclones,ISU,Big 12,,12,3,9,0
+2013,2305,Kansas,Kansas,Jayhawks,KU,Big 12,,12,3,9,0
+2013,2306,Kansas State,Kansas State,Wildcats,KSU,Big 12,,12,7,5,0
+2013,2309,Kent State,Kent State,Golden Flashes,KENT,Mid-American,East,12,4,8,0
+2013,96,Kentucky,Kentucky,Wildcats,UK,SEC,East,12,2,10,0
+2013,309,Louisiana,Louisiana,Ragin' Cajuns,ULL,Sun Belt,,12,8,4,0
+2013,2433,Louisiana Monroe,Louisiana Monroe,Warhawks,ULM,Sun Belt,,12,6,6,0
+2013,2348,Louisiana Tech,Louisiana Tech,Bulldogs,LT,Conference USA,West,12,4,8,0
+2013,97,Louisville,Louisville,Cardinals,LOU,American Athletic,,12,11,1,0
+2013,99,LSU,LSU,Tigers,LSU,SEC,West,12,9,3,0
+2013,276,Marshall,Marshall,Thundering Herd,MRSH,Conference USA,East,13,9,4,0
+2013,120,Maryland,Maryland,Terrapins,MD,ACC,Atlantic,12,7,5,0
+2013,235,Memphis,Memphis,Tigers,MEM,American Athletic,,12,3,9,0
+2013,2390,Miami,Miami,Hurricanes,MIAMI,ACC,Coastal,12,9,3,0
+2013,193,Miami (OH),Miami (OH),RedHawks,M-OH,Mid-American,East,12,0,12,0
+2013,130,Michigan,Michigan,Wolverines,MICH,Big Ten,Legends,12,7,5,0
+2013,127,Michigan State,Michigan State,Spartans,MSU,Big Ten,Legends,13,12,1,0
+2013,2393,Middle Tennessee,Middle Tennessee,Blue Raiders,MTSU,Conference USA,East,12,8,4,0
+2013,135,Minnesota,Minnesota,Golden Gophers,MINN,Big Ten,Legends,12,8,4,0
+2013,344,Mississippi State,Mississippi State,Bulldogs,MSST,SEC,West,12,6,6,0
+2013,142,Missouri,Missouri,Tigers,MIZ,SEC,East,13,11,2,0
+2013,2426,Navy,Navy,Midshipmen,NAVY,FBS Independents,,12,8,4,0
+2013,152,NC State,NC State,Wolfpack,NCST,ACC,Atlantic,12,3,9,0
+2013,158,Nebraska,Nebraska,Cornhuskers,NEB,Big Ten,Legends,12,8,4,0
+2013,2440,Nevada,Nevada,Wolf Pack,NEV,Mountain West,West,12,4,8,0
+2013,167,New Mexico,New Mexico,Lobos,UNM,Mountain West,Mountain,12,3,9,0
+2013,166,New Mexico State,New Mexico State,Aggies,NMSU,FBS Independents,,12,2,10,0
+2013,153,North Carolina,North Carolina,Tar Heels,UNC,ACC,Coastal,12,6,6,0
+2013,2459,Northern Illinois,Northern Illinois,Huskies,NIU,Mid-American,West,13,12,1,0
+2013,249,North Texas,North Texas,Mean Green,UNT,Conference USA,West,12,8,4,0
+2013,77,Northwestern,Northwestern,Wildcats,NW,Big Ten,Legends,12,5,7,0
+2013,87,Notre Dame,Notre Dame,Fighting Irish,ND,FBS Independents,,12,8,4,0
+2013,195,Ohio,Ohio,Bobcats,OHIO,Mid-American,East,12,7,5,0
+2013,194,Ohio State,Ohio State,Buckeyes,OSU,Big Ten,Leaders,13,12,1,0
+2013,201,Oklahoma,Oklahoma,Sooners,OKLA,Big 12,,12,10,2,0
+2013,197,Oklahoma State,Oklahoma State,Cowboys,OKST,Big 12,,12,10,2,0
+2013,145,Ole Miss,Ole Miss,Rebels,MISS,SEC,West,12,7,5,0
+2013,2483,Oregon,Oregon,Ducks,ORE,Pac-12,North,12,10,2,0
+2013,204,Oregon State,Oregon State,Beavers,ORST,Pac-12,North,12,6,6,0
+2013,213,Penn State,Penn State,Nittany Lions,PSU,Big Ten,Leaders,12,7,5,0
+2013,221,Pittsburgh,Pittsburgh,Panthers,PITT,ACC,Coastal,12,6,6,0
+2013,2509,Purdue,Purdue,Boilermakers,PUR,Big Ten,Leaders,12,1,11,0
+2013,242,Rice,Rice,Owls,RICE,Conference USA,West,13,10,3,0
+2013,164,Rutgers,Rutgers,Scarlet Knights,RUTG,American Athletic,,12,6,6,0
+2013,21,San Diego State,San Diego State,Aztecs,SDSU,Mountain West,West,12,7,5,0
+2013,23,San José State,San José State,Spartans,SJSU,Mountain West,West,12,6,6,0
+2013,2567,SMU,SMU,Mustangs,SMU,American Athletic,,12,5,7,0
+2013,6,South Alabama,South Alabama,Jaguars,USA,Sun Belt,,12,6,6,0
+2013,2579,South Carolina,South Carolina,Gamecocks,SC,SEC,East,12,10,2,0
+2013,2572,Southern Mississippi,Southern Mississippi,Golden Eagles,USM,Conference USA,East,12,1,11,0
+2013,58,South Florida,South Florida,Bulls,USF,American Athletic,,12,2,10,0
+2013,24,Stanford,Stanford,Cardinal,STAN,Pac-12,North,13,11,2,0
+2013,183,Syracuse,Syracuse,Orange,SYR,ACC,Atlantic,12,6,6,0
+2013,2628,TCU,TCU,Horned Frogs,TCU,Big 12,,12,4,8,0
+2013,218,Temple,Temple,Owls,TEM,American Athletic,,12,2,10,0
+2013,2633,Tennessee,Tennessee,Volunteers,TENN,SEC,East,12,5,7,0
+2013,251,Texas,Texas,Longhorns,TEX,Big 12,,12,8,4,0
+2013,245,Texas A&M,Texas A&M,Aggies,TA&M,SEC,West,12,8,4,0
+2013,326,Texas State,Texas State,Bobcats,TXST,Sun Belt,,12,6,6,0
+2013,2641,Texas Tech,Texas Tech,Red Raiders,TTU,Big 12,,12,7,5,0
+2013,2649,Toledo,Toledo,Rockets,TOL,Mid-American,West,12,7,5,0
+2013,2653,Troy,Troy,Trojans,TROY,Sun Belt,,12,6,6,0
+2013,2655,Tulane,Tulane,Green Wave,TULN,Conference USA,West,12,7,5,0
+2013,202,Tulsa,Tulsa,Golden Hurricane,TLSA,Conference USA,West,12,3,9,0
+2013,5,UAB,UAB,Blazers,UAB,Conference USA,East,12,2,10,0
+2013,2116,UCF,UCF,Knights,UCF,American Athletic,,12,11,1,0
+2013,26,UCLA,UCLA,Bruins,UCLA,Pac-12,South,12,9,3,0
+2013,113,UMass,UMass,Minutemen,UMASS,Mid-American,East,12,1,11,0
+2013,2439,UNLV,UNLV,Rebels,UNLV,Mountain West,West,12,7,5,0
+2013,30,USC,USC,Trojans,USC,Pac-12,South,13,9,4,0
+2013,254,Utah,Utah,Utes,UTAH,Pac-12,South,12,5,7,0
+2013,328,Utah State,Utah State,Aggies,USU,Mountain West,Mountain,13,8,5,0
+2013,2638,UTEP,UTEP,Miners,UTEP,Conference USA,West,12,2,10,0
+2013,2636,UT San Antonio,UT San Antonio,Roadrunners,UTSA,Conference USA,West,12,7,5,0
+2013,238,Vanderbilt,Vanderbilt,Commodores,VAN,SEC,East,12,8,4,0
+2013,258,Virginia,Virginia,Cavaliers,UVA,ACC,Coastal,12,2,10,0
+2013,259,Virginia Tech,Virginia Tech,Hokies,VT,ACC,Coastal,12,8,4,0
+2013,154,Wake Forest,Wake Forest,Demon Deacons,WAKE,ACC,Atlantic,12,4,8,0
+2013,264,Washington,Washington,Huskies,WASH,Pac-12,North,12,8,4,0
+2013,265,Washington State,Washington State,Cougars,WSU,Pac-12,North,12,6,6,0
+2013,98,Western Kentucky,Western Kentucky,Hilltoppers,WKU,Sun Belt,,12,8,4,0
+2013,2711,Western Michigan,Western Michigan,Broncos,WMU,Mid-American,West,12,1,11,0
+2013,277,West Virginia,West Virginia,Mountaineers,WVU,Big 12,,12,4,8,0
+2013,275,Wisconsin,Wisconsin,Badgers,WIS,Big Ten,Leaders,12,9,3,0
+2013,2751,Wyoming,Wyoming,Cowboys,WYO,Mountain West,Mountain,12,5,7,0
+2014,2005,Air Force,Air Force,Falcons,AFA,Mountain West,Mountain,12,9,3,0
+2014,2006,Akron,Akron,Zips,AKR,Mid-American,East,12,5,7,0
+2014,333,Alabama,Alabama,Crimson Tide,ALA,SEC,West,13,12,1,0
+2014,2026,Appalachian State,Appalachian State,Mountaineers,APP,Sun Belt,,12,7,5,0
+2014,12,Arizona,Arizona,Wildcats,ARIZ,Pac-12,South,13,10,3,0
+2014,9,Arizona State,Arizona State,Sun Devils,ASU,Pac-12,South,12,9,3,0
+2014,8,Arkansas,Arkansas,Razorbacks,ARK,SEC,West,12,6,6,0
+2014,2032,Arkansas State,Arkansas State,Red Wolves,ARST,Sun Belt,,12,7,5,0
+2014,349,Army,Army,Black Knights,ARMY,FBS Independents,,12,4,8,0
+2014,2,Auburn,Auburn,Tigers,AUB,SEC,West,12,8,4,0
+2014,2050,Ball State,Ball State,Cardinals,BALL,Mid-American,West,12,5,7,0
+2014,239,Baylor,Baylor,Bears,BAY,Big 12,,12,11,1,0
+2014,68,Boise State,Boise State,Broncos,BSU,Mountain West,Mountain,13,11,2,0
+2014,103,Boston College,Boston College,Eagles,BC,ACC,Atlantic,12,7,5,0
+2014,189,Bowling Green,Bowling Green,Falcons,BGSU,Mid-American,East,13,7,6,0
+2014,2084,Buffalo,Buffalo,Bulls,BUFF,Mid-American,East,11,5,6,0
+2014,252,BYU,BYU,Cougars,BYU,FBS Independents,,12,8,4,0
+2014,25,California,California,Golden Bears,CAL,Pac-12,North,12,5,7,0
+2014,2117,Central Michigan,Central Michigan,Chippewas,CMU,Mid-American,West,12,7,5,0
+2014,2132,Cincinnati,Cincinnati,Bearcats,CIN,American Athletic,,12,9,3,0
+2014,228,Clemson,Clemson,Tigers,CLEM,ACC,Atlantic,12,9,3,0
+2014,38,Colorado,Colorado,Buffaloes,COLO,Pac-12,South,12,2,10,0
+2014,36,Colorado State,Colorado State,Rams,CSU,Mountain West,Mountain,12,10,2,0
+2014,41,Connecticut,Connecticut,Huskies,CONN,American Athletic,,12,2,10,0
+2014,150,Duke,Duke,Blue Devils,DUKE,ACC,Coastal,12,9,3,0
+2014,151,East Carolina,East Carolina,Pirates,ECU,American Athletic,,12,8,4,0
+2014,2199,Eastern Michigan,Eastern Michigan,Eagles,EMU,Mid-American,West,12,2,10,0
+2014,57,Florida,Florida,Gators,FLA,SEC,East,11,6,5,0
+2014,2226,Florida Atlantic,Florida Atlantic,Owls,FAU,Conference USA,East,12,3,9,0
+2014,2229,Florida International,Florida International,Golden Panthers,FIU,Conference USA,East,12,4,8,0
+2014,52,Florida State,Florida State,Seminoles,FSU,ACC,Atlantic,13,13,0,0
+2014,278,Fresno State,Fresno State,Bulldogs,FRES,Mountain West,West,13,6,7,0
+2014,61,Georgia,Georgia,Bulldogs,UGA,SEC,East,12,9,3,0
+2014,290,Georgia Southern,Georgia Southern,Eagles,GASO,Sun Belt,,12,9,3,0
+2014,2247,Georgia State,Georgia State,Panthers,GAST,Sun Belt,,12,1,11,0
+2014,59,Georgia Tech,Georgia Tech,Yellow Jackets,GT,ACC,Coastal,13,10,3,0
+2014,62,Hawai'i,Hawai'i,Rainbow Warriors,HAW,Mountain West,West,13,4,9,0
+2014,248,Houston,Houston,Cougars,HOU,American Athletic,,12,7,5,0
+2014,70,Idaho,Idaho,Vandals,IDHO,Sun Belt,,11,1,10,0
+2014,356,Illinois,Illinois,Fighting Illini,ILL,Big Ten,West,12,6,6,0
+2014,84,Indiana,Indiana,Hoosiers,IND,Big Ten,East,12,4,8,0
+2014,2294,Iowa,Iowa,Hawkeyes,IOWA,Big Ten,West,12,7,5,0
+2014,66,Iowa State,Iowa State,Cyclones,ISU,Big 12,,12,2,10,0
+2014,2305,Kansas,Kansas,Jayhawks,KU,Big 12,,12,3,9,0
+2014,2306,Kansas State,Kansas State,Wildcats,KSU,Big 12,,12,9,3,0
+2014,2309,Kent State,Kent State,Golden Flashes,KENT,Mid-American,East,11,2,9,0
+2014,96,Kentucky,Kentucky,Wildcats,UK,SEC,East,12,5,7,0
+2014,309,Louisiana,Louisiana,Ragin' Cajuns,ULL,Sun Belt,,12,8,4,0
+2014,2433,Louisiana Monroe,Louisiana Monroe,Warhawks,ULM,Sun Belt,,12,4,8,0
+2014,2348,Louisiana Tech,Louisiana Tech,Bulldogs,LT,Conference USA,West,13,8,5,0
+2014,97,Louisville,Louisville,Cardinals,LOU,ACC,Atlantic,12,9,3,0
+2014,99,LSU,LSU,Tigers,LSU,SEC,West,12,8,4,0
+2014,276,Marshall,Marshall,Thundering Herd,MRSH,Conference USA,East,13,12,1,0
+2014,120,Maryland,Maryland,Terrapins,MD,Big Ten,East,12,7,5,0
+2014,235,Memphis,Memphis,Tigers,MEM,American Athletic,,12,9,3,0
+2014,2390,Miami,Miami,Hurricanes,MIAMI,ACC,Coastal,12,6,6,0
+2014,193,Miami (OH),Miami (OH),RedHawks,M-OH,Mid-American,East,12,2,10,0
+2014,130,Michigan,Michigan,Wolverines,MICH,Big Ten,East,12,5,7,0
+2014,127,Michigan State,Michigan State,Spartans,MSU,Big Ten,East,12,10,2,0
+2014,2393,Middle Tennessee,Middle Tennessee,Blue Raiders,MTSU,Conference USA,East,12,6,6,0
+2014,135,Minnesota,Minnesota,Golden Gophers,MINN,Big Ten,West,12,8,4,0
+2014,344,Mississippi State,Mississippi State,Bulldogs,MSST,SEC,West,12,10,2,0
+2014,142,Missouri,Missouri,Tigers,MIZ,SEC,East,13,10,3,0
+2014,2426,Navy,Navy,Midshipmen,NAVY,FBS Independents,,12,7,5,0
+2014,152,NC State,NC State,Wolfpack,NCST,ACC,Atlantic,12,7,5,0
+2014,158,Nebraska,Nebraska,Cornhuskers,NEB,Big Ten,West,12,9,3,0
+2014,2440,Nevada,Nevada,Wolf Pack,NEV,Mountain West,West,12,7,5,0
+2014,167,New Mexico,New Mexico,Lobos,UNM,Mountain West,Mountain,12,4,8,0
+2014,166,New Mexico State,New Mexico State,Aggies,NMSU,Sun Belt,,12,2,10,0
+2014,153,North Carolina,North Carolina,Tar Heels,UNC,ACC,Coastal,12,6,6,0
+2014,2459,Northern Illinois,Northern Illinois,Huskies,NIU,Mid-American,West,13,11,2,0
+2014,249,North Texas,North Texas,Mean Green,UNT,Conference USA,West,12,4,8,0
+2014,77,Northwestern,Northwestern,Wildcats,NW,Big Ten,West,12,5,7,0
+2014,87,Notre Dame,Notre Dame,Fighting Irish,ND,FBS Independents,,12,7,5,0
+2014,195,Ohio,Ohio,Bobcats,OHIO,Mid-American,East,12,6,6,0
+2014,194,Ohio State,Ohio State,Buckeyes,OSU,Big Ten,East,13,12,1,0
+2014,201,Oklahoma,Oklahoma,Sooners,OKLA,Big 12,,12,8,4,0
+2014,197,Oklahoma State,Oklahoma State,Cowboys,OKST,Big 12,,12,6,6,0
+2014,295,Old Dominion,Old Dominion,Monarchs,ODU,Conference USA,East,12,6,6,0
+2014,145,Ole Miss,Ole Miss,Rebels,MISS,SEC,West,12,9,3,0
+2014,2483,Oregon,Oregon,Ducks,ORE,Pac-12,North,13,12,1,0
+2014,204,Oregon State,Oregon State,Beavers,ORST,Pac-12,North,12,5,7,0
+2014,213,Penn State,Penn State,Nittany Lions,PSU,Big Ten,East,12,6,6,0
+2014,221,Pittsburgh,Pittsburgh,Panthers,PITT,ACC,Coastal,12,6,6,0
+2014,2509,Purdue,Purdue,Boilermakers,PUR,Big Ten,West,12,3,9,0
+2014,242,Rice,Rice,Owls,RICE,Conference USA,West,12,7,5,0
+2014,164,Rutgers,Rutgers,Scarlet Knights,RUTG,Big Ten,East,12,7,5,0
+2014,21,San Diego State,San Diego State,Aztecs,SDSU,Mountain West,West,12,7,5,0
+2014,23,San José State,San José State,Spartans,SJSU,Mountain West,West,12,3,9,0
+2014,2567,SMU,SMU,Mustangs,SMU,American Athletic,,12,1,11,0
+2014,6,South Alabama,South Alabama,Jaguars,USA,Sun Belt,,12,6,6,0
+2014,2579,South Carolina,South Carolina,Gamecocks,SC,SEC,East,12,6,6,0
+2014,2572,Southern Mississippi,Southern Mississippi,Golden Eagles,USM,Conference USA,West,12,3,9,0
+2014,58,South Florida,South Florida,Bulls,USF,American Athletic,,12,4,8,0
+2014,24,Stanford,Stanford,Cardinal,STAN,Pac-12,North,12,7,5,0
+2014,183,Syracuse,Syracuse,Orange,SYR,ACC,Atlantic,12,3,9,0
+2014,2628,TCU,TCU,Horned Frogs,TCU,Big 12,,12,11,1,0
+2014,218,Temple,Temple,Owls,TEM,American Athletic,,12,6,6,0
+2014,2633,Tennessee,Tennessee,Volunteers,TENN,SEC,East,12,6,6,0
+2014,251,Texas,Texas,Longhorns,TEX,Big 12,,12,6,6,0
+2014,245,Texas A&M,Texas A&M,Aggies,TA&M,SEC,West,12,7,5,0
+2014,326,Texas State,Texas State,Bobcats,TXST,Sun Belt,,12,7,5,0
+2014,2641,Texas Tech,Texas Tech,Red Raiders,TTU,Big 12,,12,4,8,0
+2014,2649,Toledo,Toledo,Rockets,TOL,Mid-American,West,12,8,4,0
+2014,2653,Troy,Troy,Trojans,TROY,Sun Belt,,12,3,9,0
+2014,2655,Tulane,Tulane,Green Wave,TULN,American Athletic,,12,3,9,0
+2014,202,Tulsa,Tulsa,Golden Hurricane,TLSA,American Athletic,,12,2,10,0
+2014,5,UAB,UAB,Blazers,UAB,Conference USA,East,12,6,6,0
+2014,2116,UCF,UCF,Knights,UCF,American Athletic,,12,9,3,0
+2014,26,UCLA,UCLA,Bruins,UCLA,Pac-12,South,12,9,3,0
+2014,113,UMass,UMass,Minutemen,UMASS,Mid-American,East,12,3,9,0
+2014,2439,UNLV,UNLV,Rebels,UNLV,Mountain West,West,13,2,11,0
+2014,30,USC,USC,Trojans,USC,Pac-12,South,12,8,4,0
+2014,254,Utah,Utah,Utes,UTAH,Pac-12,South,12,8,4,0
+2014,328,Utah State,Utah State,Aggies,USU,Mountain West,Mountain,13,9,4,0
+2014,2638,UTEP,UTEP,Miners,UTEP,Conference USA,West,12,7,5,0
+2014,2636,UT San Antonio,UT San Antonio,Roadrunners,UTSA,Conference USA,West,12,4,8,0
+2014,238,Vanderbilt,Vanderbilt,Commodores,VAN,SEC,East,12,3,9,0
+2014,258,Virginia,Virginia,Cavaliers,UVA,ACC,Coastal,12,5,7,0
+2014,259,Virginia Tech,Virginia Tech,Hokies,VT,ACC,Coastal,12,6,6,0
+2014,154,Wake Forest,Wake Forest,Demon Deacons,WAKE,ACC,Atlantic,12,3,9,0
+2014,264,Washington,Washington,Huskies,WASH,Pac-12,North,13,8,5,0
+2014,265,Washington State,Washington State,Cougars,WSU,Pac-12,North,12,3,9,0
+2014,98,Western Kentucky,Western Kentucky,Hilltoppers,WKU,Conference USA,East,12,7,5,0
+2014,2711,Western Michigan,Western Michigan,Broncos,WMU,Mid-American,West,12,8,4,0
+2014,277,West Virginia,West Virginia,Mountaineers,WVU,Big 12,,12,7,5,0
+2014,275,Wisconsin,Wisconsin,Badgers,WIS,Big Ten,West,13,10,3,0
+2014,2751,Wyoming,Wyoming,Cowboys,WYO,Mountain West,Mountain,12,4,8,0
+2015,2005,Air Force,Air Force,Falcons,AFA,Mountain West,Mountain,13,8,5,0
+2015,2006,Akron,Akron,Zips,AKR,Mid-American,East,12,7,5,0
+2015,333,Alabama,Alabama,Crimson Tide,ALA,SEC,West,13,12,1,0
+2015,2026,Appalachian State,Appalachian State,Mountaineers,APP,Sun Belt,,12,10,2,0
+2015,12,Arizona,Arizona,Wildcats,ARIZ,Pac-12,South,12,6,6,0
+2015,9,Arizona State,Arizona State,Sun Devils,ASU,Pac-12,South,12,6,6,0
+2015,8,Arkansas,Arkansas,Razorbacks,ARK,SEC,West,12,7,5,0
+2015,2032,Arkansas State,Arkansas State,Red Wolves,ARST,Sun Belt,,12,9,3,0
+2015,349,Army,Army,Black Knights,ARMY,FBS Independents,,12,2,10,0
+2015,2,Auburn,Auburn,Tigers,AUB,SEC,West,12,6,6,0
+2015,2050,Ball State,Ball State,Cardinals,BALL,Mid-American,West,12,3,9,0
+2015,239,Baylor,Baylor,Bears,BAY,Big 12,,12,9,3,0
+2015,68,Boise State,Boise State,Broncos,BSU,Mountain West,Mountain,12,8,4,0
+2015,103,Boston College,Boston College,Eagles,BC,ACC,Atlantic,12,3,9,0
+2015,189,Bowling Green,Bowling Green,Falcons,BGSU,Mid-American,East,13,10,3,0
+2015,2084,Buffalo,Buffalo,Bulls,BUFF,Mid-American,East,12,5,7,0
+2015,252,BYU,BYU,Cougars,BYU,FBS Independents,,12,9,3,0
+2015,25,California,California,Golden Bears,CAL,Pac-12,North,12,7,5,0
+2015,2117,Central Michigan,Central Michigan,Chippewas,CMU,Mid-American,West,12,7,5,0
+2015,2429,Charlotte,Charlotte,49ers,CHAR,Conference USA,East,12,2,10,0
+2015,2132,Cincinnati,Cincinnati,Bearcats,CIN,American Athletic,East,12,7,5,0
+2015,228,Clemson,Clemson,Tigers,CLEM,ACC,Atlantic,13,13,0,0
+2015,38,Colorado,Colorado,Buffaloes,COLO,Pac-12,South,13,4,9,0
+2015,36,Colorado State,Colorado State,Rams,CSU,Mountain West,Mountain,12,7,5,0
+2015,41,Connecticut,Connecticut,Huskies,CONN,American Athletic,East,12,6,6,0
+2015,150,Duke,Duke,Blue Devils,DUKE,ACC,Coastal,12,7,5,0
+2015,151,East Carolina,East Carolina,Pirates,ECU,American Athletic,East,12,5,7,0
+2015,2199,Eastern Michigan,Eastern Michigan,Eagles,EMU,Mid-American,West,12,1,11,0
+2015,57,Florida,Florida,Gators,FLA,SEC,East,13,10,3,0
+2015,2226,Florida Atlantic,Florida Atlantic,Owls,FAU,Conference USA,East,12,3,9,0
+2015,2229,Florida International,Florida International,Golden Panthers,FIU,Conference USA,East,12,5,7,0
+2015,52,Florida State,Florida State,Seminoles,FSU,ACC,Atlantic,12,10,2,0
+2015,278,Fresno State,Fresno State,Bulldogs,FRES,Mountain West,West,12,3,9,0
+2015,61,Georgia,Georgia,Bulldogs,UGA,SEC,East,12,9,3,0
+2015,290,Georgia Southern,Georgia Southern,Eagles,GASO,Sun Belt,,12,8,4,0
+2015,2247,Georgia State,Georgia State,Panthers,GAST,Sun Belt,,12,6,6,0
+2015,59,Georgia Tech,Georgia Tech,Yellow Jackets,GT,ACC,Coastal,12,3,9,0
+2015,62,Hawai'i,Hawai'i,Rainbow Warriors,HAW,Mountain West,West,13,3,10,0
+2015,248,Houston,Houston,Cougars,HOU,American Athletic,West,13,12,1,0
+2015,70,Idaho,Idaho,Vandals,IDHO,Sun Belt,,12,4,8,0
+2015,356,Illinois,Illinois,Fighting Illini,ILL,Big Ten,West,12,5,7,0
+2015,84,Indiana,Indiana,Hoosiers,IND,Big Ten,East,12,6,6,0
+2015,2294,Iowa,Iowa,Hawkeyes,IOWA,Big Ten,West,13,12,1,0
+2015,66,Iowa State,Iowa State,Cyclones,ISU,Big 12,,12,3,9,0
+2015,2305,Kansas,Kansas,Jayhawks,KU,Big 12,,12,0,12,0
+2015,2306,Kansas State,Kansas State,Wildcats,KSU,Big 12,,12,6,6,0
+2015,2309,Kent State,Kent State,Golden Flashes,KENT,Mid-American,East,12,3,9,0
+2015,96,Kentucky,Kentucky,Wildcats,UK,SEC,East,12,5,7,0
+2015,309,Louisiana,Louisiana,Ragin' Cajuns,ULL,Sun Belt,,12,4,8,0
+2015,2433,Louisiana Monroe,Louisiana Monroe,Warhawks,ULM,Sun Belt,,13,2,11,0
+2015,2348,Louisiana Tech,Louisiana Tech,Bulldogs,LT,Conference USA,West,12,8,4,0
+2015,97,Louisville,Louisville,Cardinals,LOU,ACC,Atlantic,12,7,5,0
+2015,99,LSU,LSU,Tigers,LSU,SEC,West,11,8,3,0
+2015,276,Marshall,Marshall,Thundering Herd,MRSH,Conference USA,East,12,9,3,0
+2015,120,Maryland,Maryland,Terrapins,MD,Big Ten,East,12,3,9,0
+2015,235,Memphis,Memphis,Tigers,MEM,American Athletic,West,12,9,3,0
+2015,2390,Miami,Miami,Hurricanes,MIAMI,ACC,Coastal,12,8,4,0
+2015,193,Miami (OH),Miami (OH),RedHawks,M-OH,Mid-American,East,12,3,9,0
+2015,130,Michigan,Michigan,Wolverines,MICH,Big Ten,East,12,9,3,0
+2015,127,Michigan State,Michigan State,Spartans,MSU,Big Ten,East,13,12,1,0
+2015,2393,Middle Tennessee,Middle Tennessee,Blue Raiders,MTSU,Conference USA,East,12,7,5,0
+2015,135,Minnesota,Minnesota,Golden Gophers,MINN,Big Ten,West,12,5,7,0
+2015,344,Mississippi State,Mississippi State,Bulldogs,MSST,SEC,West,12,8,4,0
+2015,142,Missouri,Missouri,Tigers,MIZ,SEC,East,12,5,7,0
+2015,2426,Navy,Navy,Midshipmen,NAVY,American Athletic,West,12,10,2,0
+2015,152,NC State,NC State,Wolfpack,NCST,ACC,Atlantic,12,7,5,0
+2015,158,Nebraska,Nebraska,Cornhuskers,NEB,Big Ten,West,12,5,7,0
+2015,2440,Nevada,Nevada,Wolf Pack,NEV,Mountain West,West,12,6,6,0
+2015,167,New Mexico,New Mexico,Lobos,UNM,Mountain West,Mountain,12,7,5,0
+2015,166,New Mexico State,New Mexico State,Aggies,NMSU,Sun Belt,,12,3,9,0
+2015,153,North Carolina,North Carolina,Tar Heels,UNC,ACC,Coastal,13,11,2,0
+2015,2459,Northern Illinois,Northern Illinois,Huskies,NIU,Mid-American,West,13,8,5,0
+2015,249,North Texas,North Texas,Mean Green,UNT,Conference USA,West,12,1,11,0
+2015,77,Northwestern,Northwestern,Wildcats,NW,Big Ten,West,12,10,2,0
+2015,87,Notre Dame,Notre Dame,Fighting Irish,ND,FBS Independents,,12,10,2,0
+2015,195,Ohio,Ohio,Bobcats,OHIO,Mid-American,East,12,8,4,0
+2015,194,Ohio State,Ohio State,Buckeyes,OSU,Big Ten,East,12,11,1,0
+2015,201,Oklahoma,Oklahoma,Sooners,OKLA,Big 12,,12,11,1,0
+2015,197,Oklahoma State,Oklahoma State,Cowboys,OKST,Big 12,,12,10,2,0
+2015,295,Old Dominion,Old Dominion,Monarchs,ODU,Conference USA,East,12,5,7,0
+2015,145,Ole Miss,Ole Miss,Rebels,MISS,SEC,West,12,9,3,0
+2015,2483,Oregon,Oregon,Ducks,ORE,Pac-12,North,12,9,3,0
+2015,204,Oregon State,Oregon State,Beavers,ORST,Pac-12,North,12,2,10,0
+2015,213,Penn State,Penn State,Nittany Lions,PSU,Big Ten,East,12,7,5,0
+2015,221,Pittsburgh,Pittsburgh,Panthers,PITT,ACC,Coastal,12,8,4,0
+2015,2509,Purdue,Purdue,Boilermakers,PUR,Big Ten,West,12,2,10,0
+2015,242,Rice,Rice,Owls,RICE,Conference USA,West,12,5,7,0
+2015,164,Rutgers,Rutgers,Scarlet Knights,RUTG,Big Ten,East,12,4,8,0
+2015,21,San Diego State,San Diego State,Aztecs,SDSU,Mountain West,West,13,10,3,0
+2015,23,San José State,San José State,Spartans,SJSU,Mountain West,West,12,5,7,0
+2015,2567,SMU,SMU,Mustangs,SMU,American Athletic,West,12,2,10,0
+2015,6,South Alabama,South Alabama,Jaguars,USA,Sun Belt,,12,5,7,0
+2015,2579,South Carolina,South Carolina,Gamecocks,SC,SEC,East,12,3,9,0
+2015,2572,Southern Mississippi,Southern Mississippi,Golden Eagles,USM,Conference USA,West,13,9,4,0
+2015,58,South Florida,South Florida,Bulls,USF,American Athletic,East,12,8,4,0
+2015,24,Stanford,Stanford,Cardinal,STAN,Pac-12,North,13,11,2,0
+2015,183,Syracuse,Syracuse,Orange,SYR,ACC,Atlantic,12,4,8,0
+2015,2628,TCU,TCU,Horned Frogs,TCU,Big 12,,12,10,2,0
+2015,218,Temple,Temple,Owls,TEM,American Athletic,East,13,10,3,0
+2015,2633,Tennessee,Tennessee,Volunteers,TENN,SEC,East,12,8,4,0
+2015,251,Texas,Texas,Longhorns,TEX,Big 12,,12,5,7,0
+2015,245,Texas A&M,Texas A&M,Aggies,TA&M,SEC,West,12,8,4,0
+2015,326,Texas State,Texas State,Bobcats,TXST,Sun Belt,,12,3,9,0
+2015,2641,Texas Tech,Texas Tech,Red Raiders,TTU,Big 12,,12,7,5,0
+2015,2649,Toledo,Toledo,Rockets,TOL,Mid-American,West,11,9,2,0
+2015,2653,Troy,Troy,Trojans,TROY,Sun Belt,,12,4,8,0
+2015,2655,Tulane,Tulane,Green Wave,TULN,American Athletic,West,12,3,9,0
+2015,202,Tulsa,Tulsa,Golden Hurricane,TLSA,American Athletic,West,12,6,6,0
+2015,2116,UCF,UCF,Knights,UCF,American Athletic,East,12,0,12,0
+2015,26,UCLA,UCLA,Bruins,UCLA,Pac-12,South,12,8,4,0
+2015,113,UMass,UMass,Minutemen,UMASS,Mid-American,East,12,3,9,0
+2015,2439,UNLV,UNLV,Rebels,UNLV,Mountain West,West,12,3,9,0
+2015,30,USC,USC,Trojans,USC,Pac-12,South,13,8,5,0
+2015,254,Utah,Utah,Utes,UTAH,Pac-12,South,12,9,3,0
+2015,328,Utah State,Utah State,Aggies,USU,Mountain West,Mountain,12,6,6,0
+2015,2638,UTEP,UTEP,Miners,UTEP,Conference USA,West,12,5,7,0
+2015,2636,UT San Antonio,UT San Antonio,Roadrunners,UTSA,Conference USA,West,12,3,9,0
+2015,238,Vanderbilt,Vanderbilt,Commodores,VAN,SEC,East,12,4,8,0
+2015,258,Virginia,Virginia,Cavaliers,UVA,ACC,Coastal,12,4,8,0
+2015,259,Virginia Tech,Virginia Tech,Hokies,VT,ACC,Coastal,12,6,6,0
+2015,154,Wake Forest,Wake Forest,Demon Deacons,WAKE,ACC,Atlantic,12,3,9,0
+2015,264,Washington,Washington,Huskies,WASH,Pac-12,North,12,6,6,0
+2015,265,Washington State,Washington State,Cougars,WSU,Pac-12,North,12,8,4,0
+2015,98,Western Kentucky,Western Kentucky,Hilltoppers,WKU,Conference USA,East,13,11,2,0
+2015,2711,Western Michigan,Western Michigan,Broncos,WMU,Mid-American,West,12,7,5,0
+2015,277,West Virginia,West Virginia,Mountaineers,WVU,Big 12,,12,7,5,0
+2015,275,Wisconsin,Wisconsin,Badgers,WIS,Big Ten,West,12,9,3,0
+2015,2751,Wyoming,Wyoming,Cowboys,WYO,Mountain West,Mountain,12,2,10,0
+2016,2005,Air Force,Air Force,Falcons,AFA,Mountain West,Mountain,12,9,3,0
+2016,2006,Akron,Akron,Zips,AKR,Mid-American,East,12,5,7,0
+2016,333,Alabama,Alabama,Crimson Tide,ALA,SEC,West,13,13,0,0
+2016,2026,Appalachian State,Appalachian State,Mountaineers,APP,Sun Belt,,12,9,3,0
+2016,12,Arizona,Arizona,Wildcats,ARIZ,Pac-12,South,12,3,9,0
+2016,9,Arizona State,Arizona State,Sun Devils,ASU,Pac-12,South,12,5,7,0
+2016,8,Arkansas,Arkansas,Razorbacks,ARK,SEC,West,12,7,5,0
+2016,2032,Arkansas State,Arkansas State,Red Wolves,ARST,Sun Belt,,12,7,5,0
+2016,349,Army,Army,Black Knights,ARMY,FBS Independents,,12,7,5,0
+2016,2,Auburn,Auburn,Tigers,AUB,SEC,West,12,8,4,0
+2016,2050,Ball State,Ball State,Cardinals,BALL,Mid-American,West,12,4,8,0
+2016,239,Baylor,Baylor,Bears,BAY,Big 12,,12,6,6,0
+2016,68,Boise State,Boise State,Broncos,BSU,Mountain West,Mountain,12,10,2,0
+2016,103,Boston College,Boston College,Eagles,BC,ACC,Atlantic,12,6,6,0
+2016,189,Bowling Green,Bowling Green,Falcons,BGSU,Mid-American,East,12,4,8,0
+2016,2084,Buffalo,Buffalo,Bulls,BUFF,Mid-American,East,12,2,10,0
+2016,252,BYU,BYU,Cougars,BYU,FBS Independents,,12,8,4,0
+2016,25,California,California,Golden Bears,CAL,Pac-12,North,12,5,7,0
+2016,2117,Central Michigan,Central Michigan,Chippewas,CMU,Mid-American,West,12,6,6,0
+2016,2429,Charlotte,Charlotte,49ers,CHAR,Conference USA,East,12,4,8,0
+2016,2132,Cincinnati,Cincinnati,Bearcats,CIN,American Athletic,East,12,4,8,0
+2016,228,Clemson,Clemson,Tigers,CLEM,ACC,Atlantic,13,12,1,0
+2016,38,Colorado,Colorado,Buffaloes,COLO,Pac-12,South,13,10,3,0
+2016,36,Colorado State,Colorado State,Rams,CSU,Mountain West,Mountain,12,7,5,0
+2016,41,Connecticut,Connecticut,Huskies,CONN,American Athletic,East,12,3,9,0
+2016,150,Duke,Duke,Blue Devils,DUKE,ACC,Coastal,12,4,8,0
+2016,151,East Carolina,East Carolina,Pirates,ECU,American Athletic,East,12,3,9,0
+2016,2199,Eastern Michigan,Eastern Michigan,Eagles,EMU,Mid-American,West,12,7,5,0
+2016,57,Florida,Florida,Gators,FLA,SEC,East,12,8,4,0
+2016,2226,Florida Atlantic,Florida Atlantic,Owls,FAU,Conference USA,East,12,3,9,0
+2016,2229,Florida International,Florida International,Golden Panthers,FIU,Conference USA,East,12,4,8,0
+2016,52,Florida State,Florida State,Seminoles,FSU,ACC,Atlantic,12,9,3,0
+2016,278,Fresno State,Fresno State,Bulldogs,FRES,Mountain West,West,12,1,11,0
+2016,61,Georgia,Georgia,Bulldogs,UGA,SEC,East,12,7,5,0
+2016,290,Georgia Southern,Georgia Southern,Eagles,GASO,Sun Belt,,12,5,7,0
+2016,2247,Georgia State,Georgia State,Panthers,GAST,Sun Belt,,12,3,9,0
+2016,59,Georgia Tech,Georgia Tech,Yellow Jackets,GT,ACC,Coastal,12,8,4,0
+2016,62,Hawai'i,Hawai'i,Rainbow Warriors,HAW,Mountain West,West,13,6,7,0
+2016,248,Houston,Houston,Cougars,HOU,American Athletic,West,12,9,3,0
+2016,70,Idaho,Idaho,Vandals,IDHO,Sun Belt,,12,8,4,0
+2016,356,Illinois,Illinois,Fighting Illini,ILL,Big Ten,West,12,3,9,0
+2016,84,Indiana,Indiana,Hoosiers,IND,Big Ten,East,12,6,6,0
+2016,2294,Iowa,Iowa,Hawkeyes,IOWA,Big Ten,West,12,8,4,0
+2016,66,Iowa State,Iowa State,Cyclones,ISU,Big 12,,12,3,9,0
+2016,2305,Kansas,Kansas,Jayhawks,KU,Big 12,,12,2,10,0
+2016,2306,Kansas State,Kansas State,Wildcats,KSU,Big 12,,12,8,4,0
+2016,2309,Kent State,Kent State,Golden Flashes,KENT,Mid-American,East,12,3,9,0
+2016,96,Kentucky,Kentucky,Wildcats,UK,SEC,East,12,7,5,0
+2016,309,Louisiana,Louisiana,Ragin' Cajuns,ULL,Sun Belt,,12,6,6,0
+2016,2433,Louisiana Monroe,Louisiana Monroe,Warhawks,ULM,Sun Belt,,12,4,8,0
+2016,2348,Louisiana Tech,Louisiana Tech,Bulldogs,LT,Conference USA,West,13,8,5,0
+2016,97,Louisville,Louisville,Cardinals,LOU,ACC,Atlantic,12,9,3,0
+2016,99,LSU,LSU,Tigers,LSU,SEC,West,11,7,4,0
+2016,276,Marshall,Marshall,Thundering Herd,MRSH,Conference USA,East,12,3,9,0
+2016,120,Maryland,Maryland,Terrapins,MD,Big Ten,East,12,6,6,0
+2016,235,Memphis,Memphis,Tigers,MEM,American Athletic,West,12,8,4,0
+2016,2390,Miami,Miami,Hurricanes,MIAMI,ACC,Coastal,12,8,4,0
+2016,193,Miami (OH),Miami (OH),RedHawks,M-OH,Mid-American,East,12,6,6,0
+2016,130,Michigan,Michigan,Wolverines,MICH,Big Ten,East,12,10,2,0
+2016,127,Michigan State,Michigan State,Spartans,MSU,Big Ten,East,12,3,9,0
+2016,2393,Middle Tennessee,Middle Tennessee,Blue Raiders,MTSU,Conference USA,East,12,8,4,0
+2016,135,Minnesota,Minnesota,Golden Gophers,MINN,Big Ten,West,12,8,4,0
+2016,344,Mississippi State,Mississippi State,Bulldogs,MSST,SEC,West,12,5,7,0
+2016,142,Missouri,Missouri,Tigers,MIZ,SEC,East,12,4,8,0
+2016,2426,Navy,Navy,Midshipmen,NAVY,American Athletic,West,13,9,4,0
+2016,152,NC State,NC State,Wolfpack,NCST,ACC,Atlantic,12,6,6,0
+2016,158,Nebraska,Nebraska,Cornhuskers,NEB,Big Ten,West,12,9,3,0
+2016,2440,Nevada,Nevada,Wolf Pack,NEV,Mountain West,West,12,5,7,0
+2016,167,New Mexico,New Mexico,Lobos,UNM,Mountain West,Mountain,12,8,4,0
+2016,166,New Mexico State,New Mexico State,Aggies,NMSU,Sun Belt,,12,3,9,0
+2016,153,North Carolina,North Carolina,Tar Heels,UNC,ACC,Coastal,12,8,4,0
+2016,2459,Northern Illinois,Northern Illinois,Huskies,NIU,Mid-American,West,12,5,7,0
+2016,249,North Texas,North Texas,Mean Green,UNT,Conference USA,West,12,5,7,0
+2016,77,Northwestern,Northwestern,Wildcats,NW,Big Ten,West,12,6,6,0
+2016,87,Notre Dame,Notre Dame,Fighting Irish,ND,FBS Independents,,12,4,8,0
+2016,195,Ohio,Ohio,Bobcats,OHIO,Mid-American,East,13,8,5,0
+2016,194,Ohio State,Ohio State,Buckeyes,OSU,Big Ten,East,12,11,1,0
+2016,201,Oklahoma,Oklahoma,Sooners,OKLA,Big 12,,12,10,2,0
+2016,197,Oklahoma State,Oklahoma State,Cowboys,OKST,Big 12,,12,9,3,0
+2016,295,Old Dominion,Old Dominion,Monarchs,ODU,Conference USA,East,12,9,3,0
+2016,145,Ole Miss,Ole Miss,Rebels,MISS,SEC,West,12,5,7,0
+2016,2483,Oregon,Oregon,Ducks,ORE,Pac-12,North,12,4,8,0
+2016,204,Oregon State,Oregon State,Beavers,ORST,Pac-12,North,12,4,8,0
+2016,213,Penn State,Penn State,Nittany Lions,PSU,Big Ten,East,13,11,2,0
+2016,221,Pittsburgh,Pittsburgh,Panthers,PITT,ACC,Coastal,12,8,4,0
+2016,2509,Purdue,Purdue,Boilermakers,PUR,Big Ten,West,12,3,9,0
+2016,242,Rice,Rice,Owls,RICE,Conference USA,West,12,3,9,0
+2016,164,Rutgers,Rutgers,Scarlet Knights,RUTG,Big Ten,East,12,2,10,0
+2016,21,San Diego State,San Diego State,Aztecs,SDSU,Mountain West,West,13,10,3,0
+2016,23,San José State,San José State,Spartans,SJSU,Mountain West,West,12,4,8,0
+2016,2567,SMU,SMU,Mustangs,SMU,American Athletic,West,12,5,7,0
+2016,6,South Alabama,South Alabama,Jaguars,USA,Sun Belt,,12,6,6,0
+2016,2579,South Carolina,South Carolina,Gamecocks,SC,SEC,East,12,6,6,0
+2016,2572,Southern Mississippi,Southern Mississippi,Golden Eagles,USM,Conference USA,West,12,6,6,0
+2016,58,South Florida,South Florida,Bulls,USF,American Athletic,East,12,10,2,0
+2016,24,Stanford,Stanford,Cardinal,STAN,Pac-12,North,12,9,3,0
+2016,183,Syracuse,Syracuse,Orange,SYR,ACC,Atlantic,12,4,8,0
+2016,2628,TCU,TCU,Horned Frogs,TCU,Big 12,,12,6,6,0
+2016,218,Temple,Temple,Owls,TEM,American Athletic,East,13,10,3,0
+2016,2633,Tennessee,Tennessee,Volunteers,TENN,SEC,East,12,8,4,0
+2016,251,Texas,Texas,Longhorns,TEX,Big 12,,12,5,7,0
+2016,245,Texas A&M,Texas A&M,Aggies,TA&M,SEC,West,12,8,4,0
+2016,326,Texas State,Texas State,Bobcats,TXST,Sun Belt,,12,2,10,0
+2016,2641,Texas Tech,Texas Tech,Red Raiders,TTU,Big 12,,12,5,7,0
+2016,2649,Toledo,Toledo,Rockets,TOL,Mid-American,West,12,9,3,0
+2016,2653,Troy,Troy,Trojans,TROY,Sun Belt,,12,9,3,0
+2016,2655,Tulane,Tulane,Green Wave,TULN,American Athletic,West,12,4,8,0
+2016,202,Tulsa,Tulsa,Golden Hurricane,TLSA,American Athletic,West,12,9,3,0
+2016,2116,UCF,UCF,Knights,UCF,American Athletic,East,12,6,6,0
+2016,26,UCLA,UCLA,Bruins,UCLA,Pac-12,South,12,4,8,0
+2016,113,UMass,UMass,Minutemen,UMASS,FBS Independents,,12,2,10,0
+2016,2439,UNLV,UNLV,Rebels,UNLV,Mountain West,West,12,4,8,0
+2016,30,USC,USC,Trojans,USC,Pac-12,South,12,9,3,0
+2016,254,Utah,Utah,Utes,UTAH,Pac-12,South,12,8,4,0
+2016,328,Utah State,Utah State,Aggies,USU,Mountain West,Mountain,12,3,9,0
+2016,2638,UTEP,UTEP,Miners,UTEP,Conference USA,West,12,4,8,0
+2016,2636,UT San Antonio,UT San Antonio,Roadrunners,UTSA,Conference USA,West,12,6,6,0
+2016,238,Vanderbilt,Vanderbilt,Commodores,VAN,SEC,East,12,6,6,0
+2016,258,Virginia,Virginia,Cavaliers,UVA,ACC,Coastal,12,2,10,0
+2016,259,Virginia Tech,Virginia Tech,Hokies,VT,ACC,Coastal,13,9,4,0
+2016,154,Wake Forest,Wake Forest,Demon Deacons,WAKE,ACC,Atlantic,12,6,6,0
+2016,264,Washington,Washington,Huskies,WASH,Pac-12,North,13,12,1,0
+2016,265,Washington State,Washington State,Cougars,WSU,Pac-12,North,12,8,4,0
+2016,98,Western Kentucky,Western Kentucky,Hilltoppers,WKU,Conference USA,East,13,10,3,0
+2016,2711,Western Michigan,Western Michigan,Broncos,WMU,Mid-American,West,13,13,0,0
+2016,277,West Virginia,West Virginia,Mountaineers,WVU,Big 12,,12,10,2,0
+2016,275,Wisconsin,Wisconsin,Badgers,WIS,Big Ten,West,13,10,3,0
+2016,2751,Wyoming,Wyoming,Cowboys,WYO,Mountain West,Mountain,13,8,5,0
+2017,2005,Air Force,Air Force,Falcons,AFA,Mountain West,Mountain,12,5,7,0
+2017,2006,Akron,Akron,Zips,AKR,Mid-American,East,13,7,6,0
+2017,333,Alabama,Alabama,Crimson Tide,ALA,SEC,West,12,11,1,0
+2017,2026,Appalachian State,Appalachian State,Mountaineers,APP,Sun Belt,,12,8,4,0
+2017,12,Arizona,Arizona,Wildcats,ARIZ,Pac-12,South,12,7,5,0
+2017,9,Arizona State,Arizona State,Sun Devils,ASU,Pac-12,South,12,7,5,0
+2017,8,Arkansas,Arkansas,Razorbacks,ARK,SEC,West,12,4,8,0
+2017,2032,Arkansas State,Arkansas State,Red Wolves,ARST,Sun Belt,,11,7,4,0
+2017,349,Army,Army,Black Knights,ARMY,FBS Independents,,12,9,3,0
+2017,2,Auburn,Auburn,Tigers,AUB,SEC,West,13,10,3,0
+2017,2050,Ball State,Ball State,Cardinals,BALL,Mid-American,West,12,2,10,0
+2017,239,Baylor,Baylor,Bears,BAY,Big 12,,12,1,11,0
+2017,68,Boise State,Boise State,Broncos,BSU,Mountain West,Mountain,13,10,3,0
+2017,103,Boston College,Boston College,Eagles,BC,ACC,Atlantic,12,7,5,0
+2017,189,Bowling Green,Bowling Green,Falcons,BGSU,Mid-American,East,12,2,10,0
+2017,2084,Buffalo,Buffalo,Bulls,BUFF,Mid-American,East,12,6,6,0
+2017,252,BYU,BYU,Cougars,BYU,FBS Independents,,13,4,9,0
+2017,25,California,California,Golden Bears,CAL,Pac-12,North,12,5,7,0
+2017,2117,Central Michigan,Central Michigan,Chippewas,CMU,Mid-American,West,12,8,4,0
+2017,2429,Charlotte,Charlotte,49ers,CHAR,Conference USA,East,12,1,11,0
+2017,2132,Cincinnati,Cincinnati,Bearcats,CIN,American Athletic,East,12,4,8,0
+2017,228,Clemson,Clemson,Tigers,CLEM,ACC,Atlantic,13,12,1,0
+2017,324,Coastal Carolina,Coastal Carolina,Chanticleers,CCU,Sun Belt,,12,3,9,0
+2017,38,Colorado,Colorado,Buffaloes,COLO,Pac-12,South,12,5,7,0
+2017,36,Colorado State,Colorado State,Rams,CSU,Mountain West,Mountain,12,7,5,0
+2017,41,Connecticut,Connecticut,Huskies,CONN,American Athletic,East,12,3,9,0
+2017,150,Duke,Duke,Blue Devils,DUKE,ACC,Coastal,12,6,6,0
+2017,151,East Carolina,East Carolina,Pirates,ECU,American Athletic,East,12,3,9,0
+2017,2199,Eastern Michigan,Eastern Michigan,Eagles,EMU,Mid-American,West,12,5,7,0
+2017,57,Florida,Florida,Gators,FLA,SEC,East,11,4,7,0
+2017,2226,Florida Atlantic,Florida Atlantic,Owls,FAU,Conference USA,East,13,10,3,0
+2017,2229,Florida International,Florida International,Golden Panthers,FIU,Conference USA,East,12,8,4,0
+2017,52,Florida State,Florida State,Seminoles,FSU,ACC,Atlantic,12,6,6,0
+2017,278,Fresno State,Fresno State,Bulldogs,FRES,Mountain West,West,13,9,4,0
+2017,61,Georgia,Georgia,Bulldogs,UGA,SEC,East,13,12,1,0
+2017,290,Georgia Southern,Georgia Southern,Eagles,GASO,Sun Belt,,12,2,10,0
+2017,2247,Georgia State,Georgia State,Panthers,GAST,Sun Belt,,11,6,5,0
+2017,59,Georgia Tech,Georgia Tech,Yellow Jackets,GT,ACC,Coastal,11,5,6,0
+2017,62,Hawai'i,Hawai'i,Rainbow Warriors,HAW,Mountain West,West,12,3,9,0
+2017,248,Houston,Houston,Cougars,HOU,American Athletic,West,11,7,4,0
+2017,70,Idaho,Idaho,Vandals,IDHO,Sun Belt,,12,4,8,0
+2017,356,Illinois,Illinois,Fighting Illini,ILL,Big Ten,West,12,2,10,0
+2017,84,Indiana,Indiana,Hoosiers,IND,Big Ten,East,12,5,7,0
+2017,2294,Iowa,Iowa,Hawkeyes,IOWA,Big Ten,West,12,7,5,0
+2017,66,Iowa State,Iowa State,Cyclones,ISU,Big 12,,12,7,5,0
+2017,2305,Kansas,Kansas,Jayhawks,KU,Big 12,,12,1,11,0
+2017,2306,Kansas State,Kansas State,Wildcats,KSU,Big 12,,12,7,5,0
+2017,2309,Kent State,Kent State,Golden Flashes,KENT,Mid-American,East,12,2,10,0
+2017,96,Kentucky,Kentucky,Wildcats,UK,SEC,East,12,7,5,0
+2017,309,Louisiana,Louisiana,Ragin' Cajuns,ULL,Sun Belt,,12,5,7,0
+2017,2433,Louisiana Monroe,Louisiana Monroe,Warhawks,ULM,Sun Belt,,12,4,8,0
+2017,2348,Louisiana Tech,Louisiana Tech,Bulldogs,LT,Conference USA,West,12,6,6,0
+2017,97,Louisville,Louisville,Cardinals,LOU,ACC,Atlantic,12,8,4,0
+2017,99,LSU,LSU,Tigers,LSU,SEC,West,12,9,3,0
+2017,276,Marshall,Marshall,Thundering Herd,MRSH,Conference USA,East,12,7,5,0
+2017,120,Maryland,Maryland,Terrapins,MD,Big Ten,East,12,4,8,0
+2017,235,Memphis,Memphis,Tigers,MEM,American Athletic,West,12,10,2,0
+2017,2390,Miami,Miami,Hurricanes,MIAMI,ACC,Coastal,12,10,2,0
+2017,193,Miami (OH),Miami (OH),RedHawks,M-OH,Mid-American,East,12,5,7,0
+2017,130,Michigan,Michigan,Wolverines,MICH,Big Ten,East,12,8,4,0
+2017,127,Michigan State,Michigan State,Spartans,MSU,Big Ten,East,12,9,3,0
+2017,2393,Middle Tennessee,Middle Tennessee,Blue Raiders,MTSU,Conference USA,East,12,6,6,0
+2017,135,Minnesota,Minnesota,Golden Gophers,MINN,Big Ten,West,12,5,7,0
+2017,344,Mississippi State,Mississippi State,Bulldogs,MSST,SEC,West,12,8,4,0
+2017,142,Missouri,Missouri,Tigers,MIZ,SEC,East,12,7,5,0
+2017,2426,Navy,Navy,Midshipmen,NAVY,American Athletic,West,12,6,6,0
+2017,152,NC State,NC State,Wolfpack,NCST,ACC,Atlantic,12,8,4,0
+2017,158,Nebraska,Nebraska,Cornhuskers,NEB,Big Ten,West,12,4,8,0
+2017,2440,Nevada,Nevada,Wolf Pack,NEV,Mountain West,West,12,3,9,0
+2017,167,New Mexico,New Mexico,Lobos,UNM,Mountain West,Mountain,12,3,9,0
+2017,166,New Mexico State,New Mexico State,Aggies,NMSU,Sun Belt,,12,6,6,0
+2017,153,North Carolina,North Carolina,Tar Heels,UNC,ACC,Coastal,12,3,9,0
+2017,2459,Northern Illinois,Northern Illinois,Huskies,NIU,Mid-American,West,12,8,4,0
+2017,249,North Texas,North Texas,Mean Green,UNT,Conference USA,West,13,9,4,0
+2017,77,Northwestern,Northwestern,Wildcats,NW,Big Ten,West,12,9,3,0
+2017,87,Notre Dame,Notre Dame,Fighting Irish,ND,FBS Independents,,12,9,3,0
+2017,195,Ohio,Ohio,Bobcats,OHIO,Mid-American,East,12,8,4,0
+2017,194,Ohio State,Ohio State,Buckeyes,OSU,Big Ten,East,13,11,2,0
+2017,201,Oklahoma,Oklahoma,Sooners,OKLA,Big 12,,13,12,1,0
+2017,197,Oklahoma State,Oklahoma State,Cowboys,OKST,Big 12,,12,9,3,0
+2017,295,Old Dominion,Old Dominion,Monarchs,ODU,Conference USA,East,12,5,7,0
+2017,145,Ole Miss,Ole Miss,Rebels,MISS,SEC,West,12,6,6,0
+2017,2483,Oregon,Oregon,Ducks,ORE,Pac-12,North,12,7,5,0
+2017,204,Oregon State,Oregon State,Beavers,ORST,Pac-12,North,12,1,11,0
+2017,213,Penn State,Penn State,Nittany Lions,PSU,Big Ten,East,12,10,2,0
+2017,221,Pittsburgh,Pittsburgh,Panthers,PITT,ACC,Coastal,12,5,7,0
+2017,2509,Purdue,Purdue,Boilermakers,PUR,Big Ten,West,12,6,6,0
+2017,242,Rice,Rice,Owls,RICE,Conference USA,West,12,1,11,0
+2017,164,Rutgers,Rutgers,Scarlet Knights,RUTG,Big Ten,East,12,4,8,0
+2017,21,San Diego State,San Diego State,Aztecs,SDSU,Mountain West,West,12,10,2,0
+2017,23,San José State,San José State,Spartans,SJSU,Mountain West,West,13,2,11,0
+2017,2567,SMU,SMU,Mustangs,SMU,American Athletic,West,12,7,5,0
+2017,6,South Alabama,South Alabama,Jaguars,USA,Sun Belt,,12,4,8,0
+2017,2579,South Carolina,South Carolina,Gamecocks,SC,SEC,East,12,8,4,0
+2017,2572,Southern Mississippi,Southern Mississippi,Golden Eagles,USM,Conference USA,West,12,8,4,0
+2017,58,South Florida,South Florida,Bulls,USF,American Athletic,East,11,9,2,0
+2017,24,Stanford,Stanford,Cardinal,STAN,Pac-12,North,13,9,4,0
+2017,183,Syracuse,Syracuse,Orange,SYR,ACC,Atlantic,12,4,8,0
+2017,2628,TCU,TCU,Horned Frogs,TCU,Big 12,,13,10,3,0
+2017,218,Temple,Temple,Owls,TEM,American Athletic,East,12,6,6,0
+2017,2633,Tennessee,Tennessee,Volunteers,TENN,SEC,East,12,4,8,0
+2017,251,Texas,Texas,Longhorns,TEX,Big 12,,12,6,6,0
+2017,245,Texas A&M,Texas A&M,Aggies,TA&M,SEC,West,12,7,5,0
+2017,326,Texas State,Texas State,Bobcats,TXST,Sun Belt,,12,2,10,0
+2017,2641,Texas Tech,Texas Tech,Red Raiders,TTU,Big 12,,12,6,6,0
+2017,2649,Toledo,Toledo,Rockets,TOL,Mid-American,West,13,11,2,0
+2017,2653,Troy,Troy,Trojans,TROY,Sun Belt,,12,10,2,0
+2017,2655,Tulane,Tulane,Green Wave,TULN,American Athletic,West,12,5,7,0
+2017,202,Tulsa,Tulsa,Golden Hurricane,TLSA,American Athletic,West,12,2,10,0
+2017,5,UAB,UAB,Blazers,UAB,Conference USA,West,12,8,4,0
+2017,2116,UCF,UCF,Knights,UCF,American Athletic,East,12,12,0,0
+2017,26,UCLA,UCLA,Bruins,UCLA,Pac-12,South,12,6,6,0
+2017,113,UMass,UMass,Minutemen,UMASS,FBS Independents,,12,4,8,0
+2017,2439,UNLV,UNLV,Rebels,UNLV,Mountain West,West,12,5,7,0
+2017,30,USC,USC,Trojans,USC,Pac-12,South,13,11,2,0
+2017,254,Utah,Utah,Utes,UTAH,Pac-12,South,12,6,6,0
+2017,328,Utah State,Utah State,Aggies,USU,Mountain West,Mountain,12,6,6,0
+2017,2638,UTEP,UTEP,Miners,UTEP,Conference USA,West,12,0,12,0
+2017,2636,UT San Antonio,UT San Antonio,Roadrunners,UTSA,Conference USA,West,11,6,5,0
+2017,238,Vanderbilt,Vanderbilt,Commodores,VAN,SEC,East,12,5,7,0
+2017,258,Virginia,Virginia,Cavaliers,UVA,ACC,Coastal,12,6,6,0
+2017,259,Virginia Tech,Virginia Tech,Hokies,VT,ACC,Coastal,12,9,3,0
+2017,154,Wake Forest,Wake Forest,Demon Deacons,WAKE,ACC,Atlantic,12,7,5,0
+2017,264,Washington,Washington,Huskies,WASH,Pac-12,North,12,10,2,0
+2017,265,Washington State,Washington State,Cougars,WSU,Pac-12,North,12,9,3,0
+2017,98,Western Kentucky,Western Kentucky,Hilltoppers,WKU,Conference USA,East,12,6,6,0
+2017,2711,Western Michigan,Western Michigan,Broncos,WMU,Mid-American,West,12,6,6,0
+2017,277,West Virginia,West Virginia,Mountaineers,WVU,Big 12,,12,7,5,0
+2017,275,Wisconsin,Wisconsin,Badgers,WIS,Big Ten,West,13,12,1,0
+2017,2751,Wyoming,Wyoming,Cowboys,WYO,Mountain West,Mountain,12,7,5,0
+2018,2005,Air Force,Air Force,Falcons,AFA,Mountain West,Mountain,12,5,7,0
+2018,2006,Akron,Akron,Zips,AKR,Mid-American,East,12,4,8,0
+2018,333,Alabama,Alabama,Crimson Tide,ALA,SEC,West,13,13,0,0
+2018,2026,Appalachian State,Appalachian State,Mountaineers,APP,Sun Belt,,12,10,2,0
+2018,12,Arizona,Arizona,Wildcats,ARIZ,Pac-12,South,12,5,7,0
+2018,9,Arizona State,Arizona State,Sun Devils,ASU,Pac-12,South,12,7,5,0
+2018,8,Arkansas,Arkansas,Razorbacks,ARK,SEC,West,12,2,10,0
+2018,2032,Arkansas State,Arkansas State,Red Wolves,ARST,Sun Belt,,12,8,4,0
+2018,349,Army,Army,Black Knights,ARMY,FBS Independents,,12,10,2,0
+2018,2,Auburn,Auburn,Tigers,AUB,SEC,West,12,7,5,0
+2018,2050,Ball State,Ball State,Cardinals,BALL,Mid-American,West,12,4,8,0
+2018,239,Baylor,Baylor,Bears,BAY,Big 12,,12,6,6,0
+2018,68,Boise State,Boise State,Broncos,BSU,Mountain West,Mountain,13,10,3,0
+2018,103,Boston College,Boston College,Eagles,BC,ACC,Atlantic,12,7,5,0
+2018,189,Bowling Green,Bowling Green,Falcons,BGSU,Mid-American,East,12,3,9,0
+2018,2084,Buffalo,Buffalo,Bulls,BUFF,Mid-American,East,13,10,3,0
+2018,252,BYU,BYU,Cougars,BYU,FBS Independents,,12,6,6,0
+2018,25,California,California,Golden Bears,CAL,Pac-12,North,12,7,5,0
+2018,2117,Central Michigan,Central Michigan,Chippewas,CMU,Mid-American,West,12,1,11,0
+2018,2429,Charlotte,Charlotte,49ers,CHAR,Conference USA,East,12,5,7,0
+2018,2132,Cincinnati,Cincinnati,Bearcats,CIN,American Athletic,East,12,10,2,0
+2018,228,Clemson,Clemson,Tigers,CLEM,ACC,Atlantic,13,13,0,0
+2018,324,Coastal Carolina,Coastal Carolina,Chanticleers,CCU,Sun Belt,,12,5,7,0
+2018,38,Colorado,Colorado,Buffaloes,COLO,Pac-12,South,12,5,7,0
+2018,36,Colorado State,Colorado State,Rams,CSU,Mountain West,Mountain,12,3,9,0
+2018,41,Connecticut,Connecticut,Huskies,CONN,American Athletic,East,12,1,11,0
+2018,150,Duke,Duke,Blue Devils,DUKE,ACC,Coastal,12,7,5,0
+2018,151,East Carolina,East Carolina,Pirates,ECU,American Athletic,East,12,3,9,0
+2018,2199,Eastern Michigan,Eastern Michigan,Eagles,EMU,Mid-American,West,12,7,5,0
+2018,57,Florida,Florida,Gators,FLA,SEC,East,12,9,3,0
+2018,2226,Florida Atlantic,Florida Atlantic,Owls,FAU,Conference USA,East,12,5,7,0
+2018,2229,Florida International,Florida International,Golden Panthers,FIU,Conference USA,East,12,8,4,0
+2018,52,Florida State,Florida State,Seminoles,FSU,ACC,Atlantic,12,5,7,0
+2018,278,Fresno State,Fresno State,Bulldogs,FRES,Mountain West,West,13,11,2,0
+2018,61,Georgia,Georgia,Bulldogs,UGA,SEC,East,13,11,2,0
+2018,290,Georgia Southern,Georgia Southern,Eagles,GASO,Sun Belt,,12,9,3,0
+2018,2247,Georgia State,Georgia State,Panthers,GAST,Sun Belt,,12,2,10,0
+2018,59,Georgia Tech,Georgia Tech,Yellow Jackets,GT,ACC,Coastal,12,7,5,0
+2018,62,Hawai'i,Hawai'i,Rainbow Warriors,HAW,Mountain West,West,13,8,5,0
+2018,248,Houston,Houston,Cougars,HOU,American Athletic,West,12,8,4,0
+2018,356,Illinois,Illinois,Fighting Illini,ILL,Big Ten,West,12,4,8,0
+2018,84,Indiana,Indiana,Hoosiers,IND,Big Ten,East,12,5,7,0
+2018,2294,Iowa,Iowa,Hawkeyes,IOWA,Big Ten,West,12,8,4,0
+2018,66,Iowa State,Iowa State,Cyclones,ISU,Big 12,,12,8,4,0
+2018,2305,Kansas,Kansas,Jayhawks,KU,Big 12,,12,3,9,0
+2018,2306,Kansas State,Kansas State,Wildcats,KSU,Big 12,,12,5,7,0
+2018,2309,Kent State,Kent State,Golden Flashes,KENT,Mid-American,East,12,2,10,0
+2018,96,Kentucky,Kentucky,Wildcats,UK,SEC,East,12,9,3,0
+2018,2335,Liberty,Liberty,Flames,LIB,FBS Independents,,12,6,6,0
+2018,309,Louisiana,Louisiana,Ragin' Cajuns,ULL,Sun Belt,,13,7,6,0
+2018,2433,Louisiana Monroe,Louisiana Monroe,Warhawks,ULM,Sun Belt,,12,6,6,0
+2018,2348,Louisiana Tech,Louisiana Tech,Bulldogs,LT,Conference USA,West,12,7,5,0
+2018,97,Louisville,Louisville,Cardinals,LOU,ACC,Atlantic,12,2,10,0
+2018,99,LSU,LSU,Tigers,LSU,SEC,West,12,9,3,0
+2018,276,Marshall,Marshall,Thundering Herd,MRSH,Conference USA,East,12,8,4,0
+2018,120,Maryland,Maryland,Terrapins,MD,Big Ten,East,12,5,7,0
+2018,235,Memphis,Memphis,Tigers,MEM,American Athletic,West,13,8,5,0
+2018,2390,Miami,Miami,Hurricanes,MIAMI,ACC,Coastal,12,7,5,0
+2018,193,Miami (OH),Miami (OH),RedHawks,M-OH,Mid-American,East,12,6,6,0
+2018,130,Michigan,Michigan,Wolverines,MICH,Big Ten,East,12,10,2,0
+2018,127,Michigan State,Michigan State,Spartans,MSU,Big Ten,East,12,7,5,0
+2018,2393,Middle Tennessee,Middle Tennessee,Blue Raiders,MTSU,Conference USA,East,13,8,5,0
+2018,135,Minnesota,Minnesota,Golden Gophers,MINN,Big Ten,West,12,6,6,0
+2018,344,Mississippi State,Mississippi State,Bulldogs,MSST,SEC,West,12,8,4,0
+2018,142,Missouri,Missouri,Tigers,MIZ,SEC,East,12,8,4,0
+2018,2426,Navy,Navy,Midshipmen,NAVY,American Athletic,West,13,3,10,0
+2018,152,NC State,NC State,Wolfpack,NCST,ACC,Atlantic,12,9,3,0
+2018,158,Nebraska,Nebraska,Cornhuskers,NEB,Big Ten,West,12,4,8,0
+2018,2440,Nevada,Nevada,Wolf Pack,NEV,Mountain West,West,12,7,5,0
+2018,167,New Mexico,New Mexico,Lobos,UNM,Mountain West,Mountain,12,3,9,0
+2018,166,New Mexico State,New Mexico State,Aggies,NMSU,FBS Independents,,12,3,9,0
+2018,153,North Carolina,North Carolina,Tar Heels,UNC,ACC,Coastal,11,2,9,0
+2018,2459,Northern Illinois,Northern Illinois,Huskies,NIU,Mid-American,West,13,8,5,0
+2018,249,North Texas,North Texas,Mean Green,UNT,Conference USA,West,12,9,3,0
+2018,77,Northwestern,Northwestern,Wildcats,NW,Big Ten,West,13,8,5,0
+2018,87,Notre Dame,Notre Dame,Fighting Irish,ND,FBS Independents,,12,12,0,0
+2018,195,Ohio,Ohio,Bobcats,OHIO,Mid-American,East,12,8,4,0
+2018,194,Ohio State,Ohio State,Buckeyes,OSU,Big Ten,East,13,12,1,0
+2018,201,Oklahoma,Oklahoma,Sooners,OKLA,Big 12,,13,12,1,0
+2018,197,Oklahoma State,Oklahoma State,Cowboys,OKST,Big 12,,12,6,6,0
+2018,295,Old Dominion,Old Dominion,Monarchs,ODU,Conference USA,East,12,4,8,0
+2018,145,Ole Miss,Ole Miss,Rebels,MISS,SEC,West,12,5,7,0
+2018,2483,Oregon,Oregon,Ducks,ORE,Pac-12,North,12,8,4,0
+2018,204,Oregon State,Oregon State,Beavers,ORST,Pac-12,North,12,2,10,0
+2018,213,Penn State,Penn State,Nittany Lions,PSU,Big Ten,East,12,9,3,0
+2018,221,Pittsburgh,Pittsburgh,Panthers,PITT,ACC,Coastal,13,7,6,0
+2018,2509,Purdue,Purdue,Boilermakers,PUR,Big Ten,West,12,6,6,0
+2018,242,Rice,Rice,Owls,RICE,Conference USA,West,13,2,11,0
+2018,164,Rutgers,Rutgers,Scarlet Knights,RUTG,Big Ten,East,12,1,11,0
+2018,21,San Diego State,San Diego State,Aztecs,SDSU,Mountain West,West,12,7,5,0
+2018,23,San José State,San José State,Spartans,SJSU,Mountain West,West,12,1,11,0
+2018,2567,SMU,SMU,Mustangs,SMU,American Athletic,West,12,5,7,0
+2018,6,South Alabama,South Alabama,Jaguars,USA,Sun Belt,,12,3,9,0
+2018,2579,South Carolina,South Carolina,Gamecocks,SC,SEC,East,12,7,5,0
+2018,2572,Southern Mississippi,Southern Mississippi,Golden Eagles,USM,Conference USA,West,11,6,5,0
+2018,58,South Florida,South Florida,Bulls,USF,American Athletic,East,12,7,5,0
+2018,24,Stanford,Stanford,Cardinal,STAN,Pac-12,North,12,8,4,0
+2018,183,Syracuse,Syracuse,Orange,SYR,ACC,Atlantic,12,9,3,0
+2018,2628,TCU,TCU,Horned Frogs,TCU,Big 12,,12,6,6,0
+2018,218,Temple,Temple,Owls,TEM,American Athletic,East,12,8,4,0
+2018,2633,Tennessee,Tennessee,Volunteers,TENN,SEC,East,12,5,7,0
+2018,251,Texas,Texas,Longhorns,TEX,Big 12,,13,9,4,0
+2018,245,Texas A&M,Texas A&M,Aggies,TA&M,SEC,West,12,8,4,0
+2018,326,Texas State,Texas State,Bobcats,TXST,Sun Belt,,12,3,9,0
+2018,2641,Texas Tech,Texas Tech,Red Raiders,TTU,Big 12,,12,5,7,0
+2018,2649,Toledo,Toledo,Rockets,TOL,Mid-American,West,12,7,5,0
+2018,2653,Troy,Troy,Trojans,TROY,Sun Belt,,12,9,3,0
+2018,2655,Tulane,Tulane,Green Wave,TULN,American Athletic,West,12,6,6,0
+2018,202,Tulsa,Tulsa,Golden Hurricane,TLSA,American Athletic,West,12,3,9,0
+2018,5,UAB,UAB,Blazers,UAB,Conference USA,West,13,10,3,0
+2018,2116,UCF,UCF,Knights,UCF,American Athletic,East,12,12,0,0
+2018,26,UCLA,UCLA,Bruins,UCLA,Pac-12,South,12,3,9,0
+2018,113,UMass,UMass,Minutemen,UMASS,FBS Independents,,12,4,8,0
+2018,2439,UNLV,UNLV,Rebels,UNLV,Mountain West,West,12,4,8,0
+2018,30,USC,USC,Trojans,USC,Pac-12,South,12,5,7,0
+2018,254,Utah,Utah,Utes,UTAH,Pac-12,South,13,9,4,0
+2018,328,Utah State,Utah State,Aggies,USU,Mountain West,Mountain,12,10,2,0
+2018,2638,UTEP,UTEP,Miners,UTEP,Conference USA,West,12,1,11,0
+2018,2636,UT San Antonio,UT San Antonio,Roadrunners,UTSA,Conference USA,West,12,3,9,0
+2018,238,Vanderbilt,Vanderbilt,Commodores,VAN,SEC,East,12,6,6,0
+2018,258,Virginia,Virginia,Cavaliers,UVA,ACC,Coastal,12,7,5,0
+2018,259,Virginia Tech,Virginia Tech,Hokies,VT,ACC,Coastal,12,6,6,0
+2018,154,Wake Forest,Wake Forest,Demon Deacons,WAKE,ACC,Atlantic,12,6,6,0
+2018,264,Washington,Washington,Huskies,WASH,Pac-12,North,13,10,3,0
+2018,265,Washington State,Washington State,Cougars,WSU,Pac-12,North,12,10,2,0
+2018,98,Western Kentucky,Western Kentucky,Hilltoppers,WKU,Conference USA,East,12,3,9,0
+2018,2711,Western Michigan,Western Michigan,Broncos,WMU,Mid-American,West,12,7,5,0
+2018,277,West Virginia,West Virginia,Mountaineers,WVU,Big 12,,11,8,3,0
+2018,275,Wisconsin,Wisconsin,Badgers,WIS,Big Ten,West,12,7,5,0
+2018,2751,Wyoming,Wyoming,Cowboys,WYO,Mountain West,Mountain,12,6,6,0
+2019,2005,Air Force,Air Force,Falcons,AFA,Mountain West,Mountain,12,10,2,0
+2019,2006,Akron,Akron,Zips,AKR,Mid-American,East,12,0,12,0
+2019,333,Alabama,Alabama,Crimson Tide,ALA,SEC,West,12,10,2,0
+2019,2026,Appalachian State,Appalachian State,Mountaineers,APP,Sun Belt,,13,12,1,0
+2019,12,Arizona,Arizona,Wildcats,ARIZ,Pac-12,South,12,4,8,0
+2019,9,Arizona State,Arizona State,Sun Devils,ASU,Pac-12,South,12,7,5,0
+2019,8,Arkansas,Arkansas,Razorbacks,ARK,SEC,West,12,2,10,0
+2019,2032,Arkansas State,Arkansas State,Red Wolves,ARST,Sun Belt,,12,7,5,0
+2019,349,Army,Army,Black Knights,ARMY,FBS Independents,,13,5,8,0
+2019,2,Auburn,Auburn,Tigers,AUB,SEC,West,12,9,3,0
+2019,2050,Ball State,Ball State,Cardinals,BALL,Mid-American,West,12,5,7,0
+2019,239,Baylor,Baylor,Bears,BAY,Big 12,,13,11,2,0
+2019,68,Boise State,Boise State,Broncos,BSU,Mountain West,Mountain,13,12,1,0
+2019,103,Boston College,Boston College,Eagles,BC,ACC,Atlantic,12,6,6,0
+2019,189,Bowling Green,Bowling Green,Falcons,BGSU,Mid-American,East,12,3,9,0
+2019,2084,Buffalo,Buffalo,Bulls,BUFF,Mid-American,East,12,7,5,0
+2019,252,BYU,BYU,Cougars,BYU,FBS Independents,,12,7,5,0
+2019,25,California,California,Golden Bears,CAL,Pac-12,North,12,7,5,0
+2019,2117,Central Michigan,Central Michigan,Chippewas,CMU,Mid-American,West,13,8,5,0
+2019,2429,Charlotte,Charlotte,49ers,CHAR,Conference USA,East,12,7,5,0
+2019,2132,Cincinnati,Cincinnati,Bearcats,CIN,American Athletic,East,13,10,3,0
+2019,228,Clemson,Clemson,Tigers,CLEM,ACC,Atlantic,13,13,0,0
+2019,324,Coastal Carolina,Coastal Carolina,Chanticleers,CCU,Sun Belt,,12,5,7,0
+2019,38,Colorado,Colorado,Buffaloes,COLO,Pac-12,South,12,5,7,0
+2019,36,Colorado State,Colorado State,Rams,CSU,Mountain West,Mountain,12,4,8,0
+2019,41,Connecticut,Connecticut,Huskies,CONN,American Athletic,East,12,2,10,0
+2019,150,Duke,Duke,Blue Devils,DUKE,ACC,Coastal,12,5,7,0
+2019,151,East Carolina,East Carolina,Pirates,ECU,American Athletic,East,12,4,8,0
+2019,2199,Eastern Michigan,Eastern Michigan,Eagles,EMU,Mid-American,West,12,6,6,0
+2019,57,Florida,Florida,Gators,FLA,SEC,East,12,10,2,0
+2019,2226,Florida Atlantic,Florida Atlantic,Owls,FAU,Conference USA,East,13,10,3,0
+2019,2229,Florida International,Florida International,Golden Panthers,FIU,Conference USA,East,12,6,6,0
+2019,52,Florida State,Florida State,Seminoles,FSU,ACC,Atlantic,12,6,6,0
+2019,278,Fresno State,Fresno State,Bulldogs,FRES,Mountain West,West,12,4,8,0
+2019,61,Georgia,Georgia,Bulldogs,UGA,SEC,East,13,11,2,0
+2019,290,Georgia Southern,Georgia Southern,Eagles,GASO,Sun Belt,,12,7,5,0
+2019,2247,Georgia State,Georgia State,Panthers,GAST,Sun Belt,,12,7,5,0
+2019,59,Georgia Tech,Georgia Tech,Yellow Jackets,GT,ACC,Coastal,12,3,9,0
+2019,62,Hawai'i,Hawai'i,Rainbow Warriors,HAW,Mountain West,West,14,9,5,0
+2019,248,Houston,Houston,Cougars,HOU,American Athletic,West,12,4,8,0
+2019,356,Illinois,Illinois,Fighting Illini,ILL,Big Ten,West,12,6,6,0
+2019,84,Indiana,Indiana,Hoosiers,IND,Big Ten,East,12,8,4,0
+2019,2294,Iowa,Iowa,Hawkeyes,IOWA,Big Ten,West,12,9,3,0
+2019,66,Iowa State,Iowa State,Cyclones,ISU,Big 12,,12,7,5,0
+2019,2305,Kansas,Kansas,Jayhawks,KU,Big 12,,12,3,9,0
+2019,2306,Kansas State,Kansas State,Wildcats,KSU,Big 12,,12,8,4,0
+2019,2309,Kent State,Kent State,Golden Flashes,KENT,Mid-American,East,12,6,6,0
+2019,96,Kentucky,Kentucky,Wildcats,UK,SEC,East,12,7,5,0
+2019,2335,Liberty,Liberty,Flames,LIB,FBS Independents,,12,7,5,0
+2019,309,Louisiana,Louisiana,Ragin' Cajuns,ULL,Sun Belt,,13,10,3,0
+2019,2433,Louisiana Monroe,Louisiana Monroe,Warhawks,ULM,Sun Belt,,12,5,7,0
+2019,2348,Louisiana Tech,Louisiana Tech,Bulldogs,LT,Conference USA,West,12,9,3,0
+2019,97,Louisville,Louisville,Cardinals,LOU,ACC,Atlantic,12,7,5,0
+2019,99,LSU,LSU,Tigers,LSU,SEC,West,13,13,0,0
+2019,276,Marshall,Marshall,Thundering Herd,MRSH,Conference USA,East,12,8,4,0
+2019,120,Maryland,Maryland,Terrapins,MD,Big Ten,East,12,3,9,0
+2019,235,Memphis,Memphis,Tigers,MEM,American Athletic,West,13,12,1,0
+2019,2390,Miami,Miami,Hurricanes,MIAMI,ACC,Coastal,12,6,6,0
+2019,193,Miami (OH),Miami (OH),RedHawks,M-OH,Mid-American,East,13,8,5,0
+2019,130,Michigan,Michigan,Wolverines,MICH,Big Ten,East,12,9,3,0
+2019,127,Michigan State,Michigan State,Spartans,MSU,Big Ten,East,12,6,6,0
+2019,2393,Middle Tennessee,Middle Tennessee,Blue Raiders,MTSU,Conference USA,East,12,4,8,0
+2019,135,Minnesota,Minnesota,Golden Gophers,MINN,Big Ten,West,12,10,2,0
+2019,344,Mississippi State,Mississippi State,Bulldogs,MSST,SEC,West,12,6,6,0
+2019,142,Missouri,Missouri,Tigers,MIZ,SEC,East,12,6,6,0
+2019,2426,Navy,Navy,Midshipmen,NAVY,American Athletic,West,12,10,2,0
+2019,152,NC State,NC State,Wolfpack,NCST,ACC,Atlantic,12,4,8,0
+2019,158,Nebraska,Nebraska,Cornhuskers,NEB,Big Ten,West,12,5,7,0
+2019,2440,Nevada,Nevada,Wolf Pack,NEV,Mountain West,West,12,7,5,0
+2019,167,New Mexico,New Mexico,Lobos,UNM,Mountain West,Mountain,12,2,10,0
+2019,166,New Mexico State,New Mexico State,Aggies,NMSU,FBS Independents,,12,2,10,0
+2019,153,North Carolina,North Carolina,Tar Heels,UNC,ACC,Coastal,12,6,6,0
+2019,2459,Northern Illinois,Northern Illinois,Huskies,NIU,Mid-American,West,12,5,7,0
+2019,249,North Texas,North Texas,Mean Green,UNT,Conference USA,West,12,4,8,0
+2019,77,Northwestern,Northwestern,Wildcats,NW,Big Ten,West,12,3,9,0
+2019,87,Notre Dame,Notre Dame,Fighting Irish,ND,FBS Independents,,12,10,2,0
+2019,195,Ohio,Ohio,Bobcats,OHIO,Mid-American,East,12,6,6,0
+2019,194,Ohio State,Ohio State,Buckeyes,OSU,Big Ten,East,13,13,0,0
+2019,201,Oklahoma,Oklahoma,Sooners,OKLA,Big 12,,13,12,1,0
+2019,197,Oklahoma State,Oklahoma State,Cowboys,OKST,Big 12,,12,8,4,0
+2019,295,Old Dominion,Old Dominion,Monarchs,ODU,Conference USA,East,12,1,11,0
+2019,145,Ole Miss,Ole Miss,Rebels,MISS,SEC,West,12,4,8,0
+2019,2483,Oregon,Oregon,Ducks,ORE,Pac-12,North,13,11,2,0
+2019,204,Oregon State,Oregon State,Beavers,ORST,Pac-12,North,12,5,7,0
+2019,213,Penn State,Penn State,Nittany Lions,PSU,Big Ten,East,12,10,2,0
+2019,221,Pittsburgh,Pittsburgh,Panthers,PITT,ACC,Coastal,12,7,5,0
+2019,2509,Purdue,Purdue,Boilermakers,PUR,Big Ten,West,12,4,8,0
+2019,242,Rice,Rice,Owls,RICE,Conference USA,West,12,3,9,0
+2019,164,Rutgers,Rutgers,Scarlet Knights,RUTG,Big Ten,East,12,2,10,0
+2019,21,San Diego State,San Diego State,Aztecs,SDSU,Mountain West,West,12,9,3,0
+2019,23,San José State,San José State,Spartans,SJSU,Mountain West,West,12,5,7,0
+2019,2567,SMU,SMU,Mustangs,SMU,American Athletic,West,12,10,2,0
+2019,6,South Alabama,South Alabama,Jaguars,USA,Sun Belt,,12,2,10,0
+2019,2579,South Carolina,South Carolina,Gamecocks,SC,SEC,East,12,4,8,0
+2019,2572,Southern Mississippi,Southern Mississippi,Golden Eagles,USM,Conference USA,West,12,7,5,0
+2019,58,South Florida,South Florida,Bulls,USF,American Athletic,East,12,4,8,0
+2019,24,Stanford,Stanford,Cardinal,STAN,Pac-12,North,12,4,8,0
+2019,183,Syracuse,Syracuse,Orange,SYR,ACC,Atlantic,12,5,7,0
+2019,2628,TCU,TCU,Horned Frogs,TCU,Big 12,,12,5,7,0
+2019,218,Temple,Temple,Owls,TEM,American Athletic,East,12,8,4,0
+2019,2633,Tennessee,Tennessee,Volunteers,TENN,SEC,East,12,7,5,0
+2019,251,Texas,Texas,Longhorns,TEX,Big 12,,12,7,5,0
+2019,245,Texas A&M,Texas A&M,Aggies,TA&M,SEC,West,12,7,5,0
+2019,326,Texas State,Texas State,Bobcats,TXST,Sun Belt,,12,3,9,0
+2019,2641,Texas Tech,Texas Tech,Red Raiders,TTU,Big 12,,12,4,8,0
+2019,2649,Toledo,Toledo,Rockets,TOL,Mid-American,West,12,6,6,0
+2019,2653,Troy,Troy,Trojans,TROY,Sun Belt,,12,5,7,0
+2019,2655,Tulane,Tulane,Green Wave,TULN,American Athletic,West,12,6,6,0
+2019,202,Tulsa,Tulsa,Golden Hurricane,TLSA,American Athletic,West,12,4,8,0
+2019,5,UAB,UAB,Blazers,UAB,Conference USA,West,13,9,4,0
+2019,2116,UCF,UCF,Knights,UCF,American Athletic,East,12,9,3,0
+2019,26,UCLA,UCLA,Bruins,UCLA,Pac-12,South,12,4,8,0
+2019,113,UMass,UMass,Minutemen,UMASS,FBS Independents,,12,1,11,0
+2019,2439,UNLV,UNLV,Rebels,UNLV,Mountain West,West,12,4,8,0
+2019,30,USC,USC,Trojans,USC,Pac-12,South,12,8,4,0
+2019,254,Utah,Utah,Utes,UTAH,Pac-12,South,13,11,2,0
+2019,328,Utah State,Utah State,Aggies,USU,Mountain West,Mountain,12,7,5,0
+2019,2638,UTEP,UTEP,Miners,UTEP,Conference USA,West,12,1,11,0
+2019,2636,UT San Antonio,UT San Antonio,Roadrunners,UTSA,Conference USA,West,12,4,8,0
+2019,238,Vanderbilt,Vanderbilt,Commodores,VAN,SEC,East,12,3,9,0
+2019,258,Virginia,Virginia,Cavaliers,UVA,ACC,Coastal,13,9,4,0
+2019,259,Virginia Tech,Virginia Tech,Hokies,VT,ACC,Coastal,12,8,4,0
+2019,154,Wake Forest,Wake Forest,Demon Deacons,WAKE,ACC,Atlantic,12,8,4,0
+2019,264,Washington,Washington,Huskies,WASH,Pac-12,North,12,7,5,0
+2019,265,Washington State,Washington State,Cougars,WSU,Pac-12,North,12,6,6,0
+2019,98,Western Kentucky,Western Kentucky,Hilltoppers,WKU,Conference USA,East,12,8,4,0
+2019,2711,Western Michigan,Western Michigan,Broncos,WMU,Mid-American,West,12,7,5,0
+2019,277,West Virginia,West Virginia,Mountaineers,WVU,Big 12,,12,5,7,0
+2019,275,Wisconsin,Wisconsin,Badgers,WIS,Big Ten,West,13,10,3,0
+2019,2751,Wyoming,Wyoming,Cowboys,WYO,Mountain West,Mountain,12,7,5,0
