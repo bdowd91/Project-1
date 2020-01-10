@@ -8,7 +8,7 @@ Beth Gillon
 
 ## Files in repo
 
-Proposal.md is our project proposal
+*Proposal.md* is our project proposal
 
 *DataExploreAndClean.ipynb* has initial api requests and data cleaning to get all of the FBS teams from 2004 through 2019, output is *Data/fbsSchoolData.csv*
 
