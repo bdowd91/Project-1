@@ -6,6 +6,10 @@ Nathan Kosiba,
 Spencer Harrison,
 Beth Gillon
 
+## Folders in repo
+
+*Data* folder holds csv output of out main datasets
+
 ## Files in repo
 
 *Proposal.md* is our project proposal
