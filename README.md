@@ -8,9 +8,9 @@ Beth Gillon
 
 ## Folders in repo
 
-*Data* folder holds csv output of out main datasets
+*Data* folder holds csv output of our main datasets
 
-*Figures* folder holds png output of out main figures
+*Figures* folder holds png output of our main figures
 
 ## Files in repo
 
