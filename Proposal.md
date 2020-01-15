@@ -6,7 +6,7 @@ Brendan Dowd, Nathan Kosiba, Spencer Harrison
 
 ## Proposal Statement
 
-Our project is to uncover trends in college football data.  We'll examine relationships between indicators such as recruiting class, team game statistics (turnovers, passing/rushing yards), and rankings, and their effect on the success of a football team over the last 15 years of data.
+Our project is to uncover trends in college football data.  We'll examine relationships between indicators such as recruiting class, team game statistics (turnovers, passing/rushing yards), and ratings, and their effect on the success of a football team over the last 15 years of data.
 
 ## Research Questions
 

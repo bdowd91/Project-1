@@ -23,3 +23,5 @@ Beth Gillon
 *playCalls.ipynb* has api requests and data cleaning to play calling data for FBS teams from 2004 through 2019, output is *Data/fbsPlayCallData.csv*
 
 *recruitingAnalysis.ipynb* does analysis of recruiting data and win percentage
+
+*ratingOutcomeAnalysis* does analysis of the S&P+ ratings as a success outcome measure
