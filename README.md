@@ -3,8 +3,7 @@
 ## Members
 Brendan Dowd,
 Nathan Kosiba,
-Spencer Harrison,
-Beth Gillon
+Spencer Harrison
 
 ## Folders in repo
 
