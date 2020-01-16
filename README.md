@@ -21,6 +21,8 @@ Spencer Harrison
 
 *playCalls.ipynb* has api requests and data cleaning to play calling data for FBS teams from 2004 through 2019, output is *Data/fbsPlayCallData.csv*
 
+*ratingsExploreAndClean.ipynb* has api requests and data cleaning to get all of the S&P+ ratings for FBS teams from 2004 through 2019, output is *Data/fbsRatingData.csv*
+
 *recruitingAnalysis.ipynb* does analysis of recruiting data and success outcome measures (win percentage and S&P+ ratings)
 
 *playCallAnalysis.ipynb* does analysis of play calling splits and how they relate to win percentage
